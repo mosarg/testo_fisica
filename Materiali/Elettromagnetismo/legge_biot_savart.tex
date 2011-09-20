@@ -1,0 +1,56 @@
+\documentclass[a4paper,10pt,oneside]{article}
+%\newcounter{exercise}
+%\newenvironment{exercise}%
+%{\refstepcounter{exercise}\vspace{10pt}\par\noindent
+%\textbf{Esercizio \theexercise\ }
+%\begin{itshape}\par\noindent}
+%{\end{itshape}} 
+\newtheorem{es}{Esercizio}
+\usepackage[margin=3cm,noheadfoot]{geometry}
+\renewcommand{\top}{0cm}
+\renewcommand{\floatpagefraction}{0.98}
+\renewcommand{\topfraction}{1}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amscd}
+\usepackage{amssymb}
+\usepackage[italian]{babel}
+\usepackage[utf8x]{inputenc}
+\usepackage{mathrsfs}
+\thispagestyle{empty}
+\begin{document}
+
+{\Large La legge di Biot e Savart}\\
+
+
+\vspace{3cm}
+Come possiamo calcolare l'intensità del campo magnetico prodotto da un elemento infinitesimo $Id\mathbf{l}$ di corrente in un punto $\mathbf{r}$?
+Dallo studio della forza di Lorentz siamo riusciti a dedurre che la forza infinitesima esercitata da un campo magnetico \footnote{generato da un magnete permanente o da una distribuzione di corrente}$\mathbf{B'}$ su un elemento di corrente $d\mathbf{l}$ è:
+\begin{equation}
+ d\mathbf{F'}=Id\mathbf{l}\times \mathbf{B'}
+\end{equation}
+in virtù della terza legge di Newton tale forza deve essere uguale e contraria a quella esercitata dall'elemento di corrente sulla sorgente del campo $\mathbf{B'}$. Immaginiamo che ad una distanza $\mathbf{r}$ dall'elemento di corrente $Id\mathbf{l}$ sia posizionato un polo magnetico positivo unitario (possiamo immaginare che tale polo appartenga ad una barra magnetica molto lunga).
+Per la terza legge della dinamica la forza di reazione dovrà essere allora:
+\begin{equation}\label{reazione}
+ d\mathbf{F}=-d\mathbf{F'}=-Id\mathbf{l}\times \mathbf{B}'
+\end{equation}
+Dove $\mathbf{B}'$ è il campo magnetico creato dal polo magnetico in $\mathbf{r}$ e $d\mathbf{F}$ è la forza esercitata dall'elemento di corrente sul magnete. Dalla definizione dell'intensità magnetica $\mathbf{H}$ possiamo scrivere:
+\begin{equation}\label{defi}
+ \mu_0\mathbf{H}'=\mathbf{B}'=\frac{1}{4\pi}\left(-\frac{\mathbf{r}}{r^3}\right)
+\end{equation}
+La forza $d\mathbf{F}$ esercitata dall'elemento di corrente sul polo unitario in $\mathbf{r}$ è per definizione l'intensità magnetica $d\mathbf{H}$ generata dalla corrente in tale punto possiamo quindi scrivere:
+\begin{equation}
+ d\mathbf{H}=d\mathbf{F}
+\end{equation}
+manipolando leggermente la [\ref{reazione}] otteniamo (ricordiamo che $\mathbf{B}=\mu_0\mathbf{H}$):
+\begin{equation}\label{fine1}
+ d\mathbf{B}=\mu_0d\mathbf{H}=-\mu_0Id\mathbf{l}\times \mathbf{B}'
+\end{equation}
+sostituendo ora la [\ref{defi}] nella [\ref{fine1}] otteniamo:
+\begin{equation}
+ d\mathbf{B}=\frac{\mu_0I}{4\pi}\left(\frac{d\mathbf{l}\times \mathbf{r}}{r^3}\right)
+\end{equation}
+
+
+
+\end{document}

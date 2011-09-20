@@ -1,0 +1,81 @@
+\documentclass[a4paper,10pt,twoside]{article}
+\usepackage[italian]{babel}
+\usepackage[utf8x]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{amscd}
+\usepackage{graphicx}
+\newtheorem{defi}{Definizione}
+\newtheorem{teo}{Teorema}
+\newtheorem{cor}{Corollario}
+\newtheorem{note}{Nota}
+\newtheorem{es}{Esercizio}
+\parindent=0cm
+\thispagestyle{empty}
+\begin{document}
+\begin{center}
+{\Large \textbf{Le trasformazioni di Lorentz}} 
+\end{center}
+
+\vspace{1cm}
+
+Cerchiamo la relazione generale esistente tra le coordinate di due sistemi inerziali in moto relativo l'uno rispetto all'altro. I postulati su cui si basa la relatività ristretta ci dicono:
+\begin{itemize}
+\item La velocità della luce è la stessa in ogni sistema di riferimento
+\item Le leggi della fisica sono le stesse in due sistemi di riferimento inerziali in moto relativo
+\end{itemize}
+
+Consideriamo due sistemi di riferimento in moto relativo, $S$ ed $S'$, poniamo una sorgente luminosa nell'origine di $S$ e accendiamola al tempo $t=0$. Il fronte d'onda luminoso prodotto dalla sorgente sarà \footnote{Questa è l'equazione di una sfera di raggio $ct$}:
+\begin{equation}\label{fixed}
+x^2+y^2+z^2=c^2t^2
+\end{equation}
+se l'origine del sistema di riferimento $S'$ coincide con l'origine del sistema $S$ al tempo $t=t'=0$ allora un osservatore nel sistema $S'$  vede propagarsi dalla lampadina nell'origine del sistema $S$ un fronte d'onda sferico con equazione :
+\begin{equation}\label{move}
+x'^2+y'^2+z'^2=c^2t'^2
+\end{equation}
+
+Immaginiamo, ora, che il sistema $S'$ si muova nella direzione delle $x$ positive rispetto al sistema $S$ con velocità $V$. Usando la trasformazione di Galileo:
+\begin{equation}\label{galileo}
+x'=x-Vt\qquad y'=y\qquad z'=z\qquad t'=t
+\end{equation}
+e sostituendo ora le [\ref{galileo}] in [\ref{move}] otteniamo:
+\begin{equation}
+x^2-2xVt+V^2t^2+y^2+z^2=c^2t^2
+\end{equation}
+notiamo subito che questa equazione non è assolutamente uguale alla [\ref{fixed}]. Se è vero che la velocità della luce è costante in ogni sistema di riferimento \footnote{Di questo siamo ragionevolmente sicuri dato che ogni esperimento fino ad ora escogitato per confutare questo assunto ha avuto esito negativo} le trasformazioni di Galileo non sono corrette. Cerchiamo quindi delle trasformazioni che si riducano a quelle di Galileo per $V/c\to 0$ ovvero per velocità piccole rispetto alla velocità della luce e tali da far si che la [\ref{fixed}] si trasformi nella [\ref{move}].
+La trasformazione dovrà essere semplice in $y'$ e $z'$ dato che questi elementi si trasformano già in $z$ e $y$, la trasformazione dovrà poi essere lineare in $x$ e $t$ dato che la sfera si dovrà espandere con uguale velocità nei due sistemi di riferimento. Possiamo provare ad effettuare la trasformazione:
+\begin{equation}\label{prova}
+x'=\gamma(x-Vt)\qquad y'=y\qquad z'=z\qquad t'=\gamma(t+\phi x)
+\end{equation}
+nell'equazione [\ref{prova}] $\gamma$ e $\phi$ sono due costanti che dovremo determinare. Sostituiamo ora le [\ref{prova}] nella [\ref{move}]:
+\begin{equation}\label{sost}
+ x^2(\gamma^2-c^2\gamma^2\phi^2)+y^2+z^2-2\gamma tx(v+c^2\phi)=c^2t^2(\gamma^2-v^2/c^2)
+\end{equation}
+
+affinchè la [\ref{sost}] sia uguale alla [\ref{fixed}] dobbiamo trovare dei valori per $\gamma$ e $\phi$ che rendono uguali i coefficienti dei polinomi presenti nelle due equazioni. Dobbiamo quindi risolvere il sistema:
+\begin{equation}
+\begin{cases}
+\gamma^2-c^2\gamma^2\phi^2=1\\
+v+c^2\phi^2=0\\
+\gamma^2-v^2/c^2=1
+\end{cases}
+\end{equation}
+le cui soluzioni sono:
+\begin{equation}
+ \begin{cases}
+  \gamma=\frac{1}{\sqrt{1-v^2/c^2}}\\
+  \phi=-\frac{v}{c^2}
+ \end{cases}
+\end{equation}
+per cui le trasformazioni cercate sono:
+\begin{equation}
+x'=\frac{x-Vt}{\sqrt{1-v^2/c^2}}\qquad y'=y\qquad z'=z\qquad t'=\frac{t-v/c^2x}{\sqrt{1-v^2/c^2}}
+\end{equation}
+le trasformazioni inverse si ottengono semplicemente osservando che per un osservatore nel sistema $S'$ il sistema $S$ si muove in direzione $x$ con velocità $-V$ per tale osservatore le coordinate nel sistema $S$ saranno collegate alle proprie dalla relazione:
+\begin{equation}
+ x=\frac{x'+Vt'}{\sqrt{1-v^2/c^2}}\qquad y=y'\qquad z=z'\qquad t=\frac{t'+v/c^2x'}{\sqrt{1-v^2/c^2}}
+\end{equation}
+
+
+\end{document}

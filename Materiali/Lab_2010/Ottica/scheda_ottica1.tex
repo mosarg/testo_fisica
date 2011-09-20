@@ -1,0 +1,290 @@
+\documentclass[a4paper,10pt,oneside]{article}
+\usepackage[polutonikogreek,italian]{babel}
+\usepackage[utf8x]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{amscd}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{array}
+\usepackage{rotating}
+\usepackage[small]{caption}
+\usepackage{lscape}
+\usepackage{fancybox}
+\usepackage{booktabs}
+\parindent0ex 
+\renewcommand{\fboxsep}{0.5cm}
+\usepackage{hyperref}
+\renewcommand{\textfraction}{0.05}
+\renewcommand{\topfraction}{0.95}
+\renewcommand{\bottomfraction}{0.95}
+\renewcommand{\floatpagefraction}{0.35}
+\setcounter{totalnumber}{5}
+\restylefloat{figure}
+\newlength{\drop}
+\begin{document}
+
+\begin{center}
+{\huge Laboratorio di ottica Fisica}
+\end{center}
+
+\begin{abstract}
+ In questo laboratorio studieremo i fenomeni di interferenza e diffrazione che evidenziano la natura ondulatoria della luce. Ci soffermeremo su gli esperimenti di interferenza per divisione del fronte d'onda (Young, Fresnel, Loyd etc.) e di diffrazione da ostruzioni circolari e rettangolari. 
+\end{abstract}
+
+
+\vspace{1.5cm}
+
+
+\section{Richiami teorici}
+
+
+
+\subsection{Formazione delle immagini nelle lenti sottili}
+
+Durante il laboratorio di ottica fisica utilizzeremo delle lenti sottili biconvesse per ingrandire delle immagini su diapositiva e misurarne le dimensioni. Vediamo come usare a tale scopo una lente.
+
+\begin{figure}[H]
+ \centering
+ \includegraphics[width=\textwidth]{./Immagini/Lens3.png}
+ % Lens3.png: 2409x1147 pixel, 400dpi, 15.30x7.28 cm, bb=
+ \caption{Formazione dell'immagine reale in lente sottile biconvessa}
+ \label{fig:lenti_1}
+\end{figure}
+
+Facendo riferimento all'immagine [\ref{fig:lenti_1}] sia $f$ la lunghezza focale della lente, $S_1$ la distanza dell'oggetto (nel nostro caso la diapositiva) dalla lente ed $S_2$ la distanza dello schermo dall'oggetto. È molto importante che la distanza tra diapositiva e lente sia superiore alla lunghezza focale $f$ altrimenti l'immagine formata dalla lente sarà virtuale e dalla stessa parte dell'oggetto (es lente d'ingrandimento). Le distanze $S_1$ ed $S_2$ sono legate alla lunghezza focale della lente dalla nota relazione:
+\begin{equation}\label{lenti_sottili}
+ \frac{1}{S_1}+\frac{1}{S_2}=\frac{1}{f}
+\end{equation}
+Ricordando i teoremi sui triangoli simili possiamo dedurre dalla figura [\ref{fig:lenti_1}] che il rapporto tra la dimensione dell'immagine proiettata su uno schermo a distanza $S_2$ dalla lente e l'oggetto originale sarà uguale al rapporto tra le distanze $S_1$ ed $S_2$ di immagine e oggetto, possiamo quindi definire il fattore di ingrandimento come:
+\begin{equation}\label{ingrandimento}
+ i=-\frac{S_2}{S_1}=\frac{f}{f-S_1}
+\end{equation}
+dove il segno meno sta ad indicare che l'immagine reale è ribaltata. Utilizzeremo le relazioni [\ref{lenti_sottili}] e [\ref{ingrandimento}] per calcolare la distanza tra le fenditure nell'esperimento di Young e il diametro dei fori nell'esperienza sulla diffrazione della luce da parte di una apertura circolare.
+
+\subsection{Interferenza da due fenditure}
+
+Nel classico esperimento di  interferenza di Young una sorgente coerente di luce (utilizzeremo un laser He-Ne) illumina due fenditure sottilissime\footnote{I calcoli  effettuati presuppongono che le fenditure abbiano una larghezza infinitesima} se immaginiamo che la distanza tra le due fenditure sia piccola rispetto alla distanza tra le fenditure e lo schermo di osservazione  ovvero (in riferimento alla figura [\ref{fig:young1}]) che $\theta \sim \theta '$ osserveremo una interferenza costruttiva quando i cammini ottici $d_1$ e $d_2$ differiscono di un numero intero di lunghezze d'onda ed una interferenza distruttiva quando la differenza di cammino è pari ad un numero semi intero di lunghezze d'onda:
+\begin{equation}
+ d\sin \theta=n\lambda
+\end{equation}
+nel limite in cui $\theta \to 0$ si ha $\sin \theta \sim \theta \sim \tan \theta$ per cui possiamo scrivere:
+\begin{equation}
+ d\frac{y}{L}\sim n\lambda
+\end{equation}
+
+ovvero le posizioni $y$ sullo schermo di proiezione in cui compaiono i massimi sono:
+\begin{equation}
+ y\sim n\frac{\lambda L}{d}
+\end{equation}
+
+
+\begin{figure}[H]
+ \centering
+ \includegraphics[width=\textwidth]{./Immagini/young.png}
+ % young.png: 2436x1790 pixel, 400dpi, 15.47x11.37 cm, bb=
+ \caption{Interferenza doppia fenditura}
+ \label{fig:young1}
+\end{figure}
+
+In questo caso ideale dovremmo quindi ottenere un'intensità normalizzata in funzione dell'angolo $\theta$ di osservazione data dall'equazione [\ref{interferenza_1}]
+
+\begin{equation}\label{interferenza_1}
+\frac{I}{I_0}=\cos^2(\pi d \sin\theta/\lambda)
+\end{equation}
+
+vedremo invece che a causa dell'apertura finita delle fenditure il profilo normalizzato di intensità sarà:
+\begin{equation}
+ \frac{I}{I_0}=\left( \frac{\sin(\pi h \sin\theta/\lambda)}{\pi h \sin\theta/\lambda}\right)^2\cos^2(\pi d\sin\theta /\lambda)
+\end{equation}
+
+dove $h$ è l'apertura finita delle fenditure.
+\begin{figure}[H]
+ \centering
+ \includegraphics[width=\textwidth]{./Immagini/diffrazione.pdf}
+ % diffrazione.pdf: 770x472 pixel, 72dpi, 27.16x16.65 cm, bb=
+ \caption{Intensità normalizzata della figura di diffrazione prodotta da due fenditure di ampiezza $h=0.5\cdot 10^{-5}m$ i cui centri distano $d=3.5\cdot 10^{-5}m$}
+ \label{fig:int_duefenditure}
+\end{figure}
+
+
+
+\subsection{Gli specchi di Fresnel}
+
+Un altro sistema per la creazione di due sorgenti coerenti tramite la divisione del fronte d'onda  è rappresentato dagli specchi di Fresnel figura [\ref{fig:specchi_fresnel_martin}]
+\begin{figure}[H]
+ \centering
+ \includegraphics[width=0.5\textwidth]{./Immagini/08560_00.jpg}
+ % 08560_00.jpg: 372x325 pixel, 150dpi, 6.30x5.50 cm, bb=0 0 179 156
+ \caption{Specchi di Fresnel}
+ \label{fig:specchi_fresnel_1}
+\end{figure}
+
+
+
+come si può vedere dall'immagine l'apparecchiatura è composta da due specchi rettangolari di cui uno è bloccato sul fondo del contenitore metallico mentre l'altro, tramite le due manopole di regolazione, è inclinabile rispetto al primo al fine di produrre due sorgenti virtuali di luce. Tali sorgenti si comporteranno come le due fenditure nell'esperimento di Young, quindi nella zona di sovrapposizione dei due fasci di luce si noteranno delle bande di interferenza. Guardando la figura [\ref{fig:fresnel_mirror1}] possiamo vedere (usando un po' di trigonometria) come la  distanza $d$ tra le due sorgenti di luce virtuali $P_1$ e $P_2$ sia data da:
+\begin{equation}
+ d=2b\sin \alpha
+\end{equation}
+
+\begin{figure}[H]
+ \centering
+ \includegraphics[width=\textwidth]{./Immagini/fresnel_mirrors_comment.png}
+ % fresnel_mirrors1.png: 912x558 pixel, 90dpi, 25.74x15.75 cm, bb=
+ \caption{La creazione di due sorgenti coerenti virtuali tramite gli specchi inclinati di Fresnel}
+ \label{fig:fresnel_mirror1}
+\end{figure}
+
+Come possiamo misurare $d$? Guardiamo la figura [\ref{fig:fresnel_2}] dove utilizziamo una lente biconvessa per focalizzare i raggi delle due immagini virtuali su uno schermo di osservazione. Immaginiamo di conoscere la lunghezza focale della lente. Durante l'esperimento misureremo $A$ ed $L$ dove $A$ è la distanza tra le sorgenti virtuali sullo schermo di osservazione mentre $L$ è la distanza della lente dallo schermo. Basandoci su semplici considerazioni sui triangoli simili e sull'equazione delle lenti sottili [\ref{lenti_sottili}] possiamo scrivere:
+\begin{equation}
+ \frac{d}{A}=\frac{g}{L}
+\end{equation}
+ed inoltre:
+\begin{equation}
+ \frac{d}{A}=\frac{g-f}{f}
+\end{equation}
+
+da cui possiamo ricavare $g$ in funzione di $L$ e di $A$:
+\begin{equation}
+ g=\frac{Lf}{L-f}
+\end{equation}
+
+che utilizzando la [\ref{ingrandimento}] ci permette di calcolare $d$ da $A$.
+
+\begin{figure}[H]
+ \centering
+ \includegraphics[width=\textwidth]{./Immagini/fresnel_mirrors.png}
+ % fresnel_mirrors.png: 987x285 pixel, 90dpi, 27.86x8.04 cm, bb=
+ \caption{Determinazione della distanza tra le sorgenti virtuali}
+ \label{fig:fresnel_2}
+\end{figure}
+
+
+\subsection{Interferenza da n fenditure e reticoli di diffrazione}
+
+Aumentando il numero di fenditure infinitesime possiamo notare una variazione della distribuzione dell'intensità luminosa sullo schermo di osservazione. È possibile calcolare abbastanza semplicemente la risultante della sovrapposizione di più di due fenditure\footnote{Se volete approfondire potete consultare "La Fisica di Feynman" 30-I} che risulta essere:
+\begin{equation}
+ \frac{I}{I_0}=\frac{\sin^2(n \pi d \sin \theta/\lambda)}{\sin^2(\pi d \sin \theta/\lambda)}
+\end{equation}
+Con 5 fenditure di dimensione infinitesima dovremmo osservare una distribuzione di intensità come in figura [\ref{fig:reticolo1}]
+\begin{figure}[H]
+ \centering
+ \includegraphics[width=\textwidth]{./Immagini/reticolo1.pdf}
+ % reticolo1.pdf: 786x482 pixel, 72dpi, 27.73x17.00 cm, bb=
+ \caption{Figura di interferenza generata da 5 fenditure distanti l'una dall'altra $d=3.5\cdot 10^{-5}m$}
+ \label{fig:reticolo1}
+\end{figure}
+
+
+si può vedere semplicemente che i massimi si hanno quando:
+\begin{equation}
+ d\pi\sin\theta/\lambda=k\pi
+\end{equation}
+ovvero
+\begin{equation}
+ d\sin\theta=k\lambda
+\end{equation}
+
+chiaramente anche questa trattazione è approssimata dato che è impossibile costruire fenditure di ampiezza infinitesima, la corretta distribuzione di intensità nel caso reale con schermo distante dall'insieme di fenditure è:
+\begin{equation}
+ \frac{I}{I_0}=\frac{\sin^2 \beta}{\beta^2}\left(\frac{\sin N\gamma}{N\sin \gamma}\right)^2
+\end{equation}
+dove $\beta=\pi h\sin\theta/\lambda$ e $\gamma=\pi d\sin\theta/\lambda$
+
+Si può dimostrare che all'aumentare del numero di fenditure la dimensione angolare dei massimi diventa sempre più piccola, è possibile costruire sistemi con centinaia di migliaia di fenditure che prendono il nome di reticoli di diffrazione. In laboratorio misureremo la distanza tra le fenditure di un reticolo che è entrato nella nostra vita ormai da molti anni: il cd-rom. Vedremo che la distanza tra i solchi pre-incisi sulla superficie del cd è di $\sim\ 1.6\mu m$ 
+
+\subsection{La macchia di Poisson-Arago}
+Durante il laboratorio osserveremo qualitativamente il fenomeno che ha definitivamente sancito la vittoria del modello ondulatorio nella descrizione classica dei fenomeni ottici. La presenza di una macchia luminosa al centro dell'ombra geometrica proiettata da un occlusione circolare fu predetta per la prima volta nel 1818 da Poisson applicando la teoria di Fresnel. Arago riusci per primo, nello stesso anno, a trovare una conferma sperimentale alla predizione teorica di Poisson.\footnote{Il primo osservatore fu in realtà un secolo prima Maraldi, purtroppo la sua scoperta rimase sconosciuta ai più} 
+Per ripetere tale esperienza utilizzeremo come fonte di luce coerente un laser He-Ne e come ostruzione circolare un cuscinetto a sfera in acciaio sospeso tramite uno spillo al polo di una calamita.
+
+\begin{figure}[H]
+ \centering
+ \includegraphics[width=0.7\textwidth]{./Immagini/poisson_spot3.jpg}
+ % poisson_spot3.jpg: 291x306 pixel, 72dpi, 10.27x10.80 cm, bb=
+ \caption{Macchia di Poisson Arago}
+ \label{fig:poisson_arago}
+\end{figure}
+
+
+\subsection{Diffrazione di Fraunhofer}
+
+In laboratorio studieremo il fenomeno della diffrazione nel caso semplice (anche se di grande utilità pratica) di Fraunhofer, ovvero quando la sorgente luminosa e lo schermo di proiezione sono lontani dall'occlusione o dall'apertura. Ci limiteremo allo studio di un'apertura rettangolare e di un'apertura circolare. In questa esperienza calcoleremo sia la dimensione delle aperture partendo dalla conoscenza della lunghezza d'onda del laser (632.8 nm) sia la lunghezza d'onda del laser partendo dalla misura della dimensione delle aperture.  Si può dimostrare che l'intensità normalizzata della figura di diffrazione sullo schermo è:
+\begin{equation}
+ \frac{I}{I_0}=\frac{\sin^2(d\pi\sin\theta/\lambda) }{(d\pi\sin\theta/\lambda)^2}
+\end{equation}
+dove $d$ è la dimensione della fenditura. Gli zeri di intensità saranno quindi quelli in cui si annulla il numeratore ovvero:
+\begin{equation}
+ d\pi\sin\theta/\lambda=k\pi
+\end{equation}
+
+\begin{equation}
+ d\sin\theta=k\lambda
+\end{equation}
+
+mentre i massimi sia avranno negli zeri dell'equazione:
+\begin{equation}
+ \tan(d\pi\sin\theta/\lambda)=d\pi\sin\theta/\lambda
+\end{equation}
+
+\begin{figure}[H]
+ \centering
+ \includegraphics[width=\textwidth]{./Immagini/diffrazione2.pdf}
+ % diffrazione2.pdf: 613x373 pixel, 72dpi, 21.63x13.16 cm, bb=
+ \caption{Intensità normalizzata della figura di diffrazione generata da una fenditura di ampiezza $d=3.5\cdot 10^{-5}$}
+ \label{fig:diffrazione_slit}
+\end{figure}
+
+\subsubsection{Diffrazione da una fenditura rettangolare}
+In natura non esistono fenditure infinitamente lunghe, in laboratorio useremo quindi un'apertura rettangolare si può dimostrare che l'intensità sullo schermo è data da:
+\begin{equation}
+ \frac{I}{I_0}=\left(\frac{\sin\alpha}{\alpha}\right)^2\left(\frac{\sin\beta}{\beta}\right)^2
+\end{equation}
+dove $\alpha=a\pi\sin\varphi/\lambda$ e $\beta=b\pi\sin\theta/\lambda$ $a$ e $b$ sono le dimensioni lineari dell'apertura.
+
+\begin{figure}[H]
+ \centering
+ \includegraphics[width=\textwidth]{./Immagini/diffrazione3.pdf}
+ % diffrazione3.pdf: 506x475 pixel, 72dpi, 17.85x16.76 cm, bb=
+ \caption{Figura di diffrazione di un fenditura quadrata di lato $l=3.5\cdot 10^{-5}m$}
+ \label{fig:diffrazione3}
+\end{figure}
+
+
+
+
+\subsubsection{Diffrazione da una fenditura circolare}
+
+
+L'ultima apertura di cui osserveremo la figura di diffrazione in laboratorio è quella circolare per le ovvie applicazioni pratiche che questa presenta. La derivazione del profilo di intensità esula dai programmi delle scuole superiori dato che coinvolge una funzione di Bessel del primo ordine:
+
+\begin{equation}
+ \frac{I}{I_0}=\left[\frac{J_1(2\pi R\sin\theta/\lambda)}{\pi R \sin\theta/\lambda}\right]^2
+\end{equation}
+
+
+\begin{figure}[H]
+ \centering
+ \includegraphics[width=\textwidth]{./Immagini/diffrazione4.pdf}
+ % diffrazione4.pdf: 564x558 pixel, 72dpi, 19.90x19.68 cm, bb=0 0 564 558
+ \caption{Figura di diffrazione di una apertura circolare di raggio $R=2\cdot 10^{-6}$}
+ \label{fig:diffrazione_circolare}
+\end{figure}
+
+
+\begin{figure}
+ \centering
+ \includegraphics[width=\textwidth]{./Immagini/diffrazione5.pdf}
+ % diffrazione5.pdf: 800x491 pixel, 72dpi, 28.22x17.32 cm, bb=0 0 800 491
+ \caption{Profilo di intensità normalizzato della diffrazione da una fenditura circolare}
+ \label{fig:bessel_2}
+\end{figure}
+
+La dimensione angolare del primo minimo è:
+\begin{equation}
+ \sin\theta=\frac{1.22\lambda}{D}
+\end{equation}
+dove $D$ è il diametro della fenditura circolare e il numero 1.22 deriva dal primo zero della funzione di Bessel $J_1$, $1.22\sim 3.832/\pi$.
+
+
+\end{document}

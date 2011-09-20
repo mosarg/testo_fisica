@@ -1,0 +1,879 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="711"
+   height="514"
+   id="svg3536"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="Ebohr1.svg">
+  <metadata
+     id="metadata4344">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="976"
+     id="namedview4342"
+     showgrid="false"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="394.42807"
+     inkscape:cy="265.60997"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3536" />
+  <defs
+     id="defs3538">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 257 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="711 : 257 : 1"
+       inkscape:persp3d-origin="355.5 : 171.33333 : 1"
+       id="perspective4346" />
+    <linearGradient
+       id="linearGradient4043">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0"
+         id="stop4069" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0.03125"
+         id="stop4103" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0.0625"
+         id="stop4087" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0.09375"
+         id="stop4105" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0.125"
+         id="stop4079" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0.15625"
+         id="stop4107" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0.1875"
+         id="stop4089" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0.21875"
+         id="stop4109" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0.25"
+         id="stop4077" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0.28125"
+         id="stop4111" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0.3125"
+         id="stop4091" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0.34375"
+         id="stop4113" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0.375"
+         id="stop4081" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0.40625"
+         id="stop4115" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0.4375"
+         id="stop4093" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0.46875"
+         id="stop4117" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0.5"
+         id="stop4071" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0.53125"
+         id="stop4119" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0.5625"
+         id="stop4095" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0.59375"
+         id="stop4121" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0.625"
+         id="stop4083" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0.65625"
+         id="stop4123" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0.6875"
+         id="stop4097" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0.71875"
+         id="stop4125" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0.75"
+         id="stop4073" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0.78125"
+         id="stop4127" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0.8125"
+         id="stop4099" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0.84375"
+         id="stop4129" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0.875"
+         id="stop4085" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0.90625"
+         id="stop4131" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0.9375"
+         id="stop4101" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0.96875"
+         id="stop4133" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop4047" />
+    </linearGradient>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       style="overflow:visible"
+       id="Arrow2Lend">
+      <path
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.97309,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path3741" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       style="overflow:visible"
+       id="Arrow2Mend">
+      <path
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.97309,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(-0.6,-0.6)"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path3747" />
+    </marker>
+    <linearGradient
+       x1="690.73456"
+       y1="583.29871"
+       x2="690.73456"
+       y2="-144.68094"
+       id="linearGradient4053"
+       xlink:href="#linearGradient4043"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(17.74484,276.68182)"
+       spreadMethod="pad" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4043"
+       id="linearGradient4355"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0006811,0,0,0.94163734,-27.816769,-6.872827)"
+       spreadMethod="pad"
+       x1="690.73456"
+       y1="583.29871"
+       x2="690.73456"
+       y2="-144.68094" />
+    <inkscape:perspective
+       id="perspective5008"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5065"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5094"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5137"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5207"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5261"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5286"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <path
+     id="path3644"
+     style="fill:#000000;fill-opacity:0.50196078;fill-rule:evenodd;stroke:#000000;stroke-width:0.9911893;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     d="m 375.43601,57.681455 0,124.446315 3.00723,-13.04324 0,-111.403075 -3.00723,0 z"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_ottica_1/Scheda_ottica_1/Immagini/young.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400" />
+  <path
+     id="path3628"
+     style="fill:#000000;fill-opacity:0.50196078;fill-rule:evenodd;stroke:#000000;stroke-width:1.06619406;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     d="m 375.4706,191.6581 0,104.6838 3.47671,-13.05394 0,-78.54439 -3.47671,-13.08547 z"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_ottica_1/Scheda_ottica_1/Immagini/young.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400" />
+  <path
+     id="path3630"
+     style="fill:#000000;fill-opacity:0.50196078;fill-rule:evenodd;stroke:#000000;stroke-width:0.99118847;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     d="m 375.43601,305.87223 0,124.47757 3.00723,0 0,-111.40285 -3.00723,-13.07472 z"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_ottica_1/Scheda_ottica_1/Immagini/young.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400" />
+  <text
+     xml:space="preserve"
+     id="text3647"
+     style="font-size:26.37513351px;font-style:normal;font-weight:bold;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman"
+     y="215.96808"
+     x="188.58142"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_ottica_1/Scheda_ottica_1/Immagini/young.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400"><tspan
+       id="tspan3649"
+       y="215.96808"
+       x="188.58142">a</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text3651"
+     style="font-size:19.08595085px;font-style:normal;font-weight:bold;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman"
+     y="181.21066"
+     x="342.34842"
+     transform="scale(1.0693774,0.93512355)"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_ottica_1/Scheda_ottica_1/Immagini/young.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400"><tspan
+       id="tspan3653"
+       y="181.21066"
+       x="342.34842">b</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text3655"
+     style="font-size:19.8776722px;font-style:normal;font-weight:bold;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman"
+     y="340.05588"
+     x="367.17325"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_ottica_1/Scheda_ottica_1/Immagini/young.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400"><tspan
+       id="tspan3657"
+       y="340.05588"
+       x="367.17325">c</tspan></text>
+  <path
+     id="path3669"
+     style="fill:none;stroke:#000000;stroke-width:1.10163164;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     d="m 382.88028,186.88899 236.36309,0"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_ottica_1/Scheda_ottica_1/Immagini/young.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400" />
+  <path
+     d="m 316.80788,143.75779 a 179.70663,179.70663 0 0 1 -1e-5,200.98135"
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     id="path3685"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_ottica_1/Scheda_ottica_1/Immagini/young.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400" />
+  <path
+     d="m 300.13303,155.00512 a 159.59312,159.59312 0 0 1 -1e-5,178.48669"
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     id="path3687"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_ottica_1/Scheda_ottica_1/Immagini/young.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400" />
+  <path
+     d="m 284.56982,165.50263 a 140.82051,140.82051 0 0 1 0,157.49166"
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     id="path3689"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_ottica_1/Scheda_ottica_1/Immagini/young.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400" />
+  <path
+     d="m 269.00662,176.00014 a 122.0479,122.0479 0 0 1 -10e-6,136.49664"
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     id="path3691"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_ottica_1/Scheda_ottica_1/Immagini/young.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400" />
+  <path
+     d="m 253.44342,186.49766 a 103.27528,103.27528 0 0 1 -1e-5,115.50161"
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     id="path3693"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_ottica_1/Scheda_ottica_1/Immagini/young.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400" />
+  <path
+     d="m 237.88022,196.99517 a 84.50267,84.50267 0 0 1 -1e-5,94.50659"
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     id="path3695"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_ottica_1/Scheda_ottica_1/Immagini/young.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400" />
+  <path
+     d="m 222.87285,207.11777 a 66.400513,66.400513 0 0 1 -1e-5,74.26139"
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     id="path3697"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_ottica_1/Scheda_ottica_1/Immagini/young.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400" />
+  <path
+     d="m 207.30965,217.61528 a 47.627903,47.627903 0 0 1 0,53.26637"
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     id="path3699"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_ottica_1/Scheda_ottica_1/Immagini/young.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400" />
+  <path
+     d="m 191.74645,228.11279 a 28.855291,28.855291 0 0 1 0,32.27134"
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     id="path3701"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_ottica_1/Scheda_ottica_1/Immagini/young.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400" />
+  <path
+     id="path3703"
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     d="m 160.23765,244.01563 214.54413,56.98828"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_ottica_1/Scheda_ottica_1/Immagini/young.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400" />
+  <path
+     id="path3705"
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     d="M 160.23765,244.01562 374.78178,187.02734"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_ottica_1/Scheda_ottica_1/Immagini/young.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400" />
+  <path
+     id="path3923"
+     style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+     d="m 356.39568,286.93815 20.96216,14.71358 -25.5005,2.37192 c 5.05111,-4.05779 6.86269,-10.96404 4.53834,-17.0855 z"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_ottica_1/Scheda_ottica_1/Immagini/young.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400" />
+  <path
+     id="path3931"
+     style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+     d="m 351.83925,183.9395 25.50051,2.37193 -20.96217,14.71357 c 2.37168,-6.02948 0.51733,-12.92436 -4.53834,-17.0855 z"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_ottica_1/Scheda_ottica_1/Immagini/young.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400" />
+  <path
+     id="path4021"
+     style="fill:none;stroke:#000000;stroke-width:1.15515327;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     d="M 381.22594,299.5004 619.07653,186.65862"
+     sodipodi:nodetypes="cc"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_ottica_1/Scheda_ottica_1/Immagini/young.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400" />
+  <rect
+     id="rect4035"
+     style="fill:#000000;fill-opacity:0.50196078;fill-rule:evenodd;stroke:#000000;stroke-width:1.91289687;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     y="29.453936"
+     x="620.22321"
+     height="385.53281"
+     width="17.421413"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_ottica_1/Scheda_ottica_1/Immagini/young.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400" />
+  <g
+     id="g5044"
+     transform="translate(-150.11338,-287.24416)">
+    <path
+       d="m 553.52821,75.9008 a 198.47925,198.47925 0 0 1 -10e-6,221.97637"
+       style="fill:none;stroke:#b3a3a3;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3954" />
+    <g
+       id="g4963">
+      <path
+         id="path3956"
+         style="fill:none;stroke:#b3a3a3;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m 537.96501,86.39831 a 179.70663,179.70663 0 0 1 -10e-6,200.98135" />
+      <path
+         id="path3958"
+         style="fill:none;stroke:#b3a3a3;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m 521.29016,97.64564 a 159.59312,159.59312 0 0 1 -10e-6,178.48669" />
+      <path
+         id="path3960"
+         style="fill:none;stroke:#b3a3a3;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m 505.72695,108.14315 a 140.82051,140.82051 0 0 1 0,157.49166" />
+      <path
+         id="path3962"
+         style="fill:none;stroke:#b3a3a3;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m 490.16375,118.64066 a 122.0479,122.0479 0 0 1 -10e-6,136.49664" />
+      <path
+         id="path3964"
+         style="fill:none;stroke:#b3a3a3;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m 474.60055,129.13818 a 103.27528,103.27528 0 0 1 -10e-6,115.50161" />
+      <path
+         id="path3966"
+         style="fill:none;stroke:#b3a3a3;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m 459.03735,139.63569 a 84.50267,84.50267 0 0 1 -1e-5,94.50659" />
+      <path
+         id="path3968"
+         style="fill:none;stroke:#b3a3a3;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m 444.02998,149.75829 a 66.400513,66.400513 0 0 1 -1e-5,74.26139" />
+      <path
+         id="path3970"
+         style="fill:none;stroke:#b3a3a3;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m 428.46678,160.2558 a 47.627903,47.627903 0 0 1 0,53.26637" />
+      <path
+         id="path3972"
+         style="fill:none;stroke:#b3a3a3;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m 412.90358,170.75331 a 28.855291,28.855291 0 0 1 0,32.27134" />
+    </g>
+  </g>
+  <g
+     id="g4974"
+     style="stroke:#ed6969;stroke-width:0.89999998;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     transform="translate(-393.7596,-399.40147)">
+    <path
+       d="m 553.52821,190.15408 a 198.47925,198.47925 0 0 1 -10e-6,221.97637"
+       style="fill:none;stroke:#ed6969;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3978" />
+    <path
+       d="m 537.96501,200.65159 a 179.70663,179.70663 0 0 1 -10e-6,200.98135"
+       style="fill:none;stroke:#ed6969;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3980" />
+    <path
+       d="m 521.29016,211.89892 a 159.59312,159.59312 0 0 1 -10e-6,178.48669"
+       style="fill:none;stroke:#ed6969;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3982" />
+    <path
+       d="m 505.72695,222.39643 a 140.82051,140.82051 0 0 1 0,157.49166"
+       style="fill:none;stroke:#ed6969;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3984" />
+    <path
+       d="m 490.16375,232.89394 a 122.0479,122.0479 0 0 1 -10e-6,136.49664"
+       style="fill:none;stroke:#ed6969;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3986" />
+    <path
+       d="m 474.60055,243.39146 a 103.27528,103.27528 0 0 1 -10e-6,115.50161"
+       style="fill:none;stroke:#ed6969;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3988" />
+    <path
+       d="m 459.03735,253.88897 a 84.50267,84.50267 0 0 1 -1e-5,94.50659"
+       style="fill:none;stroke:#ed6969;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3990" />
+    <path
+       d="m 444.02998,264.01157 a 66.400513,66.400513 0 0 1 -1e-5,74.26139"
+       style="fill:none;stroke:#ed6969;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3992" />
+    <path
+       d="m 428.46678,274.50908 a 47.627903,47.627903 0 0 1 0,53.26637"
+       style="fill:none;stroke:#ed6969;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3994" />
+    <path
+       d="m 412.90358,285.00659 a 28.855291,28.855291 0 0 1 0,32.27134"
+       style="fill:none;stroke:#ed6969;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3996" />
+  </g>
+  <rect
+     id="rect4041"
+     style="fill:url(#linearGradient4355);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.9707104;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     y="28.611168"
+     x="641.89429"
+     height="386.0658"
+     width="43.029293"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_ottica_1/Scheda_ottica_1/Immagini/young.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400" />
+  <text
+     xml:space="preserve"
+     id="text4147"
+     style="font-size:33.37693024px;font-style:normal;font-weight:bold;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman"
+     y="492.8996"
+     x="628.88513"><tspan
+       id="tspan4149"
+       y="492.8996"
+       x="628.88513">F</tspan></text>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.614;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.456,2.456;stroke-dashoffset:0"
+     d="m 383.33615,241.75424 236.82558,0"
+     id="path4986"
+     sodipodi:nodetypes="cc"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_ottica_1/Scheda_ottica_1/Immagini/young.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1.2,1.2;stroke-dashoffset:0"
+     d="m 382.77754,187.03284 41.92585,90.93009"
+     id="path4988"
+     sodipodi:nodetypes="cc"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_ottica_1/Scheda_ottica_1/Immagini/young.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:3.6,3.6;stroke-dashoffset:0"
+     d="M 382.5053,241.20975 618.27013,186.76059"
+     id="path4992"
+     sodipodi:nodetypes="cc"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_ottica_1/Scheda_ottica_1/Immagini/young.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400" />
+  <text
+     xml:space="preserve"
+     style="font-size:16.3345623px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     x="353.91794"
+     y="376.54959"
+     id="text4994"
+     transform="matrix(0.97472326,-0.31197148,0.29784993,0.9306019,0,0)"
+     inkscape:transform-center-y="4.6251394"
+     inkscape:transform-center-x="0.16780337"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_ottica_1/Scheda_ottica_1/Immagini/young.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400"><tspan
+       sodipodi:role="line"
+       id="tspan4996"
+       x="353.91794"
+       y="376.54959"
+       style="font-size:16.3345623px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aristarcoj;-inkscape-font-specification:Aristarcoj">q</tspan></text>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1.2,1.2;stroke-dashoffset:0"
+     d="m 382.77754,187.57733 -0.81673,111.34852"
+     id="path4998"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_ottica_1/Scheda_ottica_1/Immagini/young.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400" />
+  <text
+     xml:space="preserve"
+     style="font-size:16.3345623px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     x="290.80463"
+     y="346.9364"
+     id="text4994-9"
+     transform="matrix(0.97472326,-0.31197148,0.29784993,0.9306019,0,0)"
+     inkscape:transform-center-y="4.6251394"
+     inkscape:transform-center-x="0.16780337"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_ottica_1/Scheda_ottica_1/Immagini/young.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400"><tspan
+       sodipodi:role="line"
+       id="tspan4996-4"
+       x="290.80463"
+       y="346.9364"
+       style="font-size:16.3345623px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aristarcoj;-inkscape-font-specification:Aristarcoj">q'</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:19.55357742px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     x="363.85059"
+     y="240.20529"
+     id="text5025"
+     transform="scale(0.96319516,1.0382112)"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_ottica_1/Scheda_ottica_1/Immagini/young.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400"><tspan
+       sodipodi:role="line"
+       id="tspan5027"
+       x="363.85059"
+       y="240.20529">d</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:46.05269623px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     x="766.07294"
+     y="129.39455"
+     id="text5040"
+     transform="matrix(0.45806468,-0.01724035,0.09349486,2.1795789,0,0)"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_ottica_1/Scheda_ottica_1/Immagini/young.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400"><tspan
+       sodipodi:role="line"
+       id="tspan5042"
+       x="766.07294"
+       y="129.39455"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:LMRomanSlant12;-inkscape-font-specification:LMRomanSlant12 Bold Italic">{</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:97.56915283px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     x="-723.8656"
+     y="250.26022"
+     id="text5040-0"
+     transform="matrix(-0.00843329,-0.46030889,2.1715018,-0.05198735,0,0)"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_ottica_1/Scheda_ottica_1/Immagini/young.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400"><tspan
+       sodipodi:role="line"
+       id="tspan5042-7"
+       x="-723.8656"
+       y="250.26022"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:LMRomanSlant12;-inkscape-font-specification:LMRomanSlant12 Bold Italic">{</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     x="486.23093"
+     y="351.74152"
+     id="text5082"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_ottica_1/Scheda_ottica_1/Immagini/young.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400"><tspan
+       sodipodi:role="line"
+       id="tspan5084"
+       x="486.23093"
+       y="351.74152">L</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:31.57957649px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     x="876.59869"
+     y="158.44856"
+     id="text5040-9"
+     transform="matrix(0.66799866,-0.01182217,0.13634415,1.494596,0,0)"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_ottica_1/Scheda_ottica_1/Immagini/young.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400"><tspan
+       sodipodi:role="line"
+       id="tspan5042-0"
+       x="876.59869"
+       y="158.44856"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:LMRomanSlant12;-inkscape-font-specification:LMRomanSlant12 Bold Italic">{</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:16.07415581px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     x="655.12402"
+     y="199.22946"
+     id="text5111"
+     transform="scale(0.91123721,1.0974091)"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_ottica_1/Scheda_ottica_1/Immagini/young.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400"><tspan
+       sodipodi:role="line"
+       id="tspan5113"
+       x="655.12402"
+       y="199.22946">y</tspan></text>
+  <g
+     id="g5193"
+     transform="matrix(0.36861399,0,0,0.41061979,290.29764,116.76981)"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_ottica_1/Scheda_ottica_1/Immagini/young.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400">
+    <text
+       id="text5115"
+       y="161.71399"
+       x="446.91302"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="161.71399"
+         x="446.91302"
+         id="tspan5117"
+         sodipodi:role="line">d</tspan></text>
+    <text
+       transform="scale(1.2745487,0.78459145)"
+       id="text5119"
+       y="212.08078"
+       x="366.1517"
+       style="font-size:24.56778336px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="212.08078"
+         x="366.1517"
+         id="tspan5121"
+         sodipodi:role="line">1</tspan></text>
+  </g>
+  <g
+     id="g5193-0"
+     transform="matrix(0.36861399,0,0,0.41061979,310.07277,207.62511)"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_ottica_1/Scheda_ottica_1/Immagini/young.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400">
+    <g
+       id="g5243">
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         x="446.91302"
+         y="161.71399"
+         id="text5115-5"><tspan
+           sodipodi:role="line"
+           id="tspan5117-6"
+           x="446.91302"
+           y="161.71399">d</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:24.56778336px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         x="367.21594"
+         y="212.85677"
+         id="text5119-6"
+         transform="scale(1.2745487,0.78459145)"><tspan
+           sodipodi:role="line"
+           id="tspan5121-7"
+           x="367.21594"
+           y="212.85677">2</tspan></text>
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     x="401.29025"
+     y="277.14618"
+     id="text5169"><tspan
+       sodipodi:role="line"
+       id="tspan5171"
+       x="401.29025"
+       y="277.14618" /></text>
+  <text
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     x="398.29556"
+     y="264.35065"
+     id="text5173"><tspan
+       sodipodi:role="line"
+       id="tspan5175"
+       x="398.29556"
+       y="264.35065"></tspan><tspan
+       sodipodi:role="line"
+       x="398.29556"
+       y="314.35065"
+       id="tspan5177" /></text>
+  <g
+     id="g5187"
+     transform="matrix(0.30081066,-0.14367137,0.18302501,0.38320699,244.54623,309.64805)"
+     inkscape:transform-center-x="-2.8901269"
+     inkscape:transform-center-y="-7.6159642"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_ottica_1/Scheda_ottica_1/Immagini/young.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400">
+    <text
+       id="text5179"
+       y="111.07627"
+       x="427.69809"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aristarcoj;-inkscape-font-specification:Aristarcoj"
+         y="111.07627"
+         x="427.69809"
+         id="tspan5181"
+         sodipodi:role="line">D</tspan></text>
+    <text
+       transform="scale(1.0589043,0.94437241)"
+       id="text5183"
+       y="118.03279"
+       x="429.95297"
+       style="font-size:28.42575645px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       xml:space="preserve"><tspan
+         y="118.03279"
+         x="429.95297"
+         id="tspan5185"
+         sodipodi:role="line">d</tspan></text>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+     x="135"
+     y="256"
+     id="text5249"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_ottica_1/Scheda_ottica_1/Immagini/young.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400"><tspan
+       sodipodi:role="line"
+       id="tspan5251"
+       x="135"
+       y="256">S</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+     x="339.31998"
+     y="165.42001"
+     id="text5249-9"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_ottica_1/Scheda_ottica_1/Immagini/young.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400"><tspan
+       sodipodi:role="line"
+       id="tspan5251-6"
+       x="339.31998"
+       y="165.42001">S</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+     x="343.82001"
+     y="333.91998"
+     id="text5249-9-6"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_ottica_1/Scheda_ottica_1/Immagini/young.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400"><tspan
+       sodipodi:role="line"
+       id="tspan5251-6-0"
+       x="343.82001"
+       y="333.91998">S</tspan></text>
+</svg>
