@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="gravita.svg"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg6826"
+   version="1.1"
+   inkscape:version="0.47 r22583">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.80240047"
+     inkscape:cx="470.46327"
+     inkscape:cy="761.75482"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="976"
+     inkscape:window-x="0"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1" />
+  <defs
+     id="defs6828">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path3707"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mstart"
+       style="overflow:visible">
+      <path
+         id="path3704"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.4) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path3701"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <linearGradient
+       id="linearGradient7918">
+      <stop
+         id="stop7928"
+         offset="0"
+         style="stop-color:#070016;stop-opacity:1;" />
+      <stop
+         style="stop-color:#868686;stop-opacity:1;"
+         offset="1"
+         id="stop7922" />
+    </linearGradient>
+    <inkscape:perspective
+       id="perspective6834"
+       inkscape:persp3d-origin="325.82593 : 1082.3021 : 1"
+       inkscape:vp_z="714.39014 : 839.08029 : 1"
+       inkscape:vp_y="135.81816 : -2000 : 0"
+       inkscape:vp_x="-15.09498 : 623.94911 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective6860" />
+    <inkscape:perspective
+       id="perspective7829"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective7877"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7918"
+       id="radialGradient7924"
+       cx="108.08632"
+       cy="417.98639"
+       fx="108.08632"
+       fy="417.98639"
+       r="27.624118"
+       gradientTransform="matrix(1,0,0,1.0365678,0,-15.284836)"
+       gradientUnits="userSpaceOnUse" />
+    <inkscape:perspective
+       id="perspective8134"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <metadata
+     id="metadata6831">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <g
+       id="g7851"
+       transform="translate(79.802052,-555.5839)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_meccanica_1/Scheda/Immagini/gravita.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 110.61171,746.79103 83.84267,-89.90357 260.61935,113.13708 -78.7919,95.9645 -90.91372,-38.3858 37.37564,-45.45687 -75.76144,-34.34518 -41.41626,44.44671 -94.95434,-45.45687 z"
+         id="path6850-9"
+         sodipodi:nodetypes="ccccccccc" />
+      <path
+         style="fill:#878787;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 110.6117,746.79102 -1.01014,-41.41625 157.83633,-47.22463 185.11045,66.92261 1.51523,45.96193 -77.78175,94.95435 -90.91372,-38.3858 -2.0203,-43.43657 39.39594,-2.0203 -75.76144,-34.34518 -41.41626,44.44671 -94.95434,-45.45687 z"
+         id="path6850-9-4"
+         sodipodi:nodetypes="cccccccccccc" />
+      <path
+         style="fill:#5e5e5e;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 108.08633,703.85954 83.84267,-89.90357 261.12443,111.11677 -79.29698,97.98481 -90.91372,-38.3858 37.37564,-45.45687 -75.76144,-34.34518 -41.41626,44.44671 -94.95434,-45.45687 z"
+         id="path6850"
+         sodipodi:nodetypes="ccccccccc" />
+      <path
+         id="path7843"
+         d="m 202.53559,749.8215 3.03045,41.92133"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path7845"
+         d="m 244.45692,705.87986 2.52538,41.92133"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path7847"
+         d="m 374.26152,822.55248 2.0203,41.92133"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="matrix(1.3309312,0.44724071,0,0.84950269,-146.75844,133.58618)"
+         d="m 331.42856,551.64789 c 0,7.49529 -5.43654,13.57143 -12.14285,13.57143 -6.70632,0 -12.14286,-6.07614 -12.14286,-13.57143 0,-7.49529 5.43654,-13.57143 12.14286,-13.57143 6.70631,0 12.14285,6.07614 12.14285,13.57143 z"
+         sodipodi:ry="13.571428"
+         sodipodi:rx="12.142858"
+         sodipodi:cy="551.64789"
+         sodipodi:cx="319.28571"
+         id="path7849"
+         style="fill:#ef0000;fill-opacity:1;stroke:#000501;stroke-width:0.69999999;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       id="g7851-9"
+       transform="translate(71.97336,5.3033056)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_meccanica_1/Scheda/Immagini/gravita.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 110.61171,746.79103 83.84267,-89.90357 260.61935,113.13708 -78.7919,95.9645 -90.91372,-38.3858 37.37564,-45.45687 -75.76144,-34.34518 -41.41626,44.44671 -94.95434,-45.45687 z"
+         id="path6850-9-7"
+         sodipodi:nodetypes="ccccccccc" />
+      <path
+         style="fill:#878787;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 110.6117,746.79102 -1.01014,-41.41625 157.83633,-47.22463 185.11045,66.92261 1.51523,45.96193 -77.78175,94.95435 -90.91372,-38.3858 -2.0203,-43.43657 39.39594,-2.0203 -75.76144,-34.34518 -41.41626,44.44671 -94.95434,-45.45687 z"
+         id="path6850-9-4-2"
+         sodipodi:nodetypes="cccccccccccc" />
+      <path
+         style="fill:#5e5e5e;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 108.08633,703.85954 83.84267,-89.90357 261.12443,111.11677 -79.29698,97.98481 -90.91372,-38.3858 37.37564,-45.45687 -75.76144,-34.34518 -41.41626,44.44671 -94.95434,-45.45687 z"
+         id="path6850-5"
+         sodipodi:nodetypes="ccccccccc" />
+      <path
+         id="path7843-8"
+         d="m 202.53559,749.8215 3.03045,41.92133"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path7845-9"
+         d="m 244.45692,705.87986 2.52538,41.92133"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         id="path7847-0"
+         d="m 374.26152,822.55248 2.0203,41.92133"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="matrix(1.3309312,0.44724071,0,0.84950269,-146.75844,133.58618)"
+         d="m 331.42856,551.64789 c 0,7.49529 -5.43654,13.57143 -12.14285,13.57143 -6.70632,0 -12.14286,-6.07614 -12.14286,-13.57143 0,-7.49529 5.43654,-13.57143 12.14286,-13.57143 6.70631,0 12.14285,6.07614 12.14285,13.57143 z"
+         sodipodi:ry="13.571428"
+         sodipodi:rx="12.142858"
+         sodipodi:cy="551.64789"
+         sodipodi:cx="319.28571"
+         id="path7849-2"
+         style="fill:#ef0000;fill-opacity:1;stroke:#000501;stroke-width:0.69999999;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Lend)"
+       d="m 328.29958,259.39243 c 1.01015,81.82236 1.01015,91.92388 1.01015,91.92388"
+       id="path7930"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_meccanica_1/Scheda/Immagini/gravita.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       sodipodi:type="arc"
+       style="fill:url(#radialGradient7924);fill-opacity:1;stroke:none"
+       id="path7914"
+       sodipodi:cx="108.08632"
+       sodipodi:cy="417.98639"
+       sodipodi:rx="27.274118"
+       sodipodi:ry="28.284271"
+       d="m 135.36044,417.98639 a 27.274118,28.284271 0 1 1 -54.548239,0 27.274118,28.284271 0 1 1 54.548239,0 z"
+       transform="translate(220.21325,-181.82745)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_meccanica_1/Scheda/Immagini/gravita.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="296.98483"
+       y="314.95084"
+       id="text8118"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_meccanica_1/Scheda/Immagini/gravita.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan8120"
+         x="296.98483"
+         y="314.95084">g</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="523.25903"
+       y="311.92038"
+       id="text8122"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_meccanica_1/Scheda/Immagini/gravita.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan8124"
+         x="523.25903"
+         y="311.92038">t=0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="517.38391"
+       y="852.64001"
+       id="text8122-0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_meccanica_1/Scheda/Immagini/gravita.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan8124-6"
+         x="517.38391"
+         y="852.64001">t=t</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.56303024px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="597.47632"
+       y="823.94354"
+       id="text8151"
+       transform="scale(0.96210962,1.0393826)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_meccanica_1/Scheda/Immagini/gravita.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan8153"
+         x="597.47632"
+         y="823.94354">1</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Mstart);marker-mid:none;marker-end:url(#Arrow1Mend)"
+       d="m 357.78313,201.08508 c -0.88124,541.08089 -0.88124,541.08089 -0.88124,541.08089"
+       id="path9102"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_meccanica_1/Scheda/Immagini/gravita.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="365.71429"
+       y="506.87509"
+       id="text9668"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_meccanica_1/Scheda/Immagini/gravita.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan9670"
+         x="365.71429"
+         y="506.87509">h</tspan></text>
+  </g>
+</svg>

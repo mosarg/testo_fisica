@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="velocità.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="430.30903"
+     inkscape:cy="709.49496"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="965"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <defs
+     id="defs4">
+    <marker
+       style="overflow:visible;"
+       id="Arrow2Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(0.6) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="font-size:12.0;fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path3620" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="StopL"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="StopL">
+      <path
+         transform="scale(0.8)"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         d="M 0.0,5.65 L 0.0,-5.65"
+         id="path3763" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart">
+      <path
+         transform="scale(0.6) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="font-size:12.0;fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round"
+         id="path3617" />
+    </marker>
+    <inkscape:perspective
+       id="perspective10"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective4046" />
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstart-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart">
+      <path
+         transform="scale(0.6,0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path3617-0" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective4472" />
+    <marker
+       style="overflow:visible"
+       id="StopL-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="StopL">
+      <path
+         transform="scale(0.8,0.8)"
+         style="fill:none;stroke:#000000;stroke-width:1pt"
+         d="M 0,5.65 0,-5.65"
+         id="path3763-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4478"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="StopL">
+      <path
+         transform="scale(0.8,0.8)"
+         style="fill:none;stroke:#000000;stroke-width:1pt"
+         d="M 0,5.65 0,-5.65"
+         id="path4480" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective4526" />
+    <marker
+       style="overflow:visible"
+       id="StopL-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="StopL">
+      <path
+         transform="scale(0.8,0.8)"
+         style="fill:none;stroke:#000000;stroke-width:1pt"
+         d="M 0,5.65 0,-5.65"
+         id="path3763-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4532"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="StopL">
+      <path
+         transform="scale(0.8,0.8)"
+         style="fill:none;stroke:#000000;stroke-width:1pt"
+         d="M 0,5.65 0,-5.65"
+         id="path4534" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4536"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="StopL">
+      <path
+         transform="scale(0.8,0.8)"
+         style="fill:none;stroke:#000000;stroke-width:1pt"
+         d="M 0,5.65 0,-5.65"
+         id="path4538" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4540"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="StopL">
+      <path
+         transform="scale(0.8,0.8)"
+         style="fill:none;stroke:#000000;stroke-width:1pt"
+         d="M 0,5.65 0,-5.65"
+         id="path4542" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective4590" />
+    <marker
+       style="overflow:visible"
+       id="StopL-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="StopL">
+      <path
+         transform="scale(0.8,0.8)"
+         style="fill:none;stroke:#000000;stroke-width:1pt"
+         d="M 0,5.65 0,-5.65"
+         id="path3763-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4596"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="StopL">
+      <path
+         transform="scale(0.8,0.8)"
+         style="fill:none;stroke:#000000;stroke-width:1pt"
+         d="M 0,5.65 0,-5.65"
+         id="path4598" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4600"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="StopL">
+      <path
+         transform="scale(0.8,0.8)"
+         style="fill:none;stroke:#000000;stroke-width:1pt"
+         d="M 0,5.65 0,-5.65"
+         id="path4602" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4604"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="StopL">
+      <path
+         transform="scale(0.8,0.8)"
+         style="fill:none;stroke:#000000;stroke-width:1pt"
+         d="M 0,5.65 0,-5.65"
+         id="path4606" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective4654" />
+    <marker
+       style="overflow:visible"
+       id="StopL-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="StopL">
+      <path
+         transform="scale(0.8,0.8)"
+         style="fill:none;stroke:#000000;stroke-width:1pt"
+         d="M 0,5.65 0,-5.65"
+         id="path3763-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4660"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="StopL">
+      <path
+         transform="scale(0.8,0.8)"
+         style="fill:none;stroke:#000000;stroke-width:1pt"
+         d="M 0,5.65 0,-5.65"
+         id="path4662" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4664"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="StopL">
+      <path
+         transform="scale(0.8,0.8)"
+         style="fill:none;stroke:#000000;stroke-width:1pt"
+         d="M 0,5.65 0,-5.65"
+         id="path4666" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4668"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="StopL">
+      <path
+         transform="scale(0.8,0.8)"
+         style="fill:none;stroke:#000000;stroke-width:1pt"
+         d="M 0,5.65 0,-5.65"
+         id="path4670" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective4718" />
+    <marker
+       style="overflow:visible"
+       id="StopL-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="StopL">
+      <path
+         transform="scale(0.8,0.8)"
+         style="fill:none;stroke:#000000;stroke-width:1pt"
+         d="M 0,5.65 0,-5.65"
+         id="path3763-60" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4724"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="StopL">
+      <path
+         transform="scale(0.8,0.8)"
+         style="fill:none;stroke:#000000;stroke-width:1pt"
+         d="M 0,5.65 0,-5.65"
+         id="path4726" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4728"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="StopL">
+      <path
+         transform="scale(0.8,0.8)"
+         style="fill:none;stroke:#000000;stroke-width:1pt"
+         d="M 0,5.65 0,-5.65"
+         id="path4730" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker4732"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="StopL">
+      <path
+         transform="scale(0.8,0.8)"
+         style="fill:none;stroke:#000000;stroke-width:1pt"
+         d="M 0,5.65 0,-5.65"
+         id="path4734" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow2MendO"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2MendO">
+      <path
+         transform="scale(0.6) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="stroke-linejoin:round;font-size:12.0;fill-rule:evenodd;stroke:#ff2e0f;stroke-width:0.62500000;fill:#ff2e0f"
+         id="path5060" />
+    </marker>
+    <inkscape:perspective
+       id="perspective5203"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       style="overflow:visible"
+       id="Arrow2MendO-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2MendO">
+      <path
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="font-size:12px;fill:#ff2e0f;fill-rule:evenodd;stroke:#ff2e0f;stroke-width:0.625;stroke-linejoin:round"
+         id="path5060-8" />
+    </marker>
+    <inkscape:perspective
+       id="perspective5231"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       style="overflow:visible"
+       id="Arrow2MendO-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2MendO">
+      <path
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="font-size:12px;fill:#ff2e0f;fill-rule:evenodd;stroke:#ff2e0f;stroke-width:0.625;stroke-linejoin:round"
+         id="path5060-7" />
+    </marker>
+    <inkscape:perspective
+       id="perspective5259"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       style="overflow:visible"
+       id="Arrow2MendO-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2MendO">
+      <path
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="font-size:12px;fill:#ff2e0f;fill-rule:evenodd;stroke:#ff2e0f;stroke-width:0.625;stroke-linejoin:round"
+         id="path5060-0" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow2MendOL"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2MendOL">
+      <path
+         transform="scale(0.6) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="stroke-linejoin:round;font-size:12.0;fill-rule:evenodd;stroke:#230fff;stroke-width:0.62500000;fill:#230fff"
+         id="path5345" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow2MendOT"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2MendOT">
+      <path
+         transform="scale(0.6) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="stroke-linejoin:round;font-size:12.0;fill-rule:evenodd;stroke:#1b0fff;stroke-width:0.62500000;fill:#1b0fff"
+         id="path5564" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow2MendOw"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2MendOw">
+      <path
+         transform="scale(0.6) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="stroke-linejoin:round;font-size:12.0;fill-rule:evenodd;stroke:#230fff;stroke-width:0.62500000;fill:#230fff"
+         id="path5787" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow2MendOr"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2MendOr">
+      <path
+         transform="scale(0.6) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="stroke-linejoin:round;font-size:12.0;fill-rule:evenodd;stroke:#300fff;stroke-width:0.62500000;fill:#300fff"
+         id="path6035" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       sodipodi:nodetypes="cssssc"
+       id="path4774"
+       d="m 217.14286,490.93361 c 0,0 95.45808,-38.00606 110.35714,-45.35714 81.07143,-40 93.86306,-52.55796 107.85714,-66.42857 65.12668,-64.55205 92.43138,-99.80864 106.07143,-122.85714 25.46546,-43.03067 62.22718,-55.37985 91.07143,-30.35715 11.16887,9.68912 31.07143,25 31.07143,25"
+       style="fill:none;stroke:#bdb4c1;stroke-width:2.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_1_analisi_dati/scheda/immagini/velcita_numerica.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       id="path4776"
+       d="m 305.5349,451.82727 73.15628,-30.44412"
+       style="stroke-linejoin:miter;marker-end:url(#Arrow2MendOr);stroke-opacity:1;stroke:#300fff;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-width:1.54124415000000003;fill:none"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_1_analisi_dati/scheda/immagini/velcita_numerica.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       id="path2816"
+       d="m 214.28571,158.07647 1.42857,415.42857"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Mstart)"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_1_analisi_dati/scheda/immagini/velcita_numerica.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       id="path2816-9"
+       d="M 691.83215,543.24223 186.40359,544.6708"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Mstart)"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_1_analisi_dati/scheda/immagini/velcita_numerica.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       id="text4066"
+       y="195.21933"
+       x="184.28572"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Aristarcoj;-inkscape-font-specification:Aristarcoj"
+       xml:space="preserve"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_1_analisi_dati/scheda/immagini/velcita_numerica.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         y="195.21933"
+         x="184.28572"
+         id="tspan4068"
+         sodipodi:role="line">x</tspan></text>
+    <text
+       id="text4070"
+       y="578.07648"
+       x="667.85712"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Aristarcoj;-inkscape-font-specification:Aristarcoj"
+       xml:space="preserve"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_1_analisi_dati/scheda/immagini/velcita_numerica.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+         y="578.07648"
+         x="667.85712"
+         id="tspan4072"
+         sodipodi:role="line">t</tspan></text>
+    <flowRoot
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Aristarcoj;font-style:normal;font-weight:normal;font-size:40px;-inkscape-font-specification:Aristarcoj;font-stretch:normal;font-variant:normal"
+       id="flowRoot4076"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4078"><rect
+           y="394.50504"
+           x="312.85715"
+           height="41.42857"
+           width="2.5"
+           id="rect4080" /></flowRegion><flowPara
+         id="flowPara4082" /></flowRoot>    <g
+       transform="translate(9.2857147,31.428572)"
+       id="g4512"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_1_analisi_dati/scheda/immagini/velcita_numerica.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <g
+         id="g4508"
+         transform="translate(-21.071429,7.5)">
+        <path
+           sodipodi:nodetypes="cc"
+           id="path4084"
+           d="m 315.35714,394.71932 0.35715,38"
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#StopL);marker-end:url(#StopL)" />
+        <path
+           id="path4084-2"
+           d="m 300.35715,413.25505 30,-0.35715"
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#StopL);marker-end:url(#StopL)" />
+      </g>
+      <path
+         sodipodi:type="arc"
+         style="fill:#ff0606;fill-opacity:1;stroke:#f20202;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path4074"
+         sodipodi:cx="283.21429"
+         sodipodi:cy="423.07648"
+         sodipodi:rx="3.9285715"
+         sodipodi:ry="4.2857141"
+         d="m 287.14287,423.07648 c 0,2.36693 -1.75889,4.28571 -3.92858,4.28571 -2.16969,0 -3.92857,-1.91878 -3.92857,-4.28571 0,-2.36694 1.75888,-4.28572 3.92857,-4.28572 2.16969,0 3.92858,1.91878 3.92858,4.28572 z"
+         transform="translate(11.071428,-2.1428571)" />
+    </g>
+    <g
+       transform="translate(99.285708,-5.2857093)"
+       id="g4512-7"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_1_analisi_dati/scheda/immagini/velcita_numerica.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <g
+         id="g4508-1"
+         transform="translate(-21.071429,7.5)">
+        <path
+           sodipodi:nodetypes="cc"
+           id="path4084-3"
+           d="m 315.35714,394.71932 0.35715,38"
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#StopL);marker-end:url(#StopL)" />
+        <path
+           id="path4084-2-1"
+           d="m 300.35715,413.25505 30,-0.35715"
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#StopL);marker-end:url(#StopL)" />
+      </g>
+      <path
+         sodipodi:type="arc"
+         style="fill:#ff0000;fill-opacity:1;stroke:#f20202;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path4074-2"
+         sodipodi:cx="283.21429"
+         sodipodi:cy="423.07648"
+         sodipodi:rx="3.9285715"
+         sodipodi:ry="4.2857141"
+         d="m 287.14287,423.07648 c 0,2.36693 -1.75889,4.28571 -3.92858,4.28571 -2.16969,0 -3.92857,-1.91878 -3.92857,-4.28571 0,-2.36694 1.75888,-4.28572 3.92857,-4.28572 2.16969,0 3.92858,1.91878 3.92858,4.28572 z"
+         transform="translate(11.071428,-2.1428571)" />
+    </g>
+    <g
+       transform="translate(166.42856,-59.571423)"
+       id="g4512-7-8"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_1_analisi_dati/scheda/immagini/velcita_numerica.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <g
+         id="g4508-1-7"
+         transform="translate(-21.071429,7.5)">
+        <path
+           sodipodi:nodetypes="cc"
+           id="path4084-3-4"
+           d="m 315.35714,394.71932 0.35715,38"
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#StopL);marker-end:url(#StopL)" />
+        <path
+           id="path4084-2-1-9"
+           d="m 300.35715,413.25505 30,-0.35715"
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#StopL);marker-end:url(#StopL)" />
+      </g>
+      <path
+         sodipodi:type="arc"
+         style="fill:#ff0000;fill-opacity:1;stroke:#f20202;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path4074-2-2"
+         sodipodi:cx="283.21429"
+         sodipodi:cy="423.07648"
+         sodipodi:rx="3.9285715"
+         sodipodi:ry="4.2857141"
+         d="m 287.14287,423.07648 c 0,2.36693 -1.75889,4.28571 -3.92858,4.28571 -2.16969,0 -3.92857,-1.91878 -3.92857,-4.28571 0,-2.36694 1.75888,-4.28572 3.92857,-4.28572 2.16969,0 3.92858,1.91878 3.92858,4.28572 z"
+         transform="translate(11.071428,-2.1428571)" />
+    </g>
+    <g
+       transform="translate(217.85715,-133.14286)"
+       id="g4512-7-8-5"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_1_analisi_dati/scheda/immagini/velcita_numerica.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <g
+         id="g4508-1-7-9"
+         transform="translate(-21.071429,7.5)">
+        <path
+           sodipodi:nodetypes="cc"
+           id="path4084-3-4-1"
+           d="m 315.35714,394.71932 0.35715,38"
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#StopL);marker-end:url(#StopL)" />
+        <path
+           id="path4084-2-1-9-2"
+           d="m 300.35715,413.25505 30,-0.35715"
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#StopL);marker-end:url(#StopL)" />
+      </g>
+      <path
+         sodipodi:type="arc"
+         style="fill:#ff0000;fill-opacity:1;stroke:#f20202;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path4074-2-2-8"
+         sodipodi:cx="283.21429"
+         sodipodi:cy="423.07648"
+         sodipodi:rx="3.9285715"
+         sodipodi:ry="4.2857141"
+         d="m 287.14287,423.07648 c 0,2.36693 -1.75889,4.28571 -3.92858,4.28571 -2.16969,0 -3.92857,-1.91878 -3.92857,-4.28571 0,-2.36694 1.75888,-4.28572 3.92857,-4.28572 2.16969,0 3.92858,1.91878 3.92858,4.28572 z"
+         transform="translate(11.071428,-2.1428571)" />
+    </g>
+    <g
+       transform="translate(311.42856,-212.42856)"
+       id="g4512-7-8-5-6"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_1_analisi_dati/scheda/immagini/velcita_numerica.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <g
+         id="g4508-1-7-9-4"
+         transform="translate(-21.071429,7.5)">
+        <path
+           sodipodi:nodetypes="cc"
+           id="path4084-3-4-1-0"
+           d="m 315.35714,394.71932 0.35715,38"
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#StopL);marker-end:url(#StopL)" />
+        <path
+           id="path4084-2-1-9-2-9"
+           d="m 300.35715,413.25505 30,-0.35715"
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#StopL);marker-end:url(#StopL)" />
+      </g>
+      <path
+         sodipodi:type="arc"
+         style="fill:#ff0000;fill-opacity:1;stroke:#f20202;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path4074-2-2-8-4"
+         sodipodi:cx="283.21429"
+         sodipodi:cy="423.07648"
+         sodipodi:rx="3.9285715"
+         sodipodi:ry="4.2857141"
+         d="m 287.14287,423.07648 c 0,2.36693 -1.75889,4.28571 -3.92858,4.28571 -2.16969,0 -3.92857,-1.91878 -3.92857,-4.28571 0,-2.36694 1.75888,-4.28572 3.92857,-4.28572 2.16969,0 3.92858,1.91878 3.92858,4.28572 z"
+         transform="translate(11.071428,-2.1428571)" />
+      <g
+         id="g6202"
+         transform="matrix(0.65908663,0,0,0.65908663,2.5151815,229.53544)">
+        <g
+           id="g6208"
+           transform="translate(-20.307681,14.177061)">
+          <text
+             xml:space="preserve"
+             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+             x="66.124947"
+             y="648.24072"
+             id="text6192"><tspan
+               sodipodi:role="line"
+               id="tspan6194"
+               x="66.124947"
+               y="648.24072">v</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:16.81096268px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Aristarcoj;-inkscape-font-specification:Aristarcoj"
+             x="79.438805"
+             y="651.53247"
+             id="text6196"><tspan
+               sodipodi:role="line"
+               id="tspan6198"
+               x="79.438805"
+               y="651.53247"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter">m</tspan></text>
+        </g>
+      </g>
+    </g>
+    <path
+       id="path4776-3"
+       d="M 395.97054,413.84786 458.4685,365.13758"
+       style="stroke-linejoin:miter;marker-end:url(#Arrow2MendOw);stroke-opacity:1;stroke:#230fff;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-width:1.54124415000000003;fill:none"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_1_analisi_dati/scheda/immagini/velcita_numerica.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       id="path4776-3-8"
+       d="m 462.88714,358.6449 39.44458,-53.99693"
+       style="stroke-linejoin:miter;marker-end:url(#Arrow2MendOT);stroke-opacity:1;stroke:#1b0fff;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-width:1.54124415000000003;fill:none"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_1_analisi_dati/scheda/immagini/velcita_numerica.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       id="path4776-3-8-8"
+       d="m 516.02021,285.92265 82.07706,-71.41851"
+       style="stroke-linejoin:miter;marker-end:url(#Arrow2MendOL);stroke-opacity:1;stroke:#230fff;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-width:1.54124415000000003;fill:none"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_1_analisi_dati/scheda/immagini/velcita_numerica.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:14.21744537px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="651.84113"
+       y="263.39383"
+       id="text6214"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_1_analisi_dati/scheda/immagini/velcita_numerica.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan6216"
+         x="651.84113"
+         y="263.39383">Traiettoria</tspan><tspan
+         sodipodi:role="line"
+         x="651.84113"
+         y="281.16565"
+         id="tspan6218">teorica</tspan></text>
+  </g>
+</svg>

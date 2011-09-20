@@ -1,0 +1,1321 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg6777"
+   version="1.1"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="lloyd_schemi.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0855486"
+     inkscape:cx="408.03075"
+     inkscape:cy="302.58129"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="965"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <defs
+     id="defs6779">
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mstart"
+       style="overflow:visible">
+      <path
+         id="path5411"
+         style="font-size:12.0;fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mend"
+       style="overflow:visible;">
+      <path
+         id="path5414"
+         style="font-size:12.0;fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <clipPath
+       id="clipPath6248"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path6250"
+         d="m 71.73,198.27 217.8,0 0,-144.66 -217.8,0 0,144.66 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath6248-0"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path6250-6"
+         d="m 71.73,198.27 217.8,0 0,-144.66 -217.8,0 0,144.66 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata6782">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       id="path6676"
+       style="fill:#fffb61;stroke:#3e3d3d;stroke-width:1.30701541999999993;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.61299992000000003;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       d="m 308.27413,439.76735 4.06905,0.86301 m -6.28905,19.10741 8.63014,2.09699 m -9.73918,9.73919 10.72521,2.58904 m -11.46521,10.35618 11.95919,-2.83699 m -12.6992,22.43838 13.68522,-3.20604 m -13.80823,14.54824 14.1792,-3.20603 M 140.15736,478.08404 480.58104,562.9497 M 140.14198,467.19353 c 5.99882,0 10.89051,4.89362 10.89051,10.89051 0,5.99882 -4.89169,10.89244 -10.89051,10.89244 -5.99689,0 -10.89051,-4.89362 -10.89051,-10.89244 0,-5.99689 4.89362,-10.89051 10.89051,-10.89051 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd2.png"
+       inkscape:export-xdpi="450.06287"
+       inkscape:export-ydpi="450.06287" />
+    <g
+       id="g6244"
+       transform="matrix(1.8536353,0,0,-2.0731475,-24.569078,422.05582)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd1.png"
+       inkscape:export-xdpi="450.24402"
+       inkscape:export-ydpi="450.24402">
+      <g
+         clip-path="url(#clipPath6248)"
+         id="g6246">
+        <path
+           id="path6252"
+           style="fill:none;stroke:#3e3d3d;stroke-width:0.17399999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:none"
+           d="m 71.793,125.926 205.093,0"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <path
+       id="path6256"
+       style="fill:none;stroke:#3e3d3d;stroke-width:2.23280597;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:none"
+       d="m 474.18487,31.060193 0,259.864897"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd1.png"
+       inkscape:export-xdpi="450.24402"
+       inkscape:export-ydpi="450.24402" />
+    <path
+       id="path6258"
+       style="fill:none;stroke:#3e3d3d;stroke-width:0.44695324;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:none"
+       d="m 298.75497,160.81228 0,0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd1.png"
+       inkscape:export-xdpi="450.24402"
+       inkscape:export-ydpi="450.24402" />
+    <path
+       id="path6260"
+       style="fill:#3e3d3d;fill-opacity:1;fill-rule:evenodd;stroke:#3e3d3d;stroke-width:0.44695324;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:none"
+       d="m 228.85253,160.99264 59.13652,0 0,9.92209 -59.13652,0 0,-9.92209 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd1.png"
+       inkscape:export-xdpi="450.24402"
+       inkscape:export-ydpi="450.24402" />
+    <path
+       id="path6262"
+       style="fill:#fffb61;stroke:#3e3d3d;stroke-width:1.34085977000000001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.61299992000000003;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       d="m 144.0932,103.16012 c 5.81671,0 10.56016,5.30518 10.56016,11.81072 0,6.50554 -4.74345,11.8128 -10.56016,11.8128 -5.81671,0 -10.56016,-5.30726 -10.56016,-11.8128 0,-6.50554 4.74345,-11.81072 10.56016,-11.81072 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd1.png"
+       inkscape:export-xdpi="450.24402"
+       inkscape:export-ydpi="450.24402" />
+    <path
+       id="path6264"
+       style="fill:#fffb61;stroke:#3e3d3d;stroke-width:1.34085977000000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61299992000000003;stroke-opacity:1;stroke-dasharray:6.70037810999999994, 6.70037810999999994;stroke-dashoffset:0;fill-opacity:1"
+       d="m 144.0932,195.20372 c 5.81671,0 10.56016,5.30519 10.56016,11.81073 0,6.50553 -4.74345,11.81279 -10.56016,11.81279 -5.81671,0 -10.56016,-5.30726 -10.56016,-11.81279 0,-6.50554 4.74345,-11.81073 10.56016,-11.81073 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd1.png"
+       inkscape:export-xdpi="450.24402"
+       inkscape:export-ydpi="450.24402" />
+    <path
+       id="path6266"
+       style="fill:none;stroke:#3e3d3d;stroke-width:1.34085977;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:none"
+       d="m 144.0932,114.97084 86.33677,46.0218 -86.33677,-46.0218 z m 0,0 142.25539,45.99485"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd1.png"
+       inkscape:export-xdpi="450.24402"
+       inkscape:export-ydpi="450.24402" />
+    <path
+       id="path6268"
+       style="fill:none;stroke:#7e8081;stroke-width:1.34085977;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:none"
+       d="M 397.32388,103.46073 C 396.70477,85.774703 394.64167,68.872333 391.23469,52.146183 M 355.1166,105.69351 c -0.51531,-14.738007 -2.23363,-29.138087 -5.07154,-43.075857 m -20.59574,5.23469 c 2.5543,12.54462 4.10209,25.12863 4.5655,38.390547 m 105.51263,-4.26032 c -0.72107,-20.631957 -3.12894,-40.795397 -7.10128,-60.305787 m 20.59389,-5.23677 c 4.31897,21.21452 6.84918,42.49331 7.61103,64.236477 m -48.80066,-53.765007 0,0 c 3.74249,18.3826 5.93719,37.15702 6.59523,55.997787 m -47.78486,-45.526317 0,0 c 3.04367,14.94739 5.9168,32.03013 5.9168,47.381787 m -63.64457,2.78423 c -0.41336,-11.789987 -1.78875,-23.310467 -4.0576,-34.461927 m 6.77689,42.489157 c 4.43575,10.35123 8.13931,21.16269 11.04581,32.34939 M 428.11276,115.0973 C 423.59175,97.697383 417.8325,80.880003 410.93327,64.777873 m 19.05908,-10.1605 c 7.3923,17.25273 13.5649,35.27253 18.40845,53.914277 m -60.86226,19.69697 c -3.8741,-14.91422 -8.81218,-29.328817 -14.72528,-43.131827 m 19.05908,-10.1605 c 6.40616,14.95361 11.75575,30.570627 15.95424,46.726667 m -60.86226,19.69698 c -3.22904,-12.42852 -7.34411,-24.44241 -12.27107,-35.94424 m 19.05908,-10.158417 c 5.42188,12.652417 9.9466,25.864587 13.49817,39.536997 m -60.86041,19.69697 0,0 c -2.58211,-9.94281 -5.87602,-19.55392 -9.81685,-28.75455 m 0,0 0,0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd1.png"
+       inkscape:export-xdpi="450.24402"
+       inkscape:export-ydpi="450.24402" />
+    <path
+       id="path6280"
+       style="fill:none;stroke:#3e3d3d;stroke-width:1.34085977;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:6.70037811, 6.70037811;stroke-dashoffset:0"
+       d="M 230.42997,160.99264 144.0932,207.01445 286.29854,160.99264 144.0932,207.01445 230.42997,160.99264 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd1.png"
+       inkscape:export-xdpi="450.24402"
+       inkscape:export-ydpi="450.24402" />
+    <path
+       id="path6282"
+       style="fill:none;stroke:#000000;stroke-width:1.34085977;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:none"
+       d="m 476.58162,81.470853 c 0,-0.41878 0.33736,-0.65511 0.81745,-0.99304 2.11685,-1.15267 5.21798,-1.86168 7.91688,-2.57277 2.69889,-0.70902 5.80188,-1.42011 7.91687,-2.57278 0.48195,-0.33585 0.81746,-0.57426 0.81746,-0.99304 0,-0.42085 -0.33551,-0.65718 -0.81746,-0.99303 -2.11499,-1.15475 -5.21798,-1.86376 -7.91687,-2.57278 -2.6989,-0.71109 -5.80003,-1.42011 -7.91688,-2.57278 -0.48009,-0.33792 -0.81745,-0.57426 -0.81745,-0.99303 0,-0.42085 0.33736,-0.65719 0.81745,-0.99512 2.11685,-1.15267 5.21798,-1.86168 7.91688,-2.57277 2.69889,-0.70902 5.80188,-1.41803 7.91687,-2.57278 0.48195,-0.33585 0.81746,-0.57219 0.81746,-0.99304 0,-0.41877 -0.33551,-0.65718 -0.81746,-0.99303 -2.11499,-1.15267 -5.21798,-1.86376 -7.91687,-2.57278 -2.6989,-0.70902 -5.80003,-1.42011 -7.91688,-2.57278 -0.48009,-0.33792 -0.81745,-0.57426 -0.81745,-0.99303 0,-0.42085 0.22429,-0.65719 0.54497,-0.99304 1.41247,-1.15474 3.47927,-1.86376 5.27915,-2.57278 1.79803,-0.71109 3.86668,-1.4201 5.2773,-2.57277 0.32068,-0.33793 0.54497,-0.57426 0.54497,-0.99511 0,-0.41878 -0.22429,-0.65512 -0.54497,-0.99304 -1.41062,-1.15267 -3.47927,-1.86376 -5.2773,-2.57278 -1.79988,-0.70901 -3.86668,-1.41803 -5.27915,-2.57277 -0.32068,-0.33585 -0.54497,-0.57219 -0.54497,-0.99304 m 0,57.05924 c 0,-0.41878 0.22429,-0.65719 0.54497,-0.99304 1.41247,-1.15267 3.47927,-1.86376 5.27915,-2.57278 1.79803,-0.70901 3.86668,-1.4201 5.2773,-2.57277 0.32068,-0.33792 0.54497,-0.57426 0.54497,-0.99304 0,-0.42085 -0.22429,-0.65719 -0.54497,-0.99511 -1.41062,-1.15267 -3.47927,-1.86169 -5.2773,-2.57278 -1.79988,-0.70901 -3.86668,-1.41803 -5.27915,-2.57277 -0.32068,-0.33585 -0.54497,-0.57219 -0.54497,-0.99304"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd1.png"
+       inkscape:export-xdpi="450.24402"
+       inkscape:export-ydpi="450.24402" />
+    <path
+       id="path6284"
+       style="fill:none;stroke:#3e3d3d;stroke-width:1.34085977;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:none"
+       d="M 474.18487,31.060193 144.0932,114.97084 366.59061,105.18973 m 0,0 106.62295,-4.68739 m 0.97131,-69.442147 -243.12837,129.600747 -0.62653,0.3317 0.62653,-0.3317 243.12837,-129.600747 z m -187.88633,129.932447 186.91502,-60.4903 -186.91502,60.4903 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd1.png"
+       inkscape:export-xdpi="450.24402"
+       inkscape:export-ydpi="450.24402" />
+    <path
+       id="path6286"
+       style="fill:none;stroke:#3e3d3d;stroke-width:0.89390647;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:none"
+       d="m 143.42404,254.41282 331.01478,0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd1.png"
+       inkscape:export-xdpi="450.24402"
+       inkscape:export-ydpi="450.24402" />
+    <path
+       id="path6288"
+       style="fill:none;stroke:#3e3d3d;stroke-width:1.58786035;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:none"
+       d="m 143.42404,250.02811 0,8.77149 m 331.01478,-8.77149 0,8.77149"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd1.png"
+       inkscape:export-xdpi="450.24402"
+       inkscape:export-ydpi="450.24402" />
+    <path
+       id="path6290"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 308.93143,242.6021 c 5.8167,0 10.56016,5.30518 10.56016,11.81072 0,6.50761 -4.74346,11.81279 -10.56016,11.81279 -5.81671,0 -10.56016,-5.30518 -10.56016,-11.81279 0,-6.50554 4.74345,-11.81072 10.56016,-11.81072"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd1.png"
+       inkscape:export-xdpi="450.24402"
+       inkscape:export-ydpi="450.24402" />
+    <path
+       id="path6296"
+       style="fill:none;stroke:#3e3d3d;stroke-width:0.89390647;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:none"
+       d="m 500.56395,59.298543 0,-8.88966"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd1.png"
+       inkscape:export-xdpi="450.24402"
+       inkscape:export-ydpi="450.24402" />
+    <path
+       id="path6298"
+       style="fill:none;stroke:#3e3d3d;stroke-width:1.58786035;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:none"
+       d="m 496.64351,59.298543 7.84088,0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd1.png"
+       inkscape:export-xdpi="450.24402"
+       inkscape:export-ydpi="450.24402" />
+    <path
+       id="path6300"
+       style="fill:none;stroke:#3e3d3d;stroke-width:0.89390647;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:none"
+       d="m 500.56395,74.890683 0,8.88966"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd1.png"
+       inkscape:export-xdpi="450.24402"
+       inkscape:export-ydpi="450.24402" />
+    <path
+       id="path6302"
+       style="fill:none;stroke:#3e3d3d;stroke-width:1.58786035;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:none"
+       d="m 504.48439,74.890683 -7.84088,0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd1.png"
+       inkscape:export-xdpi="450.24402"
+       inkscape:export-ydpi="450.24402" />
+    <path
+       id="path6304"
+       style="fill:none;stroke:#3e3d3d;stroke-width:0.89390647;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:none"
+       d="m 125.00817,114.50024 0,93.13615"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd1.png"
+       inkscape:export-xdpi="450.24402"
+       inkscape:export-ydpi="450.24402" />
+    <path
+       id="path6306"
+       style="fill:none;stroke:#3e3d3d;stroke-width:1.58786035;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:none"
+       d="m 128.92861,114.50024 -7.84088,0 m 7.84088,93.13615 -7.84088,0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd1.png"
+       inkscape:export-xdpi="450.24402"
+       inkscape:export-ydpi="450.24402" />
+    <path
+       id="path6308"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 125.51607,149.11558 c 5.81485,0 10.56016,5.30519 10.56016,11.81072 0,6.50554 -4.74531,11.8128 -10.56016,11.8128 -5.81671,0 -10.56016,-5.30726 -10.56016,-11.8128 0,-6.50553 4.74345,-11.81072 10.56016,-11.81072"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd1.png"
+       inkscape:export-xdpi="450.24402"
+       inkscape:export-ydpi="450.24402" />
+    <path
+       id="path6604"
+       style="fill:none;stroke:#3e3d3d;stroke-width:0.87070292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:none"
+       d="m 310.46146,417.15214 170.38291,0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd2.png"
+       inkscape:export-xdpi="450.06287"
+       inkscape:export-ydpi="450.06287" />
+    <path
+       id="path6606"
+       style="fill:none;stroke:#3e3d3d;stroke-width:1.54919755;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:none"
+       d="m 310.46146,413.10808 0,8.08619 m 170.38291,-8.08619 0,8.08619"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd2.png"
+       inkscape:export-xdpi="450.06287"
+       inkscape:export-ydpi="450.06287" />
+    <path
+       id="path6608"
+       style="fill:none;stroke:#3e3d3d;stroke-width:0.87070292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:none"
+       d="m 139.46733,417.15214 170.97683,0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd2.png"
+       inkscape:export-xdpi="450.06287"
+       inkscape:export-ydpi="450.06287" />
+    <path
+       id="path6610"
+       style="fill:none;stroke:#3e3d3d;stroke-width:1.54919755;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:none"
+       d="m 139.46733,413.10808 0,8.08619 m 170.97683,-8.08619 0,8.08619"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd2.png"
+       inkscape:export-xdpi="450.06287"
+       inkscape:export-ydpi="450.06287" />
+    <path
+       id="path6612"
+       style="fill:none;stroke:#3e3d3d;stroke-width:0.87070292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:4.35543653, 2.61403075;stroke-dashoffset:0"
+       d="m 179.68112,520.51783 261.37809,0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd2.png"
+       inkscape:export-xdpi="450.06287"
+       inkscape:export-ydpi="450.06287" />
+    <path
+       id="path6614"
+       style="fill:#3e3d3d;fill-opacity:1;fill-rule:evenodd;stroke:#3e3d3d;stroke-width:0.4363125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:none"
+       d="m 227.5717,520.51783 60.98764,0 0,9.14911 -60.98764,0 0,-9.14911 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd2.png"
+       inkscape:export-xdpi="450.06287"
+       inkscape:export-ydpi="450.06287" />
+    <path
+       id="path6616"
+       style="fill:none;stroke:#3e3d3d;stroke-width:1.30701542;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:none"
+       d="m 310.3692,433.3918 0,174.25206"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd2.png"
+       inkscape:export-xdpi="450.06287"
+       inkscape:export-ydpi="450.06287" />
+    <path
+       id="path6618"
+       style="fill:none;stroke:#3e3d3d;stroke-width:3.05034328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:none"
+       d="m 480.58297,400.71834 0,239.59898"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd2.png"
+       inkscape:export-xdpi="450.06287"
+       inkscape:export-ydpi="450.06287" />
+    <path
+       id="path6620"
+       style="fill:none;stroke:#3e3d3d;stroke-width:1.30701542;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:none"
+       d="m 310.38073,520.5063 0,0 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd2.png"
+       inkscape:export-xdpi="450.06287"
+       inkscape:export-ydpi="450.06287" />
+    <path
+       id="path6622"
+       style="fill:none;stroke:#3e3d3d;stroke-width:1.30701542;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:6.53507688, 6.53507688;stroke-dashoffset:0"
+       d="m 310.38073,520.5063 0,0 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd2.png"
+       inkscape:export-xdpi="450.06287"
+       inkscape:export-ydpi="450.06287" />
+    <path
+       id="path6624"
+       style="fill:none;stroke:#3e3d3d;stroke-width:2.17771816;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:none"
+       d="m 310.38073,520.5063 0,0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd2.png"
+       inkscape:export-xdpi="450.06287"
+       inkscape:export-ydpi="450.06287" />
+    <path
+       id="path6626"
+       style="fill:none;stroke:#3e3d3d;stroke-width:1.30701542;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:none"
+       d="m 310.3692,513.70213 0.23065,-0.0653 169.98119,-35.55274 -169.98119,35.55274 -0.23065,0.0653 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd2.png"
+       inkscape:export-xdpi="450.06287"
+       inkscape:export-ydpi="450.06287" />
+    <path
+       id="path6628"
+       style="fill:none;stroke:#3e3d3d;stroke-width:1.30701542;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:6.53507688, 6.53507688;stroke-dashoffset:0"
+       d="M 229.19778,520.51783 140.15736,562.9497 286.81409,520.51783 140.15736,562.9497 229.19778,520.51783 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd2.png"
+       inkscape:export-xdpi="450.06287"
+       inkscape:export-ydpi="450.06287" />
+    <path
+       id="path6630"
+       style="fill:none;stroke:#3e3d3d;stroke-width:1.30701542;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:none"
+       d="m 310.3692,481.83402 -80.5256,38.37628 -0.64582,0.30753 0.64582,-0.30753 80.5256,-38.37628 z m 170.21184,-3.74998 -169.92929,3.61544 -0.28255,0.13454 0.28255,-0.13454 169.92929,-3.61544 z m -340.42368,0 89.04042,42.43379 -89.04042,-42.43379 z m 0,0 146.70863,42.4088 m 193.71505,42.45686 -169.85818,-123.62828 -0.35366,0.0807 0.35366,-0.0807 169.85818,123.62828 z M 310.3692,439.40215 140.15736,478.08404 310.3692,471.3952 140.15736,478.08404 310.3692,439.40215 z m 0,31.99305 0.29985,-0.0138 169.91199,91.56796 -169.91199,-91.56796 -0.29985,0.0138 z m -170.62893,6.58313 118.32525,42.5395 m 222.51552,-42.43379 -169.96197,23.53973 -0.24987,0.0904 0.24987,-0.0904 169.96197,-23.53973 z m -170.21184,23.63007 -52.30368,18.80372 52.30368,-18.80372 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd2.png"
+       inkscape:export-xdpi="450.06287"
+       inkscape:export-ydpi="450.06287" />
+    <path
+       id="path6632"
+       style="fill:none;stroke:#3e3d3d;stroke-width:1.30701542;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:6.53507688, 6.53507688;stroke-dashoffset:0"
+       d="M 139.74027,563.05734 258.06552,520.51783"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd2.png"
+       inkscape:export-xdpi="450.06287"
+       inkscape:export-ydpi="450.06287" />
+    <path
+       id="path6634"
+       style="fill:none;stroke:#3e3d3d;stroke-width:1.30701542;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:none"
+       d="M 140.15736,478.08404 310.3692,459.30338 140.15736,478.08404 z m 170.21184,-18.78066 0.32099,-0.0364 169.89085,103.68284 -169.89085,-103.68284 -0.32099,0.0364 z m -23.55511,61.21445 0.83995,-0.2441 22.71516,-6.5716 -22.71516,6.5716 -0.83995,0.2441 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd2.png"
+       inkscape:export-xdpi="450.06287"
+       inkscape:export-ydpi="450.06287" />
+    <path
+       id="path6638"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 224.91154,406.26162 c 5.99881,0 10.89051,4.8917 10.89051,10.89052 0,5.99881 -4.8917,10.89051 -10.89051,10.89051 -5.99882,0 -10.89052,-4.8917 -10.89052,-10.89051 0,-5.99882 4.8917,-10.89052 10.89052,-10.89052"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd2.png"
+       inkscape:export-xdpi="450.06287"
+       inkscape:export-ydpi="450.06287" />
+    <path
+       id="path6640"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 395.69616,406.26162 c 5.99882,0 10.89052,4.8917 10.89052,10.89052 0,5.99881 -4.8917,10.89051 -10.89052,10.89051 -5.99881,0 -10.89051,-4.8917 -10.89051,-10.89051 0,-5.99882 4.8917,-10.89052 10.89051,-10.89052"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd2.png"
+       inkscape:export-xdpi="450.06287"
+       inkscape:export-ydpi="450.06287" />
+    <path
+       id="path6646"
+       style="fill:none;stroke:#3e3d3d;stroke-width:0.87070292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:none"
+       d="m 123.04891,477.65157 0,85.87091"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd2.png"
+       inkscape:export-xdpi="450.06287"
+       inkscape:export-ydpi="450.06287" />
+    <path
+       id="path6648"
+       style="fill:none;stroke:#3e3d3d;stroke-width:1.54919755;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:none"
+       d="m 127.09105,477.65157 -8.0862,0 m 8.0862,85.87091 -8.0862,0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd2.png"
+       inkscape:export-xdpi="450.06287"
+       inkscape:export-ydpi="450.06287" />
+    <path
+       id="path6650"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 123.57172,509.56581 c 5.99689,0 10.89051,4.8917 10.89051,10.89052 0,5.99881 -4.89362,10.89051 -10.89051,10.89051 -5.99882,0 -10.89052,-4.8917 -10.89052,-10.89051 0,-5.99882 4.8917,-10.89052 10.89052,-10.89052"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd2.png"
+       inkscape:export-xdpi="450.06287"
+       inkscape:export-ydpi="450.06287" />
+    <path
+       id="path6654"
+       style="fill:none;stroke:#3e3d3d;stroke-width:0.87070292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:none"
+       d="m 492.81317,477.65157 0,85.87091"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd2.png"
+       inkscape:export-xdpi="450.06287"
+       inkscape:export-ydpi="450.06287" />
+    <path
+       id="path6656"
+       style="fill:none;stroke:#3e3d3d;stroke-width:1.54919755;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:none"
+       d="m 496.85531,477.65157 -8.0862,0 m 8.0862,85.87091 -8.0862,0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd2.png"
+       inkscape:export-xdpi="450.06287"
+       inkscape:export-ydpi="450.06287" />
+    <path
+       id="path6658"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 493.33598,509.56581 c 5.99689,0 10.89051,4.8917 10.89051,10.89052 0,5.99881 -4.89362,10.89051 -10.89051,10.89051 -5.99882,0 -10.89244,-4.8917 -10.89244,-10.89051 0,-5.99882 4.89362,-10.89052 10.89244,-10.89052"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd2.png"
+       inkscape:export-xdpi="450.06287"
+       inkscape:export-ydpi="450.06287" />
+    <path
+       id="path6672"
+       style="fill:none;stroke:#3e3d3d;stroke-width:0.4363125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:none"
+       d="m 310.53642,520.35061 0,0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd2.png"
+       inkscape:export-xdpi="450.06287"
+       inkscape:export-ydpi="450.06287" />
+    <path
+       id="path6674"
+       style="fill:#dcdedf;fill-opacity:1;fill-rule:evenodd;stroke:#3e3d3d;stroke-width:0.4363125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:none"
+       d="m 310.3692,617.12357 c 4.48229,-32.20256 7.16936,-64.0995 7.16936,-96.60574 0,-32.50816 -2.68707,-64.4051 -7.16936,-96.60573 -4.48037,32.20063 -7.16744,64.09757 -7.16744,96.60573 0,32.50624 2.68707,64.40318 7.16744,96.60574 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd2.png"
+       inkscape:export-xdpi="450.06287"
+       inkscape:export-ydpi="450.06287" />
+    <path
+       id="path6678"
+       style="fill:#fffb61;stroke:#3e3d3d;stroke-width:1.30701541999999993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61299992000000003;stroke-opacity:1;stroke-dasharray:6.53507688000000009, 6.53507688000000009;stroke-dashoffset:0;fill-opacity:1"
+       d="m 140.14198,552.05919 c 5.99882,0 10.89051,4.8917 10.89051,10.89051 0,5.99882 -4.89169,10.89052 -10.89051,10.89052 -5.99689,0 -10.89051,-4.8917 -10.89051,-10.89052 0,-5.99881 4.89362,-10.89051 10.89051,-10.89051 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd2.png"
+       inkscape:export-xdpi="450.06287"
+       inkscape:export-ydpi="450.06287" />
+    <g
+       transform="matrix(0.35674963,0,0,0.35674963,30.446447,-30.060713)"
+       id="g7086"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd1.png"
+       inkscape:export-xdpi="450.24402"
+       inkscape:export-ydpi="450.24402">
+      <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         word-spacing="normal"
+         letter-spacing="normal"
+         font-size-adjust="none"
+         font-stretch="normal"
+         font-weight="normal"
+         font-variant="normal"
+         font-style="normal"
+         stroke-miterlimit="10.433"
+         xml:space="preserve"
+         transform="matrix(1.0629921,0,0,-1.0629921,-186.02362,789.27165)"
+         id="content"><path
+           style="fill:#000000;stroke-width:0"
+           inkscape:connector-curvature="0"
+           id="path7089"
+           d="m 464.44,411.93 -0.19,-0.3 -0.18,-0.29 -0.19,-0.28 -0.19,-0.26 -0.18,-0.25 -0.19,-0.23 -0.19,-0.22 -0.18,-0.21 -0.19,-0.2 -0.19,-0.18 -0.18,-0.17 -0.19,-0.16 -0.19,-0.15 -0.18,-0.14 -0.19,-0.13 -0.19,-0.12 -0.19,-0.11 -0.19,-0.1 -0.19,-0.09 -0.19,-0.09 -0.19,-0.07 -0.2,-0.07 -0.19,-0.07 -0.2,-0.05 -0.19,-0.05 -0.2,-0.04 -0.2,-0.04 -0.19,-0.03 -0.41,-0.05 -0.4,-0.03 c -0.61,-0.05 -1.05,-0.05 -1.05,-1 0,-0.3 0.25,-0.55 0.64,-0.55 1.34,0 2.89,0.16 4.28,0.16 1.64,0 3.39,-0.16 4.99,-0.16 0.29,0 0.95,0 0.95,0.95 0,0.55 -0.45,0.6 -0.8,0.6 -1.15,0.09 -2.34,0.5 -2.34,1.73 0,0.61 0.3,1.16 0.69,1.84 l 3.79,6.39 h 12.5 l -0.14,1.54 h -11.42 l 9.83,16.45 1.59,-16.45 0.14,-1.54 c 0.11,-1.04 0.8,-7.82 0.8,-8.32 0,-1.5 -2.59,-1.64 -3.58,-1.64 -0.7,0 -1.2,0 -1.2,-1 0,-0.55 0.59,-0.55 0.7,-0.55 2.03,0 4.19,0.16 6.22,0.16 1.25,0 4.39,-0.16 5.64,-0.16 0.3,0 0.89,0 0.89,1 0,0.55 -0.5,0.55 -1.14,0.55 -3.09,0 -3.09,0.34 -3.25,1.79 l -3.03,31.13 c -0.11,1 -0.11,1.2 -0.95,1.2 -0.8,0 -0.99,-0.34 -1.3,-0.84 z" /></g>    </g>
+    <g
+       transform="matrix(0.35674963,0,0,0.35674963,29.868132,115.47383)"
+       id="g7249"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd1.png"
+       inkscape:export-xdpi="450.24402"
+       inkscape:export-ydpi="450.24402">
+      <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="g7251"
+         transform="matrix(1.0629921,0,0,-1.0629921,-186.02362,789.27165)"
+         xml:space="preserve"
+         stroke-miterlimit="10.433"
+         font-style="normal"
+         font-variant="normal"
+         font-weight="normal"
+         font-stretch="normal"
+         font-size-adjust="none"
+         letter-spacing="normal"
+         word-spacing="normal"><path
+           style="fill:#000000;stroke-width:0"
+           inkscape:connector-curvature="0"
+           d="m 464.44,411.93 -0.19,-0.3 -0.18,-0.29 -0.19,-0.28 -0.19,-0.26 -0.18,-0.25 -0.19,-0.23 -0.19,-0.22 -0.18,-0.21 -0.19,-0.2 -0.19,-0.18 -0.18,-0.17 -0.19,-0.16 -0.19,-0.15 -0.18,-0.14 -0.19,-0.13 -0.19,-0.12 -0.19,-0.11 -0.19,-0.1 -0.19,-0.09 -0.19,-0.09 -0.19,-0.07 -0.2,-0.07 -0.19,-0.07 -0.2,-0.05 -0.19,-0.05 -0.2,-0.04 -0.2,-0.04 -0.19,-0.03 -0.41,-0.05 -0.4,-0.03 c -0.61,-0.05 -1.05,-0.05 -1.05,-1 0,-0.3 0.25,-0.55 0.64,-0.55 1.34,0 2.89,0.16 4.28,0.16 1.64,0 3.39,-0.16 4.99,-0.16 0.29,0 0.95,0 0.95,0.95 0,0.55 -0.45,0.6 -0.8,0.6 -1.15,0.09 -2.34,0.5 -2.34,1.73 0,0.61 0.3,1.16 0.69,1.84 l 3.79,6.39 h 12.5 l -0.14,1.54 h -11.42 l 9.83,16.45 1.59,-16.45 0.14,-1.54 c 0.11,-1.04 0.8,-7.82 0.8,-8.32 0,-1.5 -2.59,-1.64 -3.58,-1.64 -0.7,0 -1.2,0 -1.2,-1 0,-0.55 0.59,-0.55 0.7,-0.55 2.03,0 4.19,0.16 6.22,0.16 1.25,0 4.39,-0.16 5.64,-0.16 0.3,0 0.89,0 0.89,1 0,0.55 -0.5,0.55 -1.14,0.55 -3.09,0 -3.09,0.34 -3.25,1.79 l -3.03,31.13 c -0.11,1 -0.11,1.2 -0.95,1.2 -0.8,0 -0.99,-0.34 -1.3,-0.84 z"
+           id="path7253" /><path
+           style="fill:#000000;stroke-width:0"
+           inkscape:connector-curvature="0"
+           d="m 502.95,440.65 0.02,0.06 0.03,0.05 0.02,0.05 0.02,0.05 0.02,0.04 0.02,0.05 0.02,0.04 0.02,0.04 0.01,0.05 0.02,0.04 0.01,0.03 0.01,0.04 0.01,0.04 0.01,0.03 0.01,0.04 0.01,0.03 0.01,0.03 0.01,0.03 0,0.03 0.01,0.03 0,0.03 0.01,0.03 0,0.03 0,0.02 0.01,0.06 0,0.05 0,0.04 0,0.05 c 0,1.08 -0.98,1.92 -2.06,1.92 -1.33,0 -1.74,-1.09 -1.91,-1.64 l -4.61,-15.09 c -0.03,-0.06 -0.17,-0.52 -0.17,-0.56 0,-0.41 1.08,-0.77 1.36,-0.77 0.25,0 0.28,0.08 0.52,0.59 z"
+           id="path7255" /></g>    </g>
+    <g
+       transform="matrix(0.35674963,0,0,0.35674963,195.24316,133.98739)"
+       id="g7423"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd1.png"
+       inkscape:export-xdpi="450.24402"
+       inkscape:export-ydpi="450.24402">
+      <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         word-spacing="normal"
+         letter-spacing="normal"
+         font-size-adjust="none"
+         font-stretch="normal"
+         font-weight="normal"
+         font-variant="normal"
+         font-style="normal"
+         stroke-miterlimit="10.433"
+         xml:space="preserve"
+         transform="matrix(1.0629921,0,0,-1.0629921,-186.02362,789.27165)"
+         id="g7425"><path
+           style="fill:#000000;stroke-width:0"
+           inkscape:connector-curvature="0"
+           id="path7427"
+           d="m 474.16,436.34 0.04,0.16 0.04,0.16 0.04,0.15 0.04,0.15 0.04,0.13 0.05,0.13 0.05,0.13 0.05,0.11 0.06,0.12 0.06,0.1 0.08,0.1 0.08,0.09 0.09,0.09 0.1,0.08 0.11,0.08 0.12,0.07 0.13,0.06 0.15,0.06 0.16,0.06 0.18,0.05 0.09,0.02 0.1,0.02 0.1,0.02 0.11,0.02 0.11,0.02 0.11,0.02 0.12,0.02 0.13,0.01 0.13,0.01 0.14,0.02 0.14,0.01 0.14,0.01 0.15,0.01 0.16,0.01 0.16,0.01 0.17,0.01 0.17,0 0.18,0.01 0.18,0 0.19,0.01 0.2,0 0.2,0 0.21,0 0.22,0 c 1.49,0 1.89,0 1.89,0.96 0,0.59 -0.54,0.59 -0.79,0.59 -1.66,0 -5.74,-0.16 -7.38,-0.16 -1.5,0 -5.14,0.16 -6.62,0.16 -0.36,0 -0.96,0 -0.96,-1 0,-0.55 0.46,-0.55 1.39,-0.55 0.11,0 1.05,0 1.91,-0.09 0.89,-0.11 1.34,-0.16 1.34,-0.8 0,-0.2 -0.06,-0.36 -0.2,-0.95 l -6.67,-26.75 c -0.5,-1.95 -0.61,-2.34 -4.55,-2.34 -0.84,0 -1.34,0 -1.34,-1 0,-0.55 0.45,-0.55 1.34,-0.55 h 23.08 c 1.19,0 1.23,0 1.55,0.84 l 3.92,10.77 c 0.2,0.55 0.2,0.64 0.2,0.7 0,0.19 -0.14,0.55 -0.59,0.55 -0.46,0 -0.5,-0.25 -0.85,-1.05 -1.7,-4.59 -3.89,-10.26 -12.51,-10.26 h -4.67 c -0.71,0 -0.8,0 -1.1,0.04 -0.5,0.05 -0.65,0.1 -0.65,0.5 0,0.14 0,0.25 0.25,1.14 z" /></g>    </g>
+    <g
+       transform="matrix(0.35674963,0,0,0.35674963,12.465387,37.531717)"
+       id="g7601"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd1.png"
+       inkscape:export-xdpi="450.24402"
+       inkscape:export-ydpi="450.24402">
+      <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="g7603"
+         transform="matrix(1.0629921,0,0,-1.0629921,-186.02362,789.27165)"
+         xml:space="preserve"
+         stroke-miterlimit="10.433"
+         font-style="normal"
+         font-variant="normal"
+         font-weight="normal"
+         font-stretch="normal"
+         font-size-adjust="none"
+         letter-spacing="normal"
+         word-spacing="normal"><path
+           style="fill:#000000;stroke-width:0"
+           inkscape:connector-curvature="0"
+           d="m 474.1,425.03 -0.09,0.17 -0.09,0.17 -0.09,0.16 -0.09,0.16 -0.1,0.16 -0.1,0.16 -0.11,0.15 -0.11,0.14 -0.11,0.15 -0.12,0.13 -0.12,0.14 -0.12,0.13 -0.13,0.12 -0.13,0.12 -0.14,0.11 -0.14,0.11 -0.14,0.11 -0.15,0.09 -0.15,0.1 -0.15,0.08 -0.16,0.08 -0.17,0.08 -0.17,0.06 -0.17,0.07 -0.17,0.05 -0.18,0.05 -0.19,0.04 -0.19,0.03 -0.19,0.03 -0.2,0.02 -0.2,0.01 -0.21,0 0.05,-1.09 c 3.23,0 3.93,-4.08 3.93,-4.37 0,-0.32 -0.09,-0.61 -0.14,-0.86 l -2.5,-9.77 c -0.25,-0.89 -0.25,-0.98 -1,-1.84 -2.18,-2.74 -4.23,-3.53 -5.62,-3.53 -2.49,0 -3.19,2.73 -3.19,4.68 0,2.49 1.59,8.61 2.74,10.91 1.54,2.94 3.79,4.78 5.78,4.78 l -0.05,1.09 c -5.83,0 -12,-7.31 -12,-14.59 0,-4.69 2.73,-7.97 6.62,-7.97 0.99,0 3.49,0.21 6.47,3.74 0.41,-2.1 2.14,-3.74 4.53,-3.74 1.75,0 2.9,1.14 3.69,2.74 0.85,1.79 1.5,4.84 1.5,4.93 0,0.5 -0.45,0.5 -0.59,0.5 -0.5,0 -0.55,-0.2 -0.7,-0.9 -0.85,-3.24 -1.75,-6.17 -3.79,-6.17 -1.34,0 -1.5,1.29 -1.5,2.29 0,1.1 0.1,1.49 0.64,3.69 0.57,2.09 0.66,2.59 1.11,4.48 l 1.79,6.97 c 0.35,1.39 0.35,1.5 0.35,1.69 0,0.86 -0.6,1.36 -1.45,1.36 -1.19,0 -1.94,-1.11 -2.09,-2.2 z"
+           id="path7605" /></g>    </g>
+    <g
+       transform="matrix(0.35674963,0,0,0.35674963,149.08223,63.031125)"
+       id="g7785"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd1.png"
+       inkscape:export-xdpi="450.24402"
+       inkscape:export-ydpi="450.24402">
+      <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         word-spacing="normal"
+         letter-spacing="normal"
+         font-size-adjust="none"
+         font-stretch="normal"
+         font-weight="normal"
+         font-variant="normal"
+         font-style="normal"
+         stroke-miterlimit="10.433"
+         xml:space="preserve"
+         transform="matrix(1.0629921,0,0,-1.0629921,-186.02362,789.27165)"
+         id="g7787"><path
+           style="fill:#000000;stroke-width:0"
+           inkscape:connector-curvature="0"
+           id="path7789"
+           d="m 481.38,423.14 0.47,0.11 0.48,0.12 0.48,0.14 0.48,0.15 0.49,0.16 0.48,0.18 0.48,0.19 0.47,0.2 0.47,0.22 0.47,0.23 0.46,0.24 0.45,0.25 0.43,0.27 0.43,0.28 0.42,0.29 0.4,0.3 0.39,0.31 0.37,0.32 0.36,0.34 0.33,0.35 0.32,0.35 0.29,0.37 0.28,0.38 0.25,0.39 0.22,0.4 0.2,0.41 0.17,0.42 0.15,0.43 0.11,0.44 0.08,0.45 0.05,0.46 0.02,0.47 c 0,4.28 -4.48,7.47 -11,7.47 h -14.2 c -1,0 -1.45,0 -1.45,-1 0,-0.55 0.45,-0.55 1.4,-0.55 0.1,0 1.05,0 1.89,-0.09 0.89,-0.11 1.35,-0.16 1.35,-0.8 0,-0.2 -0.05,-0.36 -0.21,-0.95 l -6.67,-26.75 c -0.5,-1.95 -0.59,-2.34 -4.53,-2.34 -0.91,0 -1.34,0 -1.34,-1 0,-0.55 0.59,-0.55 0.68,-0.55 1.41,0 4.89,0.16 6.29,0.16 1.39,0 4.93,-0.16 6.32,-0.16 0.41,0 1,0 1,1 0,0.55 -0.45,0.55 -1.39,0.55 -1.84,0 -3.25,0 -3.25,0.89 0,0.29 0.11,0.54 0.16,0.84 l 3.28,13.2 h 5.94 l -0.05,1.11 h -5.59 l 3.25,13 c 0.29,1.19 0.43,1.69 1.39,1.85 0.45,0.04 2.04,0.04 3.03,0.04 3.55,0 9.08,0 9.08,-4.93 0,-1.69 -0.8,-5.13 -2.75,-7.07 -1.28,-1.29 -3.92,-2.89 -8.41,-2.89 l 0.05,-1.11 c 4.53,0 5.42,-2.78 5.42,-4.53 0,-0.75 -0.39,-2.28 -0.69,-3.44 -0.36,-1.39 -0.79,-3.23 -0.79,-4.23 0,-5.37 5.96,-5.37 6.62,-5.37 4.23,0 5.97,5.03 5.97,5.73 0,0.59 -0.55,0.59 -0.59,0.59 -0.46,0 -0.55,-0.36 -0.65,-0.7 -1.25,-3.69 -3.39,-4.53 -4.54,-4.53 -1.64,0 -1.99,1.09 -1.99,3.05 0,1.53 0.3,4.07 0.5,5.67 0.1,0.7 0.21,1.64 0.21,2.34 0,3.83 -3.35,5.38 -4.69,5.88 z" /></g>    </g>
+    <g
+       transform="matrix(0.35674963,0,0,0.35674963,400.31735,-55.448917)"
+       id="g7975"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd1.png"
+       inkscape:export-xdpi="450.24402"
+       inkscape:export-ydpi="450.24402">
+      <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="g7977"
+         transform="matrix(1.0629921,0,0,-1.0629921,-186.02362,789.27165)"
+         xml:space="preserve"
+         stroke-miterlimit="10.433"
+         font-style="normal"
+         font-variant="normal"
+         font-weight="normal"
+         font-stretch="normal"
+         font-size-adjust="none"
+         letter-spacing="normal"
+         word-spacing="normal"><path
+           style="fill:#000000;stroke-width:0"
+           inkscape:connector-curvature="0"
+           d="m 481.22,440.23 0,0 0,0.01 0,0 0,0.01 0,0.02 0,0.01 0,0.02 0,0.02 -0.01,0.02 0,0.02 -0.01,0.02 0,0.02 -0.01,0.02 -0.01,0.03 -0.01,0.02 -0.01,0.03 -0.02,0.02 -0.01,0.03 -0.02,0.02 -0.02,0.02 -0.02,0.03 -0.02,0.01 -0.01,0.01 -0.01,0.01 -0.02,0.01 -0.01,0.01 -0.02,0.01 -0.01,0.01 -0.02,0.01 -0.01,0.01 -0.02,0.01 -0.02,0 -0.02,0.01 -0.02,0.01 -0.02,0 -0.02,0.01 -0.03,0.01 -0.02,0 -0.02,0 -0.03,0.01 -0.03,0 -0.02,0 -0.03,0.01 -0.03,0 -0.03,0 c -0.75,0 -5.48,-0.46 -6.33,-0.55 -0.4,-0.05 -0.7,-0.3 -0.7,-0.95 0,-0.6 0.45,-0.6 1.2,-0.6 2.39,0 2.49,-0.34 2.49,-0.84 l -0.14,-1 -3,-11.81 c -0.89,1.84 -2.35,3.18 -4.58,3.18 l 0.05,-1.09 c 3.23,0 3.93,-4.08 3.93,-4.37 0,-0.32 -0.09,-0.61 -0.14,-0.86 l -2.5,-9.77 c -0.25,-0.89 -0.25,-0.98 -1,-1.84 -2.18,-2.74 -4.23,-3.53 -5.62,-3.53 -2.49,0 -3.19,2.73 -3.19,4.68 0,2.49 1.59,8.61 2.74,10.91 1.54,2.94 3.79,4.78 5.78,4.78 l -0.05,1.09 c -5.83,0 -12,-7.31 -12,-14.59 0,-4.69 2.73,-7.97 6.62,-7.97 0.99,0 3.49,0.21 6.47,3.74 0.41,-2.1 2.14,-3.74 4.53,-3.74 1.75,0 2.9,1.14 3.69,2.74 0.85,1.79 1.5,4.84 1.5,4.93 0,0.5 -0.45,0.5 -0.59,0.5 -0.5,0 -0.55,-0.2 -0.7,-0.9 -0.85,-3.24 -1.75,-6.17 -3.79,-6.17 -1.34,0 -1.5,1.29 -1.5,2.29 0,1.19 0.1,1.55 0.3,2.39 z"
+           id="path7979" /></g>    </g>
+    <g
+       transform="matrix(0.37293438,0,0,0.37293438,108.99693,288.83553)"
+       id="g8674"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd2.png"
+       inkscape:export-xdpi="450.06287"
+       inkscape:export-ydpi="450.06287">
+      <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         word-spacing="normal"
+         letter-spacing="normal"
+         font-size-adjust="none"
+         font-stretch="normal"
+         font-weight="normal"
+         font-variant="normal"
+         font-style="normal"
+         stroke-miterlimit="10.433"
+         xml:space="preserve"
+         transform="matrix(1.0629921,0,0,-1.0629921,-186.02362,789.27165)"
+         id="g8676"><path
+           style="fill:#000000;stroke-width:0"
+           inkscape:connector-curvature="0"
+           id="path8678"
+           d="m 478.99,424.98 0.01,0.06 0.01,0.05 0.01,0.05 0.01,0.06 0.02,0.1 0.01,0.05 0.02,0.06 0.01,0.05 0.01,0.06 0.01,0.05 0,0.06 0.01,0.06 0,0.06 0.01,0.03 0,0.03 0,0.03 0,0.03 c 0,0.86 -0.59,1.36 -1.44,1.36 -0.5,0 -1.84,-0.36 -2.05,-2.16 -0.89,1.85 -2.64,3.14 -4.62,3.14 l 0.05,-1.09 c 3.28,0 3.98,-4.03 3.98,-4.28 0,-0.25 -0.09,-0.55 -0.16,-0.75 l -2.39,-9.52 c -0.29,-1.29 -1.43,-2.53 -2.53,-3.48 -1.04,-0.89 -2.59,-1.8 -4.04,-1.8 -2.49,0 -3.24,2.6 -3.24,4.58 0,2.41 1.45,8.28 2.8,10.81 1.34,2.46 3.48,4.44 5.58,4.44 l -0.05,1.09 c -5.69,0 -11.86,-6.96 -11.86,-14.14 0,-4.93 3.03,-7.87 6.63,-7.87 2.93,0 5.28,2.34 5.78,2.89 l 0.04,-0.05 c -1.04,-4.43 -1.64,-6.48 -1.64,-6.58 -0.2,-0.45 -1.89,-5.39 -7.17,-5.39 -0.95,0 -2.59,0.07 -4,0.5 1.5,0.46 2.05,1.75 2.05,2.6 0,0.79 -0.55,1.75 -1.89,1.75 -1.1,0 -2.69,-0.91 -2.69,-2.89 0,-2.05 1.84,-3.05 6.62,-3.05 6.22,0 9.82,3.89 10.57,6.88 z" /></g>    </g>
+    <g
+       transform="matrix(0.37293438,0,0,0.37293438,279.39537,286.40045)"
+       id="g8862"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd2.png"
+       inkscape:export-xdpi="450.06287"
+       inkscape:export-ydpi="450.06287">
+      <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="g8864"
+         transform="matrix(1.0629921,0,0,-1.0629921,-186.02362,789.27165)"
+         xml:space="preserve"
+         stroke-miterlimit="10.433"
+         font-style="normal"
+         font-variant="normal"
+         font-weight="normal"
+         font-stretch="normal"
+         font-size-adjust="none"
+         letter-spacing="normal"
+         word-spacing="normal"><path
+           style="fill:#000000;stroke-width:0"
+           inkscape:connector-curvature="0"
+           d="m 467.43,440.23 0,0 0,0.01 0,0 0,0.01 -0.01,0.02 0,0.01 0,0.02 0,0.02 0,0.02 -0.01,0.02 0,0.02 -0.01,0.02 -0.01,0.02 -0.01,0.03 -0.01,0.02 -0.01,0.03 -0.01,0.02 -0.02,0.03 -0.02,0.02 -0.02,0.02 -0.02,0.03 -0.01,0.01 -0.02,0.01 -0.01,0.01 -0.01,0.01 -0.02,0.01 -0.01,0.01 -0.02,0.01 -0.01,0.01 -0.02,0.01 -0.02,0.01 -0.02,0 -0.02,0.01 -0.02,0.01 -0.02,0 -0.02,0.01 -0.02,0.01 -0.03,0 -0.02,0 -0.03,0.01 -0.02,0 -0.03,0 -0.03,0.01 -0.03,0 -0.02,0 c -1.16,0 -4.79,-0.41 -6.08,-0.5 -0.41,-0.05 -0.96,-0.1 -0.96,-1 0,-0.6 0.46,-0.6 1.21,-0.6 2.39,0 2.48,-0.34 2.48,-0.84 0,-0.36 -0.45,-2.05 -0.7,-3.09 l -4.08,-16.24 c -0.59,-2.5 -0.8,-3.3 -0.8,-5.03 0,-4.73 2.64,-7.83 6.33,-7.83 v 1.1 c -1.7,0 -3.34,1.34 -3.34,5.03 0,0.95 0,1.89 0.79,5.03 l 1.1,4.59 c 0.3,1.1 0.3,1.19 0.75,1.74 2.44,3.23 4.69,3.98 5.98,3.98 1.8,0 3.14,-1.48 3.14,-4.69 0,-2.93 -1.65,-8.65 -2.54,-10.56 -1.64,-3.33 -3.94,-5.12 -5.88,-5.12 v -1.1 c 5.88,0 12,7.42 12,14.6 0,4.53 -2.64,7.96 -6.62,7.96 -2.28,0 -4.33,-1.43 -5.83,-2.98 z"
+           id="path8866" /></g>    </g>
+    <g
+       transform="matrix(0.37293438,0,0,0.37293438,353.09154,265.03313)"
+       id="g9056"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd2.png"
+       inkscape:export-xdpi="450.06287"
+       inkscape:export-ydpi="450.06287">
+      <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         word-spacing="normal"
+         letter-spacing="normal"
+         font-size-adjust="none"
+         font-stretch="normal"
+         font-weight="normal"
+         font-variant="normal"
+         font-style="normal"
+         stroke-miterlimit="10.433"
+         xml:space="preserve"
+         transform="matrix(1.0629921,0,0,-1.0629921,-186.02362,789.27165)"
+         id="g9058"><path
+           style="fill:#000000;stroke-width:0"
+           inkscape:connector-curvature="0"
+           id="path9060"
+           d="m 487.66,440.82 0,0.02 0,0.02 0,0.01 -0.01,0.02 0,0.02 0,0.02 -0.01,0.02 0,0.02 -0.01,0.02 -0.01,0.02 -0.01,0.02 -0.01,0.02 -0.01,0.02 -0.01,0.02 -0.01,0.02 -0.02,0.02 -0.02,0.02 -0.01,0.02 -0.02,0.02 -0.02,0.02 -0.02,0.01 -0.03,0.02 -0.02,0.01 -0.03,0.02 -0.02,0.01 -0.03,0.01 -0.02,0.01 -0.01,0 -0.02,0.01 -0.02,0 -0.01,0 -0.02,0.01 -0.02,0 -0.02,0 -0.02,0 -0.02,0 -0.02,0 -0.02,0 c -0.25,0 -0.31,-0.04 -0.9,-0.75 l -2.39,-2.84 c -1.3,2.34 -3.89,3.59 -7.13,3.59 -6.33,0 -12.3,-5.73 -12.3,-11.76 0,-4.03 2.65,-6.33 5.18,-7.06 l 5.32,-1.41 c 1.85,-0.44 4.6,-1.19 4.6,-5.28 0,-4.49 -4.1,-9.16 -8.97,-9.16 -3.19,0 -8.72,1.1 -8.72,7.27 0,1.2 0.25,2.39 0.3,2.69 0.04,0.2 0.09,0.25 0.09,0.35 0,0.5 -0.34,0.55 -0.59,0.55 -0.25,0 -0.35,-0.05 -0.5,-0.2 -0.21,-0.2 -2.99,-11.56 -2.99,-11.7 0,-0.3 0.25,-0.5 0.55,-0.5 0.25,0 0.3,0.04 0.89,0.75 l 2.45,2.82 c 2.14,-2.89 5.52,-3.57 8.41,-3.57 6.78,0 12.66,6.62 12.66,12.79 0,3.44 -1.69,5.14 -2.44,5.83 -1.14,1.16 -1.89,1.34 -6.33,2.5 -1.09,0.3 -2.89,0.8 -3.34,0.89 -1.35,0.45 -3.03,1.89 -3.03,4.53 0,4.05 3.98,8.28 8.71,8.28 4.15,0 7.18,-2.14 7.18,-7.73 0,-1.59 -0.21,-2.49 -0.21,-2.78 0,-0.05 0,-0.5 0.61,-0.5 0.5,0 0.55,0.15 0.74,1 z" /></g>    </g>
+    <g
+       transform="matrix(0.37293438,0,0,0.37293438,189.70674,500.80643)"
+       id="g9256"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd2.png"
+       inkscape:export-xdpi="450.06287"
+       inkscape:export-ydpi="450.06287">
+      <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="g9258"
+         transform="matrix(1.0629921,0,0,-1.0629921,-186.02362,789.27165)"
+         xml:space="preserve"
+         stroke-miterlimit="10.433"
+         font-style="normal"
+         font-variant="normal"
+         font-weight="normal"
+         font-stretch="normal"
+         font-size-adjust="none"
+         letter-spacing="normal"
+         word-spacing="normal"><path
+           style="fill:#000000;stroke-width:0"
+           inkscape:connector-curvature="0"
+           d="m 493.54,436.39 0.04,0.16 0.04,0.16 0.04,0.15 0.04,0.14 0.04,0.14 0.04,0.13 0.04,0.12 0.05,0.11 0.05,0.11 0.05,0.11 0.06,0.09 0.07,0.09 0.07,0.09 0.08,0.08 0.09,0.07 0.09,0.07 0.11,0.06 0.11,0.06 0.13,0.05 0.14,0.05 0.15,0.04 0.16,0.04 0.09,0.02 0.09,0.02 0.09,0.01 0.1,0.02 0.1,0.01 0.1,0.01 0.11,0.02 0.11,0.01 0.12,0.01 0.12,0 0.13,0.01 0.13,0.01 0.13,0.01 0.14,0 0.14,0 0.15,0.01 0.15,0 0.16,0 0.16,0 0.17,0 c 1.3,0 1.69,0 1.69,1 0,0.55 -0.55,0.55 -0.7,0.55 -1.39,0 -4.97,-0.16 -6.38,-0.16 -1.44,0 -4.98,0.16 -6.42,0.16 -0.39,0 -0.95,0 -0.95,-1 0,-0.55 0.45,-0.55 1.4,-0.55 0.1,0 1.05,0 1.89,-0.09 0.89,-0.11 1.35,-0.16 1.35,-0.8 0,-0.2 -0.05,-0.31 -0.21,-0.95 l -2.98,-12.16 h -15.2 l 2.95,11.71 c 0.44,1.79 0.59,2.29 4.17,2.29 1.3,0 1.71,0 1.71,1 0,0.55 -0.55,0.55 -0.71,0.55 -1.39,0 -4.98,-0.16 -6.37,-0.16 -1.44,0 -4.99,0.16 -6.42,0.16 -0.41,0 -0.96,0 -0.96,-1 0,-0.55 0.46,-0.55 1.39,-0.55 0.11,0 1.05,0 1.91,-0.09 0.89,-0.11 1.34,-0.16 1.34,-0.8 0,-0.2 -0.06,-0.36 -0.2,-0.95 l -6.67,-26.75 c -0.5,-1.95 -0.61,-2.34 -4.55,-2.34 -0.89,0 -1.34,0 -1.34,-1 0,-0.55 0.61,-0.55 0.7,-0.55 1.39,0 4.94,0.16 6.33,0.16 1.05,0 2.14,-0.07 3.19,-0.07 1.09,0 2.18,-0.09 3.23,-0.09 0.41,0 1,0 1,1 0,0.55 -0.45,0.55 -1.39,0.55 -1.84,0 -3.23,0 -3.23,0.89 0,0.29 0.09,0.54 0.14,0.84 l 3.39,13.66 H 486 c -2.09,-8.27 -3.23,-13 -3.43,-13.75 -0.49,-1.6 -1.44,-1.64 -4.53,-1.64 -0.75,0 -1.19,0 -1.19,-1 0,-0.55 0.59,-0.55 0.69,-0.55 1.4,0 4.93,0.16 6.32,0.16 1.05,0 2.14,-0.07 3.19,-0.07 1.11,0 2.2,-0.09 3.25,-0.09 0.39,0 0.99,0 0.99,1 0,0.55 -0.44,0.55 -1.4,0.55 -1.84,0 -3.23,0 -3.23,0.89 0,0.29 0.09,0.54 0.14,0.84 z"
+           id="path9260" /></g>    </g>
+    <g
+       transform="matrix(0.35674963,0,0,0.35674963,151.10065,422.50416)"
+       id="g7785-0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd2.png"
+       inkscape:export-xdpi="450.06287"
+       inkscape:export-ydpi="450.06287">
+      <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         word-spacing="normal"
+         letter-spacing="normal"
+         font-size-adjust="none"
+         font-stretch="normal"
+         font-weight="normal"
+         font-variant="normal"
+         font-style="normal"
+         stroke-miterlimit="10.433"
+         xml:space="preserve"
+         transform="matrix(1.0629921,0,0,-1.0629921,-186.02362,789.27165)"
+         id="g7787-1"><path
+           style="fill:#000000;stroke-width:0"
+           inkscape:connector-curvature="0"
+           id="path7789-5"
+           d="m 481.38,423.14 0.47,0.11 0.48,0.12 0.48,0.14 0.48,0.15 0.49,0.16 0.48,0.18 0.48,0.19 0.47,0.2 0.47,0.22 0.47,0.23 0.46,0.24 0.45,0.25 0.43,0.27 0.43,0.28 0.42,0.29 0.4,0.3 0.39,0.31 0.37,0.32 0.36,0.34 0.33,0.35 0.32,0.35 0.29,0.37 0.28,0.38 0.25,0.39 0.22,0.4 0.2,0.41 0.17,0.42 0.15,0.43 0.11,0.44 0.08,0.45 0.05,0.46 0.02,0.47 c 0,4.28 -4.48,7.47 -11,7.47 h -14.2 c -1,0 -1.45,0 -1.45,-1 0,-0.55 0.45,-0.55 1.4,-0.55 0.1,0 1.05,0 1.89,-0.09 0.89,-0.11 1.35,-0.16 1.35,-0.8 0,-0.2 -0.05,-0.36 -0.21,-0.95 l -6.67,-26.75 c -0.5,-1.95 -0.59,-2.34 -4.53,-2.34 -0.91,0 -1.34,0 -1.34,-1 0,-0.55 0.59,-0.55 0.68,-0.55 1.41,0 4.89,0.16 6.29,0.16 1.39,0 4.93,-0.16 6.32,-0.16 0.41,0 1,0 1,1 0,0.55 -0.45,0.55 -1.39,0.55 -1.84,0 -3.25,0 -3.25,0.89 0,0.29 0.11,0.54 0.16,0.84 l 3.28,13.2 h 5.94 l -0.05,1.11 h -5.59 l 3.25,13 c 0.29,1.19 0.43,1.69 1.39,1.85 0.45,0.04 2.04,0.04 3.03,0.04 3.55,0 9.08,0 9.08,-4.93 0,-1.69 -0.8,-5.13 -2.75,-7.07 -1.28,-1.29 -3.92,-2.89 -8.41,-2.89 l 0.05,-1.11 c 4.53,0 5.42,-2.78 5.42,-4.53 0,-0.75 -0.39,-2.28 -0.69,-3.44 -0.36,-1.39 -0.79,-3.23 -0.79,-4.23 0,-5.37 5.96,-5.37 6.62,-5.37 4.23,0 5.97,5.03 5.97,5.73 0,0.59 -0.55,0.59 -0.59,0.59 -0.46,0 -0.55,-0.36 -0.65,-0.7 -1.25,-3.69 -3.39,-4.53 -4.54,-4.53 -1.64,0 -1.99,1.09 -1.99,3.05 0,1.53 0.3,4.07 0.5,5.67 0.1,0.7 0.21,1.64 0.21,2.34 0,3.83 -3.35,5.38 -4.69,5.88 z" /></g>    </g>
+    <g
+       transform="matrix(0.37293438,0,0,0.37293438,350.48197,510.7892)"
+       id="g9056-6"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd2.png"
+       inkscape:export-xdpi="450.06287"
+       inkscape:export-ydpi="450.06287">
+      <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         word-spacing="normal"
+         letter-spacing="normal"
+         font-size-adjust="none"
+         font-stretch="normal"
+         font-weight="normal"
+         font-variant="normal"
+         font-style="normal"
+         stroke-miterlimit="10.433"
+         xml:space="preserve"
+         transform="matrix(1.0629921,0,0,-1.0629921,-186.02362,789.27165)"
+         id="g9058-7"><path
+           style="fill:#000000;stroke-width:0"
+           inkscape:connector-curvature="0"
+           id="path9060-3"
+           d="m 487.66,440.82 0,0.02 0,0.02 0,0.01 -0.01,0.02 0,0.02 0,0.02 -0.01,0.02 0,0.02 -0.01,0.02 -0.01,0.02 -0.01,0.02 -0.01,0.02 -0.01,0.02 -0.01,0.02 -0.01,0.02 -0.02,0.02 -0.02,0.02 -0.01,0.02 -0.02,0.02 -0.02,0.02 -0.02,0.01 -0.03,0.02 -0.02,0.01 -0.03,0.02 -0.02,0.01 -0.03,0.01 -0.02,0.01 -0.01,0 -0.02,0.01 -0.02,0 -0.01,0 -0.02,0.01 -0.02,0 -0.02,0 -0.02,0 -0.02,0 -0.02,0 -0.02,0 c -0.25,0 -0.31,-0.04 -0.9,-0.75 l -2.39,-2.84 c -1.3,2.34 -3.89,3.59 -7.13,3.59 -6.33,0 -12.3,-5.73 -12.3,-11.76 0,-4.03 2.65,-6.33 5.18,-7.06 l 5.32,-1.41 c 1.85,-0.44 4.6,-1.19 4.6,-5.28 0,-4.49 -4.1,-9.16 -8.97,-9.16 -3.19,0 -8.72,1.1 -8.72,7.27 0,1.2 0.25,2.39 0.3,2.69 0.04,0.2 0.09,0.25 0.09,0.35 0,0.5 -0.34,0.55 -0.59,0.55 -0.25,0 -0.35,-0.05 -0.5,-0.2 -0.21,-0.2 -2.99,-11.56 -2.99,-11.7 0,-0.3 0.25,-0.5 0.55,-0.5 0.25,0 0.3,0.04 0.89,0.75 l 2.45,2.82 c 2.14,-2.89 5.52,-3.57 8.41,-3.57 6.78,0 12.66,6.62 12.66,12.79 0,3.44 -1.69,5.14 -2.44,5.83 -1.14,1.16 -1.89,1.34 -6.33,2.5 -1.09,0.3 -2.89,0.8 -3.34,0.89 -1.35,0.45 -3.03,1.89 -3.03,4.53 0,4.05 3.98,8.28 8.71,8.28 4.15,0 7.18,-2.14 7.18,-7.73 0,-1.59 -0.21,-2.49 -0.21,-2.78 0,-0.05 0,-0.5 0.61,-0.5 0.5,0 0.55,0.15 0.74,1 z" /></g>    </g>
+    <g
+       transform="matrix(0.35674963,0,0,0.35674963,25.763702,335.16466)"
+       id="g7086-4"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd2.png"
+       inkscape:export-xdpi="450.06287"
+       inkscape:export-ydpi="450.06287">
+      <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         word-spacing="normal"
+         letter-spacing="normal"
+         font-size-adjust="none"
+         font-stretch="normal"
+         font-weight="normal"
+         font-variant="normal"
+         font-style="normal"
+         stroke-miterlimit="10.433"
+         xml:space="preserve"
+         transform="matrix(1.0629921,0,0,-1.0629921,-186.02362,789.27165)"
+         id="content-3"><path
+           style="fill:#000000;stroke-width:0"
+           inkscape:connector-curvature="0"
+           id="path7089-5"
+           d="m 464.44,411.93 -0.19,-0.3 -0.18,-0.29 -0.19,-0.28 -0.19,-0.26 -0.18,-0.25 -0.19,-0.23 -0.19,-0.22 -0.18,-0.21 -0.19,-0.2 -0.19,-0.18 -0.18,-0.17 -0.19,-0.16 -0.19,-0.15 -0.18,-0.14 -0.19,-0.13 -0.19,-0.12 -0.19,-0.11 -0.19,-0.1 -0.19,-0.09 -0.19,-0.09 -0.19,-0.07 -0.2,-0.07 -0.19,-0.07 -0.2,-0.05 -0.19,-0.05 -0.2,-0.04 -0.2,-0.04 -0.19,-0.03 -0.41,-0.05 -0.4,-0.03 c -0.61,-0.05 -1.05,-0.05 -1.05,-1 0,-0.3 0.25,-0.55 0.64,-0.55 1.34,0 2.89,0.16 4.28,0.16 1.64,0 3.39,-0.16 4.99,-0.16 0.29,0 0.95,0 0.95,0.95 0,0.55 -0.45,0.6 -0.8,0.6 -1.15,0.09 -2.34,0.5 -2.34,1.73 0,0.61 0.3,1.16 0.69,1.84 l 3.79,6.39 h 12.5 l -0.14,1.54 h -11.42 l 9.83,16.45 1.59,-16.45 0.14,-1.54 c 0.11,-1.04 0.8,-7.82 0.8,-8.32 0,-1.5 -2.59,-1.64 -3.58,-1.64 -0.7,0 -1.2,0 -1.2,-1 0,-0.55 0.59,-0.55 0.7,-0.55 2.03,0 4.19,0.16 6.22,0.16 1.25,0 4.39,-0.16 5.64,-0.16 0.3,0 0.89,0 0.89,1 0,0.55 -0.5,0.55 -1.14,0.55 -3.09,0 -3.09,0.34 -3.25,1.79 l -3.03,31.13 c -0.11,1 -0.11,1.2 -0.95,1.2 -0.8,0 -0.99,-0.34 -1.3,-0.84 z" /></g>    </g>
+    <g
+       transform="matrix(0.35674963,0,0,0.35674963,24.951071,469.07928)"
+       id="g7249-0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd2.png"
+       inkscape:export-xdpi="450.06287"
+       inkscape:export-ydpi="450.06287">
+      <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="g7251-6"
+         transform="matrix(1.0629921,0,0,-1.0629921,-186.02362,789.27165)"
+         xml:space="preserve"
+         stroke-miterlimit="10.433"
+         font-style="normal"
+         font-variant="normal"
+         font-weight="normal"
+         font-stretch="normal"
+         font-size-adjust="none"
+         letter-spacing="normal"
+         word-spacing="normal"><path
+           style="fill:#000000;stroke-width:0"
+           inkscape:connector-curvature="0"
+           d="m 464.44,411.93 -0.19,-0.3 -0.18,-0.29 -0.19,-0.28 -0.19,-0.26 -0.18,-0.25 -0.19,-0.23 -0.19,-0.22 -0.18,-0.21 -0.19,-0.2 -0.19,-0.18 -0.18,-0.17 -0.19,-0.16 -0.19,-0.15 -0.18,-0.14 -0.19,-0.13 -0.19,-0.12 -0.19,-0.11 -0.19,-0.1 -0.19,-0.09 -0.19,-0.09 -0.19,-0.07 -0.2,-0.07 -0.19,-0.07 -0.2,-0.05 -0.19,-0.05 -0.2,-0.04 -0.2,-0.04 -0.19,-0.03 -0.41,-0.05 -0.4,-0.03 c -0.61,-0.05 -1.05,-0.05 -1.05,-1 0,-0.3 0.25,-0.55 0.64,-0.55 1.34,0 2.89,0.16 4.28,0.16 1.64,0 3.39,-0.16 4.99,-0.16 0.29,0 0.95,0 0.95,0.95 0,0.55 -0.45,0.6 -0.8,0.6 -1.15,0.09 -2.34,0.5 -2.34,1.73 0,0.61 0.3,1.16 0.69,1.84 l 3.79,6.39 h 12.5 l -0.14,1.54 h -11.42 l 9.83,16.45 1.59,-16.45 0.14,-1.54 c 0.11,-1.04 0.8,-7.82 0.8,-8.32 0,-1.5 -2.59,-1.64 -3.58,-1.64 -0.7,0 -1.2,0 -1.2,-1 0,-0.55 0.59,-0.55 0.7,-0.55 2.03,0 4.19,0.16 6.22,0.16 1.25,0 4.39,-0.16 5.64,-0.16 0.3,0 0.89,0 0.89,1 0,0.55 -0.5,0.55 -1.14,0.55 -3.09,0 -3.09,0.34 -3.25,1.79 l -3.03,31.13 c -0.11,1 -0.11,1.2 -0.95,1.2 -0.8,0 -0.99,-0.34 -1.3,-0.84 z"
+           id="path7253-4" /><path
+           style="fill:#000000;stroke-width:0"
+           inkscape:connector-curvature="0"
+           d="m 502.95,440.65 0.02,0.06 0.03,0.05 0.02,0.05 0.02,0.05 0.02,0.04 0.02,0.05 0.02,0.04 0.02,0.04 0.01,0.05 0.02,0.04 0.01,0.03 0.01,0.04 0.01,0.04 0.01,0.03 0.01,0.04 0.01,0.03 0.01,0.03 0.01,0.03 0,0.03 0.01,0.03 0,0.03 0.01,0.03 0,0.03 0,0.02 0.01,0.06 0,0.05 0,0.04 0,0.05 c 0,1.08 -0.98,1.92 -2.06,1.92 -1.33,0 -1.74,-1.09 -1.91,-1.64 l -4.61,-15.09 c -0.03,-0.06 -0.17,-0.52 -0.17,-0.56 0,-0.41 1.08,-0.77 1.36,-0.77 0.25,0 0.28,0.08 0.52,0.59 z"
+           id="path7255-4" /></g>    </g>
+    <g
+       transform="matrix(0.35674963,0,0,0.35674963,10.680021,396.04171)"
+       id="g7601-8"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd2.png"
+       inkscape:export-xdpi="450.06287"
+       inkscape:export-ydpi="450.06287">
+      <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="g7603-1"
+         transform="matrix(1.0629921,0,0,-1.0629921,-186.02362,789.27165)"
+         xml:space="preserve"
+         stroke-miterlimit="10.433"
+         font-style="normal"
+         font-variant="normal"
+         font-weight="normal"
+         font-stretch="normal"
+         font-size-adjust="none"
+         letter-spacing="normal"
+         word-spacing="normal"><path
+           style="fill:#000000;stroke-width:0"
+           inkscape:connector-curvature="0"
+           d="m 474.1,425.03 -0.09,0.17 -0.09,0.17 -0.09,0.16 -0.09,0.16 -0.1,0.16 -0.1,0.16 -0.11,0.15 -0.11,0.14 -0.11,0.15 -0.12,0.13 -0.12,0.14 -0.12,0.13 -0.13,0.12 -0.13,0.12 -0.14,0.11 -0.14,0.11 -0.14,0.11 -0.15,0.09 -0.15,0.1 -0.15,0.08 -0.16,0.08 -0.17,0.08 -0.17,0.06 -0.17,0.07 -0.17,0.05 -0.18,0.05 -0.19,0.04 -0.19,0.03 -0.19,0.03 -0.2,0.02 -0.2,0.01 -0.21,0 0.05,-1.09 c 3.23,0 3.93,-4.08 3.93,-4.37 0,-0.32 -0.09,-0.61 -0.14,-0.86 l -2.5,-9.77 c -0.25,-0.89 -0.25,-0.98 -1,-1.84 -2.18,-2.74 -4.23,-3.53 -5.62,-3.53 -2.49,0 -3.19,2.73 -3.19,4.68 0,2.49 1.59,8.61 2.74,10.91 1.54,2.94 3.79,4.78 5.78,4.78 l -0.05,1.09 c -5.83,0 -12,-7.31 -12,-14.59 0,-4.69 2.73,-7.97 6.62,-7.97 0.99,0 3.49,0.21 6.47,3.74 0.41,-2.1 2.14,-3.74 4.53,-3.74 1.75,0 2.9,1.14 3.69,2.74 0.85,1.79 1.5,4.84 1.5,4.93 0,0.5 -0.45,0.5 -0.59,0.5 -0.5,0 -0.55,-0.2 -0.7,-0.9 -0.85,-3.24 -1.75,-6.17 -3.79,-6.17 -1.34,0 -1.5,1.29 -1.5,2.29 0,1.1 0.1,1.49 0.64,3.69 0.57,2.09 0.66,2.59 1.11,4.48 l 1.79,6.97 c 0.35,1.39 0.35,1.5 0.35,1.69 0,0.86 -0.6,1.36 -1.45,1.36 -1.19,0 -1.94,-1.11 -2.09,-2.2 z"
+           id="path7605-2" /></g>    </g>
+    <g
+       id="g9590"
+       transform="matrix(0.39565357,0,0,0.39565357,367.26732,385.33005)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd2.png"
+       inkscape:export-xdpi="450.06287"
+       inkscape:export-ydpi="450.06287">
+      <g
+         word-spacing="normal"
+         letter-spacing="normal"
+         font-size-adjust="none"
+         font-stretch="normal"
+         font-weight="normal"
+         font-variant="normal"
+         font-style="normal"
+         stroke-miterlimit="10.433"
+         xml:space="preserve"
+         transform="matrix(1.0629921,0,0,-1.0629921,-186.02362,789.27165)"
+         id="g9592"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"><path
+           id="path9594"
+           d="m 463.49,410.09 -0.05,-0.18 -0.04,-0.17 -0.05,-0.16 -0.04,-0.15 -0.04,-0.15 -0.05,-0.13 -0.05,-0.13 -0.05,-0.12 -0.05,-0.11 -0.06,-0.11 -0.07,-0.1 -0.07,-0.09 -0.07,-0.09 -0.09,-0.07 -0.09,-0.08 -0.11,-0.06 -0.11,-0.07 -0.13,-0.05 -0.13,-0.05 -0.15,-0.05 -0.16,-0.04 -0.09,-0.02 -0.09,-0.01 -0.09,-0.02 -0.1,-0.02 -0.1,-0.01 -0.1,-0.01 -0.11,-0.01 -0.12,-0.02 -0.11,-0.01 -0.13,-0.01 -0.12,0 -0.13,-0.01 -0.14,-0.01 -0.14,0 -0.14,-0.01 -0.15,0 -0.16,-0.01 -0.16,0 -0.16,0 -0.17,0 -0.18,0 -0.18,0 c -0.85,0 -1.35,0 -1.35,-1 0,-0.55 0.46,-0.55 1.35,-0.55 h 17.78 c 7.87,0 13.75,5.87 13.75,10.76 0,3.58 -2.89,6.47 -7.72,7.02 5.19,0.95 10.42,4.64 10.42,9.38 0,3.68 -3.3,6.87 -9.28,6.87 l -0.69,-1.55 c 4.38,0 5.42,-2.93 5.42,-5.12 0,-4.39 -4.28,-9.13 -10.35,-9.13 h -7.27 l -0.3,-1.09 h 9.41 c 4.78,0 5.73,-3.69 5.73,-5.83 0,-4.94 -4.43,-9.76 -10.31,-9.76 h -6.78 c -0.69,0 -0.8,0 -1.09,0.04 -0.5,0.05 -0.64,0.1 -0.64,0.5 0,0.14 0,0.25 0.25,1.14 l 3.43,13.91 0.3,1.09 3.08,12.36 c 0.45,1.74 0.54,1.89 2.7,1.89 h 6.42 l 0.69,1.55 h -16.73 c -0.94,0 -1.44,0 -1.44,-1 0,-0.55 0.44,-0.55 1.39,-0.55 0.09,0 1.05,0 1.89,-0.09 0.89,-0.11 1.34,-0.16 1.34,-0.8 0,-0.2 -0.04,-0.36 -0.2,-0.95 z"
+           inkscape:connector-curvature="0"
+           style="fill:#000000;stroke-width:0" /></g>    </g>
+    <g
+       id="g6244-8"
+       transform="matrix(1.8536353,0,0,-2.0731475,-17.911704,1128.9429)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd1.png"
+       inkscape:export-xdpi="450.24402"
+       inkscape:export-ydpi="450.24402">
+      <g
+         clip-path="url(#clipPath6248-0)"
+         id="g6246-9">
+        <path
+           id="path6252-2"
+           style="fill:none;stroke:#3e3d3d;stroke-width:0.17399999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:none"
+           d="m 71.793,125.926 205.093,0"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <path
+       id="path6256-6"
+       style="fill:none;stroke:#3e3d3d;stroke-width:2.23280597;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:none"
+       d="m 480.84225,737.94731 0,259.8649"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd1.png"
+       inkscape:export-xdpi="450.24402"
+       inkscape:export-ydpi="450.24402" />
+    <path
+       id="path6258-6"
+       style="fill:none;stroke:#3e3d3d;stroke-width:0.44695324;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:none"
+       d="m 305.41235,867.6994 0,0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd1.png"
+       inkscape:export-xdpi="450.24402"
+       inkscape:export-ydpi="450.24402" />
+    <path
+       id="path6260-4"
+       style="fill:#3e3d3d;fill-opacity:1;fill-rule:evenodd;stroke:#3e3d3d;stroke-width:0.44695324;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:none"
+       d="m 235.50991,867.87976 59.13652,0 0,9.92209 -59.13652,0 0,-9.92209 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd1.png"
+       inkscape:export-xdpi="450.24402"
+       inkscape:export-ydpi="450.24402" />
+    <path
+       id="path6262-9"
+       style="fill:#fffb61;fill-opacity:1;stroke:#3e3d3d;stroke-width:1.34085977;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:none"
+       d="m 150.75058,810.04724 c 5.81671,0 10.56016,5.30518 10.56016,11.81072 0,6.50554 -4.74345,11.8128 -10.56016,11.8128 -5.81671,0 -10.56016,-5.30726 -10.56016,-11.8128 0,-6.50554 4.74345,-11.81072 10.56016,-11.81072 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd1.png"
+       inkscape:export-xdpi="450.24402"
+       inkscape:export-ydpi="450.24402" />
+    <path
+       id="path6264-5"
+       style="fill:#fffb61;fill-opacity:1;stroke:#3e3d3d;stroke-width:1.34085977;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:6.70037811, 6.70037811;stroke-dashoffset:0"
+       d="m 150.75058,902.09084 c 5.81671,0 10.56016,5.30519 10.56016,11.81073 0,6.50553 -4.74345,11.81279 -10.56016,11.81279 -5.81671,0 -10.56016,-5.30726 -10.56016,-11.81279 0,-6.50554 4.74345,-11.81073 10.56016,-11.81073 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd1.png"
+       inkscape:export-xdpi="450.24402"
+       inkscape:export-ydpi="450.24402" />
+    <path
+       id="path6266-0"
+       style="fill:none;stroke:#3e3d3d;stroke-width:1.34085977000000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61299992000000003;stroke-opacity:1;stroke-dasharray:none;opacity:0.37711864"
+       d="m 150.75058,821.85796 86.33677,46.0218 -86.33677,-46.0218 z m 0,0 142.25539,45.99485"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd1.png"
+       inkscape:export-xdpi="450.24402"
+       inkscape:export-ydpi="450.24402" />
+    <path
+       id="path6280-8"
+       style="fill:none;stroke:#3e3d3d;stroke-width:1.34085977000000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61299992000000003;stroke-opacity:1;stroke-dasharray:6.70037810999999994, 6.70037810999999994;stroke-dashoffset:0;opacity:0.58050847"
+       d="m 237.08735,867.87976 -86.33677,46.02181 142.20534,-46.02181 -142.20534,46.02181 86.33677,-46.02181 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd1.png"
+       inkscape:export-xdpi="450.24402"
+       inkscape:export-ydpi="450.24402" />
+    <path
+       id="path6282-7"
+       style="fill:none;stroke:#000000;stroke-width:1.34085977;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:none"
+       d="m 483.239,788.35797 c 0,-0.41878 0.33736,-0.65511 0.81745,-0.99304 2.11685,-1.15267 5.21798,-1.86168 7.91688,-2.57277 2.69889,-0.70902 5.80188,-1.42011 7.91687,-2.57278 0.48195,-0.33585 0.81746,-0.57426 0.81746,-0.99304 0,-0.42085 -0.33551,-0.65718 -0.81746,-0.99303 -2.11499,-1.15475 -5.21798,-1.86376 -7.91687,-2.57278 -2.6989,-0.71109 -5.80003,-1.42011 -7.91688,-2.57278 -0.48009,-0.33792 -0.81745,-0.57426 -0.81745,-0.99303 0,-0.42085 0.33736,-0.65719 0.81745,-0.99512 2.11685,-1.15267 5.21798,-1.86168 7.91688,-2.57277 2.69889,-0.70902 5.80188,-1.41803 7.91687,-2.57278 0.48195,-0.33585 0.81746,-0.57219 0.81746,-0.99304 0,-0.41877 -0.33551,-0.65718 -0.81746,-0.99303 -2.11499,-1.15267 -5.21798,-1.86376 -7.91687,-2.57278 -2.6989,-0.70902 -5.80003,-1.42011 -7.91688,-2.57278 -0.48009,-0.33792 -0.81745,-0.57426 -0.81745,-0.99303 0,-0.42085 0.22429,-0.65719 0.54497,-0.99304 1.41247,-1.15474 3.47927,-1.86376 5.27915,-2.57278 1.79803,-0.71109 3.86668,-1.4201 5.2773,-2.57277 0.32068,-0.33793 0.54497,-0.57426 0.54497,-0.99511 0,-0.41878 -0.22429,-0.65512 -0.54497,-0.99304 -1.41062,-1.15267 -3.47927,-1.86376 -5.2773,-2.57278 -1.79988,-0.70901 -3.86668,-1.41803 -5.27915,-2.57277 -0.32068,-0.33585 -0.54497,-0.57219 -0.54497,-0.99304 m 0,57.05924 c 0,-0.41878 0.22429,-0.65719 0.54497,-0.99304 1.41247,-1.15267 3.47927,-1.86376 5.27915,-2.57278 1.79803,-0.70901 3.86668,-1.4201 5.2773,-2.57277 0.32068,-0.33792 0.54497,-0.57426 0.54497,-0.99304 0,-0.42085 -0.22429,-0.65719 -0.54497,-0.99511 -1.41062,-1.15267 -3.47927,-1.86169 -5.2773,-2.57278 -1.79988,-0.70901 -3.86668,-1.41803 -5.27915,-2.57277 -0.32068,-0.33585 -0.54497,-0.57219 -0.54497,-0.99304"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd1.png"
+       inkscape:export-xdpi="450.24402"
+       inkscape:export-ydpi="450.24402" />
+    <path
+       id="path6284-1"
+       style="fill:none;stroke:#3e3d3d;stroke-width:1.34085977000000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61299992000000003;stroke-opacity:1;stroke-dasharray:none;opacity:0.22457627"
+       d="m 480.84225,737.94731 -330.09167,83.91065 222.49741,-9.78111 m 0,0 106.62295,-4.68739 m 0.97131,-69.44215 -243.12837,129.60075 -0.62653,0.3317 0.62653,-0.3317 243.12837,-129.60075 z m -187.88633,129.93245 186.91502,-60.4903 -186.91502,60.4903 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd1.png"
+       inkscape:export-xdpi="450.24402"
+       inkscape:export-ydpi="450.24402" />
+    <path
+       id="path6286-7"
+       style="fill:none;stroke:#3e3d3d;stroke-width:0.89390647;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:none"
+       d="m 150.08142,961.29994 331.01478,0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd1.png"
+       inkscape:export-xdpi="450.24402"
+       inkscape:export-ydpi="450.24402" />
+    <path
+       id="path6288-2"
+       style="fill:none;stroke:#3e3d3d;stroke-width:1.58786035;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:none"
+       d="m 150.08142,956.91523 0,8.77149 m 331.01478,-8.77149 0,8.77149"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd1.png"
+       inkscape:export-xdpi="450.24402"
+       inkscape:export-ydpi="450.24402" />
+    <path
+       id="path6290-7"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 315.58881,949.48922 c 5.8167,0 10.56016,5.30518 10.56016,11.81072 0,6.50761 -4.74346,11.81279 -10.56016,11.81279 -5.81671,0 -10.56016,-5.30518 -10.56016,-11.81279 0,-6.50554 4.74345,-11.81072 10.56016,-11.81072"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd1.png"
+       inkscape:export-xdpi="450.24402"
+       inkscape:export-ydpi="450.24402" />
+    <path
+       id="path6296-2"
+       style="fill:none;stroke:#3e3d3d;stroke-width:0.89390647;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:none"
+       d="m 507.22133,766.18566 0,-8.88966"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd1.png"
+       inkscape:export-xdpi="450.24402"
+       inkscape:export-ydpi="450.24402" />
+    <path
+       id="path6298-2"
+       style="fill:none;stroke:#3e3d3d;stroke-width:1.58786035;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:none"
+       d="m 503.30089,766.18566 7.84088,0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd1.png"
+       inkscape:export-xdpi="450.24402"
+       inkscape:export-ydpi="450.24402" />
+    <path
+       id="path6300-6"
+       style="fill:none;stroke:#3e3d3d;stroke-width:0.89390647;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:none"
+       d="m 507.22133,781.7778 0,8.88966"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd1.png"
+       inkscape:export-xdpi="450.24402"
+       inkscape:export-ydpi="450.24402" />
+    <path
+       id="path6302-1"
+       style="fill:none;stroke:#3e3d3d;stroke-width:1.58786035;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:none"
+       d="m 511.14177,781.7778 -7.84088,0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd1.png"
+       inkscape:export-xdpi="450.24402"
+       inkscape:export-ydpi="450.24402" />
+    <path
+       id="path6304-0"
+       style="fill:none;stroke:#3e3d3d;stroke-width:0.89390647;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:none"
+       d="m 131.66555,821.38736 0,93.13615"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd1.png"
+       inkscape:export-xdpi="450.24402"
+       inkscape:export-ydpi="450.24402" />
+    <path
+       id="path6306-6"
+       style="fill:none;stroke:#3e3d3d;stroke-width:1.58786035;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61299992;stroke-opacity:1;stroke-dasharray:none"
+       d="m 135.58599,821.38736 -7.84088,0 m 7.84088,93.13615 -7.84088,0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd1.png"
+       inkscape:export-xdpi="450.24402"
+       inkscape:export-ydpi="450.24402" />
+    <path
+       id="path6308-1"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 132.17345,856.0027 c 5.81485,0 10.56016,5.30519 10.56016,11.81072 0,6.50554 -4.74531,11.8128 -10.56016,11.8128 -5.81671,0 -10.56016,-5.30726 -10.56016,-11.8128 0,-6.50553 4.74345,-11.81072 10.56016,-11.81072"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd1.png"
+       inkscape:export-xdpi="450.24402"
+       inkscape:export-ydpi="450.24402" />
+    <g
+       transform="matrix(0.35674963,0,0,0.35674963,37.103826,676.8264)"
+       id="g7086-5"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd1.png"
+       inkscape:export-xdpi="450.24402"
+       inkscape:export-ydpi="450.24402">
+      <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         word-spacing="normal"
+         letter-spacing="normal"
+         font-size-adjust="none"
+         font-stretch="normal"
+         font-weight="normal"
+         font-variant="normal"
+         font-style="normal"
+         stroke-miterlimit="10.433"
+         xml:space="preserve"
+         transform="matrix(1.0629921,0,0,-1.0629921,-186.02362,789.27165)"
+         id="content-9"><path
+           style="fill:#000000;stroke-width:0"
+           inkscape:connector-curvature="0"
+           id="path7089-4"
+           d="m 464.44,411.93 -0.19,-0.3 -0.18,-0.29 -0.19,-0.28 -0.19,-0.26 -0.18,-0.25 -0.19,-0.23 -0.19,-0.22 -0.18,-0.21 -0.19,-0.2 -0.19,-0.18 -0.18,-0.17 -0.19,-0.16 -0.19,-0.15 -0.18,-0.14 -0.19,-0.13 -0.19,-0.12 -0.19,-0.11 -0.19,-0.1 -0.19,-0.09 -0.19,-0.09 -0.19,-0.07 -0.2,-0.07 -0.19,-0.07 -0.2,-0.05 -0.19,-0.05 -0.2,-0.04 -0.2,-0.04 -0.19,-0.03 -0.41,-0.05 -0.4,-0.03 c -0.61,-0.05 -1.05,-0.05 -1.05,-1 0,-0.3 0.25,-0.55 0.64,-0.55 1.34,0 2.89,0.16 4.28,0.16 1.64,0 3.39,-0.16 4.99,-0.16 0.29,0 0.95,0 0.95,0.95 0,0.55 -0.45,0.6 -0.8,0.6 -1.15,0.09 -2.34,0.5 -2.34,1.73 0,0.61 0.3,1.16 0.69,1.84 l 3.79,6.39 h 12.5 l -0.14,1.54 h -11.42 l 9.83,16.45 1.59,-16.45 0.14,-1.54 c 0.11,-1.04 0.8,-7.82 0.8,-8.32 0,-1.5 -2.59,-1.64 -3.58,-1.64 -0.7,0 -1.2,0 -1.2,-1 0,-0.55 0.59,-0.55 0.7,-0.55 2.03,0 4.19,0.16 6.22,0.16 1.25,0 4.39,-0.16 5.64,-0.16 0.3,0 0.89,0 0.89,1 0,0.55 -0.5,0.55 -1.14,0.55 -3.09,0 -3.09,0.34 -3.25,1.79 l -3.03,31.13 c -0.11,1 -0.11,1.2 -0.95,1.2 -0.8,0 -0.99,-0.34 -1.3,-0.84 z" /></g>    </g>
+    <g
+       transform="matrix(0.35674963,0,0,0.35674963,36.525506,822.36095)"
+       id="g7249-9"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd1.png"
+       inkscape:export-xdpi="450.24402"
+       inkscape:export-ydpi="450.24402">
+      <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="g7251-0"
+         transform="matrix(1.0629921,0,0,-1.0629921,-186.02362,789.27165)"
+         xml:space="preserve"
+         stroke-miterlimit="10.433"
+         font-style="normal"
+         font-variant="normal"
+         font-weight="normal"
+         font-stretch="normal"
+         font-size-adjust="none"
+         letter-spacing="normal"
+         word-spacing="normal"><path
+           style="fill:#000000;stroke-width:0"
+           inkscape:connector-curvature="0"
+           d="m 464.44,411.93 -0.19,-0.3 -0.18,-0.29 -0.19,-0.28 -0.19,-0.26 -0.18,-0.25 -0.19,-0.23 -0.19,-0.22 -0.18,-0.21 -0.19,-0.2 -0.19,-0.18 -0.18,-0.17 -0.19,-0.16 -0.19,-0.15 -0.18,-0.14 -0.19,-0.13 -0.19,-0.12 -0.19,-0.11 -0.19,-0.1 -0.19,-0.09 -0.19,-0.09 -0.19,-0.07 -0.2,-0.07 -0.19,-0.07 -0.2,-0.05 -0.19,-0.05 -0.2,-0.04 -0.2,-0.04 -0.19,-0.03 -0.41,-0.05 -0.4,-0.03 c -0.61,-0.05 -1.05,-0.05 -1.05,-1 0,-0.3 0.25,-0.55 0.64,-0.55 1.34,0 2.89,0.16 4.28,0.16 1.64,0 3.39,-0.16 4.99,-0.16 0.29,0 0.95,0 0.95,0.95 0,0.55 -0.45,0.6 -0.8,0.6 -1.15,0.09 -2.34,0.5 -2.34,1.73 0,0.61 0.3,1.16 0.69,1.84 l 3.79,6.39 h 12.5 l -0.14,1.54 h -11.42 l 9.83,16.45 1.59,-16.45 0.14,-1.54 c 0.11,-1.04 0.8,-7.82 0.8,-8.32 0,-1.5 -2.59,-1.64 -3.58,-1.64 -0.7,0 -1.2,0 -1.2,-1 0,-0.55 0.59,-0.55 0.7,-0.55 2.03,0 4.19,0.16 6.22,0.16 1.25,0 4.39,-0.16 5.64,-0.16 0.3,0 0.89,0 0.89,1 0,0.55 -0.5,0.55 -1.14,0.55 -3.09,0 -3.09,0.34 -3.25,1.79 l -3.03,31.13 c -0.11,1 -0.11,1.2 -0.95,1.2 -0.8,0 -0.99,-0.34 -1.3,-0.84 z"
+           id="path7253-9" /><path
+           style="fill:#000000;stroke-width:0"
+           inkscape:connector-curvature="0"
+           d="m 502.95,440.65 0.02,0.06 0.03,0.05 0.02,0.05 0.02,0.05 0.02,0.04 0.02,0.05 0.02,0.04 0.02,0.04 0.01,0.05 0.02,0.04 0.01,0.03 0.01,0.04 0.01,0.04 0.01,0.03 0.01,0.04 0.01,0.03 0.01,0.03 0.01,0.03 0,0.03 0.01,0.03 0,0.03 0.01,0.03 0,0.03 0,0.02 0.01,0.06 0,0.05 0,0.04 0,0.05 c 0,1.08 -0.98,1.92 -2.06,1.92 -1.33,0 -1.74,-1.09 -1.91,-1.64 l -4.61,-15.09 c -0.03,-0.06 -0.17,-0.52 -0.17,-0.56 0,-0.41 1.08,-0.77 1.36,-0.77 0.25,0 0.28,0.08 0.52,0.59 z"
+           id="path7255-1" /></g>    </g>
+    <g
+       transform="matrix(0.35674963,0,0,0.35674963,201.90054,840.87451)"
+       id="g7423-7"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd1.png"
+       inkscape:export-xdpi="450.24402"
+       inkscape:export-ydpi="450.24402">
+      <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         word-spacing="normal"
+         letter-spacing="normal"
+         font-size-adjust="none"
+         font-stretch="normal"
+         font-weight="normal"
+         font-variant="normal"
+         font-style="normal"
+         stroke-miterlimit="10.433"
+         xml:space="preserve"
+         transform="matrix(1.0629921,0,0,-1.0629921,-186.02362,789.27165)"
+         id="g7425-7"><path
+           style="fill:#000000;stroke-width:0"
+           inkscape:connector-curvature="0"
+           id="path7427-1"
+           d="m 474.16,436.34 0.04,0.16 0.04,0.16 0.04,0.15 0.04,0.15 0.04,0.13 0.05,0.13 0.05,0.13 0.05,0.11 0.06,0.12 0.06,0.1 0.08,0.1 0.08,0.09 0.09,0.09 0.1,0.08 0.11,0.08 0.12,0.07 0.13,0.06 0.15,0.06 0.16,0.06 0.18,0.05 0.09,0.02 0.1,0.02 0.1,0.02 0.11,0.02 0.11,0.02 0.11,0.02 0.12,0.02 0.13,0.01 0.13,0.01 0.14,0.02 0.14,0.01 0.14,0.01 0.15,0.01 0.16,0.01 0.16,0.01 0.17,0.01 0.17,0 0.18,0.01 0.18,0 0.19,0.01 0.2,0 0.2,0 0.21,0 0.22,0 c 1.49,0 1.89,0 1.89,0.96 0,0.59 -0.54,0.59 -0.79,0.59 -1.66,0 -5.74,-0.16 -7.38,-0.16 -1.5,0 -5.14,0.16 -6.62,0.16 -0.36,0 -0.96,0 -0.96,-1 0,-0.55 0.46,-0.55 1.39,-0.55 0.11,0 1.05,0 1.91,-0.09 0.89,-0.11 1.34,-0.16 1.34,-0.8 0,-0.2 -0.06,-0.36 -0.2,-0.95 l -6.67,-26.75 c -0.5,-1.95 -0.61,-2.34 -4.55,-2.34 -0.84,0 -1.34,0 -1.34,-1 0,-0.55 0.45,-0.55 1.34,-0.55 h 23.08 c 1.19,0 1.23,0 1.55,0.84 l 3.92,10.77 c 0.2,0.55 0.2,0.64 0.2,0.7 0,0.19 -0.14,0.55 -0.59,0.55 -0.46,0 -0.5,-0.25 -0.85,-1.05 -1.7,-4.59 -3.89,-10.26 -12.51,-10.26 h -4.67 c -0.71,0 -0.8,0 -1.1,0.04 -0.5,0.05 -0.65,0.1 -0.65,0.5 0,0.14 0,0.25 0.25,1.14 z" /></g>    </g>
+    <g
+       transform="matrix(0.35674963,0,0,0.35674963,19.122766,744.41883)"
+       id="g7601-1"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd1.png"
+       inkscape:export-xdpi="450.24402"
+       inkscape:export-ydpi="450.24402">
+      <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="g7603-5"
+         transform="matrix(1.0629921,0,0,-1.0629921,-186.02362,789.27165)"
+         xml:space="preserve"
+         stroke-miterlimit="10.433"
+         font-style="normal"
+         font-variant="normal"
+         font-weight="normal"
+         font-stretch="normal"
+         font-size-adjust="none"
+         letter-spacing="normal"
+         word-spacing="normal"><path
+           style="fill:#000000;stroke-width:0"
+           inkscape:connector-curvature="0"
+           d="m 474.1,425.03 -0.09,0.17 -0.09,0.17 -0.09,0.16 -0.09,0.16 -0.1,0.16 -0.1,0.16 -0.11,0.15 -0.11,0.14 -0.11,0.15 -0.12,0.13 -0.12,0.14 -0.12,0.13 -0.13,0.12 -0.13,0.12 -0.14,0.11 -0.14,0.11 -0.14,0.11 -0.15,0.09 -0.15,0.1 -0.15,0.08 -0.16,0.08 -0.17,0.08 -0.17,0.06 -0.17,0.07 -0.17,0.05 -0.18,0.05 -0.19,0.04 -0.19,0.03 -0.19,0.03 -0.2,0.02 -0.2,0.01 -0.21,0 0.05,-1.09 c 3.23,0 3.93,-4.08 3.93,-4.37 0,-0.32 -0.09,-0.61 -0.14,-0.86 l -2.5,-9.77 c -0.25,-0.89 -0.25,-0.98 -1,-1.84 -2.18,-2.74 -4.23,-3.53 -5.62,-3.53 -2.49,0 -3.19,2.73 -3.19,4.68 0,2.49 1.59,8.61 2.74,10.91 1.54,2.94 3.79,4.78 5.78,4.78 l -0.05,1.09 c -5.83,0 -12,-7.31 -12,-14.59 0,-4.69 2.73,-7.97 6.62,-7.97 0.99,0 3.49,0.21 6.47,3.74 0.41,-2.1 2.14,-3.74 4.53,-3.74 1.75,0 2.9,1.14 3.69,2.74 0.85,1.79 1.5,4.84 1.5,4.93 0,0.5 -0.45,0.5 -0.59,0.5 -0.5,0 -0.55,-0.2 -0.7,-0.9 -0.85,-3.24 -1.75,-6.17 -3.79,-6.17 -1.34,0 -1.5,1.29 -1.5,2.29 0,1.1 0.1,1.49 0.64,3.69 0.57,2.09 0.66,2.59 1.11,4.48 l 1.79,6.97 c 0.35,1.39 0.35,1.5 0.35,1.69 0,0.86 -0.6,1.36 -1.45,1.36 -1.19,0 -1.94,-1.11 -2.09,-2.2 z"
+           id="path7605-9" /></g>    </g>
+    <g
+       transform="matrix(0.35674963,0,0,0.35674963,155.73961,769.91824)"
+       id="g7785-7"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd1.png"
+       inkscape:export-xdpi="450.24402"
+       inkscape:export-ydpi="450.24402">
+      <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         word-spacing="normal"
+         letter-spacing="normal"
+         font-size-adjust="none"
+         font-stretch="normal"
+         font-weight="normal"
+         font-variant="normal"
+         font-style="normal"
+         stroke-miterlimit="10.433"
+         xml:space="preserve"
+         transform="matrix(1.0629921,0,0,-1.0629921,-186.02362,789.27165)"
+         id="g7787-7"><path
+           style="fill:#000000;stroke-width:0"
+           inkscape:connector-curvature="0"
+           id="path7789-6"
+           d="m 481.38,423.14 0.47,0.11 0.48,0.12 0.48,0.14 0.48,0.15 0.49,0.16 0.48,0.18 0.48,0.19 0.47,0.2 0.47,0.22 0.47,0.23 0.46,0.24 0.45,0.25 0.43,0.27 0.43,0.28 0.42,0.29 0.4,0.3 0.39,0.31 0.37,0.32 0.36,0.34 0.33,0.35 0.32,0.35 0.29,0.37 0.28,0.38 0.25,0.39 0.22,0.4 0.2,0.41 0.17,0.42 0.15,0.43 0.11,0.44 0.08,0.45 0.05,0.46 0.02,0.47 c 0,4.28 -4.48,7.47 -11,7.47 h -14.2 c -1,0 -1.45,0 -1.45,-1 0,-0.55 0.45,-0.55 1.4,-0.55 0.1,0 1.05,0 1.89,-0.09 0.89,-0.11 1.35,-0.16 1.35,-0.8 0,-0.2 -0.05,-0.36 -0.21,-0.95 l -6.67,-26.75 c -0.5,-1.95 -0.59,-2.34 -4.53,-2.34 -0.91,0 -1.34,0 -1.34,-1 0,-0.55 0.59,-0.55 0.68,-0.55 1.41,0 4.89,0.16 6.29,0.16 1.39,0 4.93,-0.16 6.32,-0.16 0.41,0 1,0 1,1 0,0.55 -0.45,0.55 -1.39,0.55 -1.84,0 -3.25,0 -3.25,0.89 0,0.29 0.11,0.54 0.16,0.84 l 3.28,13.2 h 5.94 l -0.05,1.11 h -5.59 l 3.25,13 c 0.29,1.19 0.43,1.69 1.39,1.85 0.45,0.04 2.04,0.04 3.03,0.04 3.55,0 9.08,0 9.08,-4.93 0,-1.69 -0.8,-5.13 -2.75,-7.07 -1.28,-1.29 -3.92,-2.89 -8.41,-2.89 l 0.05,-1.11 c 4.53,0 5.42,-2.78 5.42,-4.53 0,-0.75 -0.39,-2.28 -0.69,-3.44 -0.36,-1.39 -0.79,-3.23 -0.79,-4.23 0,-5.37 5.96,-5.37 6.62,-5.37 4.23,0 5.97,5.03 5.97,5.73 0,0.59 -0.55,0.59 -0.59,0.59 -0.46,0 -0.55,-0.36 -0.65,-0.7 -1.25,-3.69 -3.39,-4.53 -4.54,-4.53 -1.64,0 -1.99,1.09 -1.99,3.05 0,1.53 0.3,4.07 0.5,5.67 0.1,0.7 0.21,1.64 0.21,2.34 0,3.83 -3.35,5.38 -4.69,5.88 z" /></g>    </g>
+    <g
+       transform="matrix(0.35674963,0,0,0.35674963,406.97473,651.4382)"
+       id="g7975-7"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_4_ottica/Scheda/Immagini/lloyd1.png"
+       inkscape:export-xdpi="450.24402"
+       inkscape:export-ydpi="450.24402">
+      <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="g7977-3"
+         transform="matrix(1.0629921,0,0,-1.0629921,-186.02362,789.27165)"
+         xml:space="preserve"
+         stroke-miterlimit="10.433"
+         font-style="normal"
+         font-variant="normal"
+         font-weight="normal"
+         font-stretch="normal"
+         font-size-adjust="none"
+         letter-spacing="normal"
+         word-spacing="normal"><path
+           style="fill:#000000;stroke-width:0"
+           inkscape:connector-curvature="0"
+           d="m 481.22,440.23 0,0 0,0.01 0,0 0,0.01 0,0.02 0,0.01 0,0.02 0,0.02 -0.01,0.02 0,0.02 -0.01,0.02 0,0.02 -0.01,0.02 -0.01,0.03 -0.01,0.02 -0.01,0.03 -0.02,0.02 -0.01,0.03 -0.02,0.02 -0.02,0.02 -0.02,0.03 -0.02,0.01 -0.01,0.01 -0.01,0.01 -0.02,0.01 -0.01,0.01 -0.02,0.01 -0.01,0.01 -0.02,0.01 -0.01,0.01 -0.02,0.01 -0.02,0 -0.02,0.01 -0.02,0.01 -0.02,0 -0.02,0.01 -0.03,0.01 -0.02,0 -0.02,0 -0.03,0.01 -0.03,0 -0.02,0 -0.03,0.01 -0.03,0 -0.03,0 c -0.75,0 -5.48,-0.46 -6.33,-0.55 -0.4,-0.05 -0.7,-0.3 -0.7,-0.95 0,-0.6 0.45,-0.6 1.2,-0.6 2.39,0 2.49,-0.34 2.49,-0.84 l -0.14,-1 -3,-11.81 c -0.89,1.84 -2.35,3.18 -4.58,3.18 l 0.05,-1.09 c 3.23,0 3.93,-4.08 3.93,-4.37 0,-0.32 -0.09,-0.61 -0.14,-0.86 l -2.5,-9.77 c -0.25,-0.89 -0.25,-0.98 -1,-1.84 -2.18,-2.74 -4.23,-3.53 -5.62,-3.53 -2.49,0 -3.19,2.73 -3.19,4.68 0,2.49 1.59,8.61 2.74,10.91 1.54,2.94 3.79,4.78 5.78,4.78 l -0.05,1.09 c -5.83,0 -12,-7.31 -12,-14.59 0,-4.69 2.73,-7.97 6.62,-7.97 0.99,0 3.49,0.21 6.47,3.74 0.41,-2.1 2.14,-3.74 4.53,-3.74 1.75,0 2.9,1.14 3.69,2.74 0.85,1.79 1.5,4.84 1.5,4.93 0,0.5 -0.45,0.5 -0.59,0.5 -0.5,0 -0.55,-0.2 -0.7,-0.9 -0.85,-3.24 -1.75,-6.17 -3.79,-6.17 -1.34,0 -1.5,1.29 -1.5,2.29 0,1.19 0.1,1.55 0.3,2.39 z"
+           id="path7979-6" /></g>    </g>
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:1.89999999999999991;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 146.9772,868.00934 480.32754,752.34688"
+       id="path4008"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#fe1212;stroke-width:1.69999999999999996;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 151.01781,821.03725 479.31738,751.8418"
+       id="path4010"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:1.89999999999999991;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 152.02796,912.96113 478.81231,752.85195"
+       id="path4012"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:0.22457628;fill:none;stroke:#ff0000;stroke-width:1.89999998;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4014"
+       width="57.07362"
+       height="26.263966"
+       x="196.97975"
+       y="707.39508" />
+    <g
+       transform="matrix(0.52452174,0,0,0.52452174,139.14701,590.72284)"
+       id="g4171">
+      <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="g4173"
+         transform="matrix(1.0629921,0,0,-1.0629921,-186.02362,789.27165)"
+         xml:space="preserve"
+         stroke-miterlimit="10.433"
+         font-style="normal"
+         font-variant="normal"
+         font-weight="normal"
+         font-stretch="normal"
+         font-size-adjust="none"
+         letter-spacing="normal"
+         word-spacing="normal"><path
+           style="fill:#000000;stroke-width:0"
+           inkscape:connector-curvature="0"
+           d="m 481.22,440.23 0,0 0,0.01 0,0 0,0.01 0,0.02 0,0.01 0,0.02 0,0.02 -0.01,0.02 0,0.02 -0.01,0.02 0,0.02 -0.01,0.02 -0.01,0.03 -0.01,0.02 -0.01,0.03 -0.02,0.02 -0.01,0.03 -0.02,0.02 -0.02,0.02 -0.02,0.03 -0.02,0.01 -0.01,0.01 -0.01,0.01 -0.02,0.01 -0.01,0.01 -0.02,0.01 -0.01,0.01 -0.02,0.01 -0.01,0.01 -0.02,0.01 -0.02,0 -0.02,0.01 -0.02,0.01 -0.02,0 -0.02,0.01 -0.03,0.01 -0.02,0 -0.02,0 -0.03,0.01 -0.03,0 -0.02,0 -0.03,0.01 -0.03,0 -0.03,0 c -0.75,0 -5.48,-0.46 -6.33,-0.55 -0.4,-0.05 -0.7,-0.3 -0.7,-0.95 0,-0.6 0.45,-0.6 1.2,-0.6 2.39,0 2.49,-0.34 2.49,-0.84 l -0.14,-1 -3,-11.81 c -0.89,1.84 -2.35,3.18 -4.58,3.18 l 0.05,-1.09 c 3.23,0 3.93,-4.08 3.93,-4.37 0,-0.32 -0.09,-0.61 -0.14,-0.86 l -2.5,-9.77 c -0.25,-0.89 -0.25,-0.98 -1,-1.84 -2.18,-2.74 -4.23,-3.53 -5.62,-3.53 -2.49,0 -3.19,2.73 -3.19,4.68 0,2.49 1.59,8.61 2.74,10.91 1.54,2.94 3.79,4.78 5.78,4.78 l -0.05,1.09 c -5.83,0 -12,-7.31 -12,-14.59 0,-4.69 2.73,-7.97 6.62,-7.97 0.99,0 3.49,0.21 6.47,3.74 0.41,-2.1 2.14,-3.74 4.53,-3.74 1.75,0 2.9,1.14 3.69,2.74 0.85,1.79 1.5,4.84 1.5,4.93 0,0.5 -0.45,0.5 -0.59,0.5 -0.5,0 -0.55,-0.2 -0.7,-0.9 -0.85,-3.24 -1.75,-6.17 -3.79,-6.17 -1.34,0 -1.5,1.29 -1.5,2.29 0,1.19 0.1,1.55 0.3,2.39 z"
+           id="path4175" /><path
+           style="fill:#000000;stroke-width:0"
+           inkscape:connector-curvature="0"
+           d="m 493.11,420.92 0,0.04 0,0.04 0,0.05 0,0.04 0,0.03 0,0.04 0,0.04 0,0.03 0,0.04 0,0.03 -0.01,0.03 0,0.03 0,0.03 0,0.03 -0.01,0.03 0,0.02 -0.01,0.03 0,0.02 -0.01,0.03 0,0.02 -0.01,0.04 -0.02,0.04 -0.02,0.03 -0.01,0.03 -0.03,0.03 -0.02,0.03 -0.03,0.02 -0.03,0.02 -0.03,0.02 -0.04,0.01 -0.04,0.01 -0.04,0.02 -0.03,0 -0.02,0 -0.03,0.01 -0.02,0 -0.03,0.01 -0.03,0 -0.03,0 -0.03,0 -0.03,0 -0.04,0.01 -0.03,0 -0.04,0 -0.03,0 -0.04,0 -0.04,0 -0.04,0 -0.04,0 -0.04,0 -0.05,0 -0.04,0 c -2.24,-2.2 -5.39,-2.23 -6.83,-2.23 v -1.25 c 0.84,0 3.14,0 5.05,0.97 v -17.77 c 0,-1.16 0,-1.61 -3.49,-1.61 h -1.31 v -1.25 c 0.62,0.03 4.9,0.14 6.2,0.14 1.08,0 5.47,-0.11 6.24,-0.14 v 1.25 h -1.33 c -3.49,0 -3.49,0.45 -3.49,1.61 z"
+           id="path4177" /></g>    </g>
+    <g
+       transform="matrix(0.52452174,0,0,0.52452174,171.52235,661.94285)"
+       id="g4495">
+      <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         word-spacing="normal"
+         letter-spacing="normal"
+         font-size-adjust="none"
+         font-stretch="normal"
+         font-weight="normal"
+         font-variant="normal"
+         font-style="normal"
+         stroke-miterlimit="10.433"
+         xml:space="preserve"
+         transform="matrix(1.0629921,0,0,-1.0629921,-186.02362,789.27165)"
+         id="g4497"><path
+           style="fill:#000000;stroke-width:0"
+           inkscape:connector-curvature="0"
+           id="path4499"
+           d="m 481.22,440.23 0,0 0,0.01 0,0 0,0.01 0,0.02 0,0.01 0,0.02 0,0.02 -0.01,0.02 0,0.02 -0.01,0.02 0,0.02 -0.01,0.02 -0.01,0.03 -0.01,0.02 -0.01,0.03 -0.02,0.02 -0.01,0.03 -0.02,0.02 -0.02,0.02 -0.02,0.03 -0.02,0.01 -0.01,0.01 -0.01,0.01 -0.02,0.01 -0.01,0.01 -0.02,0.01 -0.01,0.01 -0.02,0.01 -0.01,0.01 -0.02,0.01 -0.02,0 -0.02,0.01 -0.02,0.01 -0.02,0 -0.02,0.01 -0.03,0.01 -0.02,0 -0.02,0 -0.03,0.01 -0.03,0 -0.02,0 -0.03,0.01 -0.03,0 -0.03,0 c -0.75,0 -5.48,-0.46 -6.33,-0.55 -0.4,-0.05 -0.7,-0.3 -0.7,-0.95 0,-0.6 0.45,-0.6 1.2,-0.6 2.39,0 2.49,-0.34 2.49,-0.84 l -0.14,-1 -3,-11.81 c -0.89,1.84 -2.35,3.18 -4.58,3.18 l 0.05,-1.09 c 3.23,0 3.93,-4.08 3.93,-4.37 0,-0.32 -0.09,-0.61 -0.14,-0.86 l -2.5,-9.77 c -0.25,-0.89 -0.25,-0.98 -1,-1.84 -2.18,-2.74 -4.23,-3.53 -5.62,-3.53 -2.49,0 -3.19,2.73 -3.19,4.68 0,2.49 1.59,8.61 2.74,10.91 1.54,2.94 3.79,4.78 5.78,4.78 l -0.05,1.09 c -5.83,0 -12,-7.31 -12,-14.59 0,-4.69 2.73,-7.97 6.62,-7.97 0.99,0 3.49,0.21 6.47,3.74 0.41,-2.1 2.14,-3.74 4.53,-3.74 1.75,0 2.9,1.14 3.69,2.74 0.85,1.79 1.5,4.84 1.5,4.93 0,0.5 -0.45,0.5 -0.59,0.5 -0.5,0 -0.55,-0.2 -0.7,-0.9 -0.85,-3.24 -1.75,-6.17 -3.79,-6.17 -1.34,0 -1.5,1.29 -1.5,2.29 0,1.19 0.1,1.55 0.3,2.39 z" /><path
+           style="fill:#000000;stroke-width:0"
+           inkscape:connector-curvature="0"
+           id="path4501"
+           d="m 499.04,405.11 h -1.19 c -0.1,-0.77 -0.46,-2.83 -0.91,-3.18 -0.26,-0.2 -2.95,-0.2 -3.44,-0.2 h -6.42 c 3.66,3.23 4.88,4.2 6.97,5.84 2.58,2.07 4.99,4.22 4.99,7.54 0,4.21 -3.69,6.79 -8.16,6.79 -4.31,0 -7.25,-3.03 -7.25,-6.23 0,-1.78 1.5,-1.96 1.86,-1.96 0.83,0 1.84,0.6 1.84,1.85 0,0.62 -0.25,1.84 -2.06,1.84 1.08,2.47 3.45,3.24 5.09,3.24 3.49,0 5.3,-2.71 5.3,-5.53 0,-3.04 -2.16,-5.44 -3.28,-6.69 l -8.39,-8.3 c -0.36,-0.31 -0.36,-0.39 -0.36,-1.36 h 14.36 z" /></g>    </g>
+    <g
+       id="g5163"
+       transform="matrix(0.52452174,0,0,0.52452174,390.08546,632.80335)">
+      <g
+         word-spacing="normal"
+         letter-spacing="normal"
+         font-size-adjust="none"
+         font-stretch="normal"
+         font-weight="normal"
+         font-variant="normal"
+         font-style="normal"
+         stroke-miterlimit="10.433"
+         xml:space="preserve"
+         transform="matrix(1.0629921,0,0,-1.0629921,-186.02362,789.27165)"
+         id="g5165"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"><path
+           id="path5167"
+           d="m 479.74,425.18 0.01,0.04 0.01,0.03 0.01,0.06 0.02,0.05 0.01,0.06 0.01,0.05 0.02,0.04 0.01,0.05 0.01,0.04 0.01,0.04 0,0.04 0.01,0.04 0.01,0.04 0.01,0.03 0,0.03 0.01,0.03 0,0.03 0.01,0.03 0,0.03 0.01,0.05 0,0.06 0,0.05 0,0.05 0.01,0.05 0,0.03 0,0.03 0,0.03 0,0.03 c 0,0.91 -0.69,1.35 -1.44,1.35 -0.5,0 -1.3,-0.3 -1.75,-1.05 -0.1,-0.25 -0.5,-1.78 -0.69,-2.69 -0.36,-1.29 -0.7,-2.64 -1,-3.98 l -2.25,-8.97 c -0.19,-0.75 -2.33,-4.23 -5.62,-4.23 -2.54,0 -3.1,2.18 -3.1,4.03 0,2.29 0.86,5.39 2.55,9.76 0.8,2.05 1,2.6 1,3.6 0,2.23 -1.59,4.07 -4.09,4.07 -4.74,0 -6.58,-7.21 -6.58,-7.67 0,-0.5 0.5,-0.5 0.61,-0.5 0.5,0 0.54,0.11 0.79,0.91 1.35,4.69 3.33,6.17 5.03,6.17 0.4,0 1.25,0 1.25,-1.59 0,-1.25 -0.5,-2.53 -0.85,-3.49 -1.99,-5.28 -2.9,-8.12 -2.9,-10.47 0,-4.42 3.15,-5.92 6.08,-5.92 1.96,0 3.64,0.85 5.03,2.24 -0.64,-2.58 -1.23,-5.03 -3.23,-7.68 -1.3,-1.68 -3.19,-3.14 -5.48,-3.14 -0.69,0 -2.94,0.16 -3.79,2.1 0.8,0 1.46,0 2.14,0.61 0.5,0.43 1,1.09 1,2.03 0,1.55 -1.34,1.75 -1.84,1.75 -1.14,0 -2.8,-0.8 -2.8,-3.24 0,-2.5 2.21,-4.34 5.29,-4.34 5.14,0 10.26,4.55 11.67,10.17 z"
+           inkscape:connector-curvature="0"
+           style="fill:#000000;stroke-width:0" /></g>    </g>
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.67644067;fill:#247f00;fill-opacity:1;stroke:none"
+       id="path5336"
+       sodipodi:cx="143.99451"
+       sodipodi:cy="752.08319"
+       sodipodi:rx="18.526682"
+       sodipodi:ry="18.526682"
+       d="m 161.45853,745.89886 a 18.526682,18.526682 0 0 1 1.06266,6.18433 l -18.52668,0 z"
+       sodipodi:start="5.9428461"
+       sodipodi:end="6.2831853"
+       transform="matrix(2.7011637,0,0,2.7011637,-238.35466,-1163.4873)" />
+    <g
+       transform="matrix(0.52452174,0,0,0.52452174,55.70835,678.21862)"
+       id="g4827-8">
+      <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="g4829-0"
+         transform="matrix(1.0629921,0,0,-1.0629921,-186.02362,789.27165)"
+         xml:space="preserve"
+         stroke-miterlimit="10.433"
+         font-style="normal"
+         font-variant="normal"
+         font-weight="normal"
+         font-stretch="normal"
+         font-size-adjust="none"
+         letter-spacing="normal"
+         word-spacing="normal"><path
+           style="fill:#000000;stroke-width:0"
+           inkscape:connector-curvature="0"
+           d="m 478.19,431.11 0,0.31 -0.01,0.34 -0.02,0.36 -0.02,0.37 -0.03,0.39 -0.04,0.39 -0.04,0.41 -0.06,0.41 -0.07,0.42 -0.07,0.43 -0.09,0.42 -0.1,0.43 -0.12,0.42 -0.12,0.42 -0.14,0.41 -0.16,0.41 -0.17,0.4 -0.18,0.38 -0.2,0.37 -0.22,0.36 -0.23,0.34 -0.25,0.32 -0.28,0.3 -0.29,0.27 -0.31,0.25 -0.16,0.12 -0.17,0.1 -0.17,0.1 -0.18,0.1 -0.18,0.08 -0.19,0.08 -0.19,0.07 -0.2,0.06 -0.21,0.05 -0.21,0.05 -0.22,0.03 -0.22,0.02 -0.23,0.02 -0.23,0 -0.05,-1.09 c 2.44,0 2.73,-3.19 2.73,-6.03 0,-2.44 -0.39,-4.99 -1.59,-9.92 h -10.41 c 0.85,3.2 1.85,7.18 3.83,10.72 1.36,2.43 3.19,5.23 5.44,5.23 l 0.05,1.09 c -6.92,0 -14.6,-14.04 -14.6,-25.45 0,-4.69 1.44,-10.22 5.99,-10.22 v 1.1 c -1.66,0 -2.71,1.45 -2.71,6.07 0,2.1 0.3,4.99 1.6,9.86 h 10.37 c -0.54,-2.28 -1.59,-6.51 -3.5,-10.11 -1.73,-3.39 -3.62,-5.82 -5.76,-5.82 v -1.1 c 7.01,0 14.59,14.3 14.59,25.46 z"
+           id="path4831-9" /></g>    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0"
+       d="m 482.24464,867.20235 59.41696,0"
+       id="path5362"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0"
+       d="m 481.55375,752.5138 59.41696,0"
+       id="path5362-4"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow2Mstart);marker-end:url(#Arrow2Mend)"
+       d="m 538.43743,753.43499 0,113.30676"
+       id="path5382"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

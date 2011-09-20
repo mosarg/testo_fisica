@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="specchio_lloyd.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="StopL"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="StopL"
+       style="overflow:visible">
+      <path
+         id="path4038"
+         d="M 0.0,5.65 L 0.0,-5.65"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="StopL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="StopL-6"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4038-8"
+         d="M 0,5.65 0,-5.65"
+         style="fill:none;stroke:#000000;stroke-width:1pt"
+         transform="scale(0.8,0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="StopL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4549"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4551"
+         d="M 0,5.65 0,-5.65"
+         style="fill:none;stroke:#000000;stroke-width:1pt"
+         transform="scale(0.8,0.8)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="487.68258"
+     inkscape:cy="485.64555"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="965"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.2677)">
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;stroke:none"
+       id="rect2985"
+       width="881.16937"
+       height="5.4561572"
+       x="94.168892"
+       y="618.07812"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_3_acustica/Immagini/lloyd1.png"
+       inkscape:export-xdpi="271.60001"
+       inkscape:export-ydpi="271.60001" />
+    <g
+       id="g3798"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_3_acustica/Immagini/lloyd1.png"
+       inkscape:export-xdpi="271.60001"
+       inkscape:export-ydpi="271.60001">
+      <path
+         id="rect3755"
+         transform="translate(0,308.2677)"
+         d="M 80.46875 373.0625 L 80.46875 435.8125 L 174.59375 435.8125 L 174.59375 430.78125 L 171.4375 430.78125 L 171.4375 376.78125 L 174.59375 376.78125 L 174.59375 373.0625 L 80.46875 373.0625 z "
+         style="fill:#b3b3b3;fill-opacity:1;stroke:none" />
+      <rect
+         transform="translate(0,308.2677)"
+         y="383.36346"
+         x="40.509899"
+         height="6.7516503"
+         width="40.509899"
+         id="rect3757"
+         style="fill:#b3b3b3;fill-opacity:1;stroke:none" />
+      <rect
+         y="724.90717"
+         x="40.509899"
+         height="6.7516503"
+         width="40.509899"
+         id="rect3757-5"
+         style="fill:#b3b3b3;fill-opacity:1;stroke:none" />
+      <rect
+         y="685.19696"
+         x="171.47339"
+         height="53.563339"
+         width="1.5909903"
+         id="rect3783"
+         style="fill:#727272;fill-opacity:1;stroke:none" />
+      <rect
+         y="688.9093"
+         x="119.67782"
+         height="43.663845"
+         width="7.601398"
+         id="rect3785"
+         style="fill:#727272;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3787"
+         d="m 122.84464,690.34728 0,41.125 c 7.00857,-0.62243 12.5625,-9.59199 12.5625,-20.5625 0,-10.971 -5.55349,-19.94078 -12.5625,-20.5625 z"
+         style="fill:#727272;fill-opacity:1;stroke:none" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:25.93938446px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Aristarcoj;-inkscape-font-specification:Aristarcoj"
+       x="118.95834"
+       y="668.11847"
+       id="text3794"
+       sodipodi:linespacing="125%"
+       transform="scale(0.98627092,1.0139202)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_3_acustica/Immagini/lloyd1.png"
+       inkscape:export-xdpi="271.60001"
+       inkscape:export-ydpi="271.60001"><tspan
+         sodipodi:role="line"
+         id="tspan3796"
+         x="118.95834"
+         y="668.11847"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter">E</tspan></text>
+    <g
+       transform="matrix(-1,0,0,1,1085.1489,0)"
+       id="g3798-7"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_3_acustica/Immagini/lloyd1.png"
+       inkscape:export-xdpi="271.60001"
+       inkscape:export-ydpi="271.60001">
+      <path
+         inkscape:connector-curvature="0"
+         id="rect3755-7"
+         transform="translate(0,308.2677)"
+         d="m 80.46875,373.0625 0,62.75 94.125,0 0,-5.03125 -3.15625,0 0,-54 3.15625,0 0,-3.71875 -94.125,0 z"
+         style="fill:#b3b3b3;fill-opacity:1;stroke:none" />
+      <rect
+         transform="translate(0,308.2677)"
+         y="383.36346"
+         x="40.509899"
+         height="6.7516503"
+         width="40.509899"
+         id="rect3757-9"
+         style="fill:#b3b3b3;fill-opacity:1;stroke:none" />
+      <rect
+         y="724.90717"
+         x="40.509899"
+         height="6.7516503"
+         width="40.509899"
+         id="rect3757-5-8"
+         style="fill:#b3b3b3;fill-opacity:1;stroke:none" />
+      <rect
+         y="685.19696"
+         x="171.47339"
+         height="53.563339"
+         width="1.5909903"
+         id="rect3783-1"
+         style="fill:#727272;fill-opacity:1;stroke:none" />
+      <rect
+         y="688.9093"
+         x="119.67782"
+         height="43.663845"
+         width="7.601398"
+         id="rect3785-0"
+         style="fill:#727272;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3787-7"
+         d="m 122.84464,690.34728 0,41.125 c 7.00857,-0.62243 12.5625,-9.59199 12.5625,-20.5625 0,-10.971 -5.55349,-19.94078 -12.5625,-20.5625 z"
+         style="fill:#727272;fill-opacity:1;stroke:none" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:25.93938446px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Aristarcoj;-inkscape-font-specification:Aristarcoj"
+       x="966.7995"
+       y="669.32404"
+       id="text3794-2"
+       sodipodi:linespacing="125%"
+       transform="scale(0.98627092,1.0139202)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_3_acustica/Immagini/lloyd1.png"
+       inkscape:export-xdpi="271.60001"
+       inkscape:export-ydpi="271.60001"><tspan
+         sodipodi:role="line"
+         id="tspan3796-4"
+         x="966.7995"
+         y="669.32404"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter">R</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.97586715;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#StopL);marker-end:url(#StopL)"
+       d="m 125.3674,751.11388 842.08831,0"
+       id="path3863"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_3_acustica/Immagini/lloyd1.png"
+       inkscape:export-xdpi="271.60001"
+       inkscape:export-ydpi="271.60001" />
+    <text
+       xml:space="preserve"
+       style="font-size:25.93938446px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Aristarcoj;-inkscape-font-specification:Aristarcoj"
+       x="484.29221"
+       y="783.00012"
+       id="text3794-25"
+       sodipodi:linespacing="125%"
+       transform="scale(0.98627092,1.0139202)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_3_acustica/Immagini/lloyd1.png"
+       inkscape:export-xdpi="271.60001"
+       inkscape:export-ydpi="271.60001"><tspan
+         sodipodi:role="line"
+         id="tspan3796-2"
+         x="484.29221"
+         y="783.00012"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter">2l</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 126,404.09448 399,-88 435,88"
+       id="path4535"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_3_acustica/Immagini/lloyd1.png"
+       inkscape:export-xdpi="271.60001"
+       inkscape:export-ydpi="271.60001" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.97600001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.952, 1.952;stroke-dashoffset:0;marker-start:none;marker-end:none"
+       d="m 124.95584,713.36218 834.83831,0"
+       id="path3863-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_3_acustica/Immagini/lloyd1.png"
+       inkscape:export-xdpi="271.60001"
+       inkscape:export-ydpi="271.60001" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 525,624.61218 0,88.25"
+       id="path5127"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_3_acustica/Immagini/lloyd1.png"
+       inkscape:export-xdpi="271.60001"
+       inkscape:export-ydpi="271.60001" />
+    <text
+       xml:space="preserve"
+       style="font-size:25.93938446px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Aristarcoj;-inkscape-font-specification:Aristarcoj"
+       x="534.0733"
+       y="686.97791"
+       id="text3794-25-5"
+       sodipodi:linespacing="125%"
+       transform="scale(0.98627092,1.0139202)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_3_acustica/Immagini/lloyd1.png"
+       inkscape:export-xdpi="271.60001"
+       inkscape:export-ydpi="271.60001"><tspan
+         sodipodi:role="line"
+         id="tspan3796-2-8"
+         x="534.0733"
+         y="686.97791"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter">d</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25.93938446px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Aristarcoj;-inkscape-font-specification:Aristarcoj"
+       x="382.75195"
+       y="663.68384"
+       id="text3794-25-5-5"
+       sodipodi:linespacing="125%"
+       transform="scale(0.98627092,1.0139202)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_3_acustica/Immagini/lloyd1.png"
+       inkscape:export-xdpi="271.60001"
+       inkscape:export-ydpi="271.60001"><tspan
+         sodipodi:role="line"
+         id="tspan3796-2-8-4"
+         x="382.75195"
+         y="663.68384"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter">r</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25.93938446px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Aristarcoj;-inkscape-font-specification:Aristarcoj"
+       x="663.92163"
+       y="658.40387"
+       id="text3794-25-5-5-3"
+       sodipodi:linespacing="125%"
+       transform="scale(0.98627092,1.0139202)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_3_acustica/Immagini/lloyd1.png"
+       inkscape:export-xdpi="271.60001"
+       inkscape:export-ydpi="271.60001"><tspan
+         sodipodi:role="line"
+         id="tspan3796-2-8-4-7"
+         x="663.92163"
+         y="658.40387"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter">r</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22.8149395px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Aristarcoj;-inkscape-font-specification:Aristarcoj"
+       x="865.96088"
+       y="653.69275"
+       id="text5192"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0796355,0.92623854)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_3_acustica/Immagini/lloyd1.png"
+       inkscape:export-xdpi="271.60001"
+       inkscape:export-ydpi="271.60001"><tspan
+         sodipodi:role="line"
+         id="tspan5194"
+         x="865.96088"
+         y="653.69275"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter">Specchio</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:2.6,5.2;stroke-dashoffset:0"
+       d="m 957,403.09448 -838,-168"
+       id="path3029"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_3_acustica/Immagini/lloyd1.png"
+       inkscape:export-xdpi="271.60001"
+       inkscape:export-ydpi="271.60001" />
+    <g
+       transform="matrix(0.98160852,0.19090503,-0.19090503,0.98160852,152.65418,-180.81385)"
+       id="g3798-5"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_3_acustica/Immagini/lloyd1.png"
+       inkscape:export-xdpi="271.60001"
+       inkscape:export-ydpi="271.60001">
+      <path
+         inkscape:connector-curvature="0"
+         id="rect3755-0"
+         transform="translate(0,308.2677)"
+         d="m 80.46875,373.0625 0,62.75 94.125,0 0,-5.03125 -3.15625,0 0,-54 3.15625,0 0,-3.71875 -94.125,0 z"
+         style="fill:#b3b3b3;fill-opacity:1;stroke:none" />
+      <rect
+         transform="translate(0,308.2677)"
+         y="383.36346"
+         x="40.509899"
+         height="6.7516503"
+         width="40.509899"
+         id="rect3757-96"
+         style="fill:#b3b3b3;fill-opacity:1;stroke:none" />
+      <rect
+         y="724.90717"
+         x="40.509899"
+         height="6.7516503"
+         width="40.509899"
+         id="rect3757-5-3"
+         style="fill:#b3b3b3;fill-opacity:1;stroke:none" />
+      <rect
+         y="685.19696"
+         x="171.47339"
+         height="53.563339"
+         width="1.5909903"
+         id="rect3783-8"
+         style="fill:#727272;fill-opacity:1;stroke:none" />
+      <rect
+         y="688.9093"
+         x="119.67782"
+         height="43.663845"
+         width="7.601398"
+         id="rect3785-5"
+         style="fill:#727272;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3787-6"
+         d="m 122.84464,690.34728 0,41.125 c 7.00857,-0.62243 12.5625,-9.59199 12.5625,-20.5625 0,-10.971 -5.55349,-19.94078 -12.5625,-20.5625 z"
+         style="fill:#727272;fill-opacity:1;stroke:none" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:20.08385658px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="74.194962"
+       y="494.70389"
+       id="text3853"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_3_acustica/Immagini/lloyd1.png"
+       inkscape:export-xdpi="271.60001"
+       inkscape:export-ydpi="271.60001"><tspan
+         sodipodi:role="line"
+         id="tspan3855"
+         x="74.194962"
+         y="494.70389">Sorgente virtuale</tspan></text>
+  </g>
+</svg>

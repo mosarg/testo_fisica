@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="fraunf.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mend"
+       style="overflow:visible;">
+      <path
+         id="path3850"
+         style="font-size:12.0;fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="232.60016"
+     inkscape:cy="319.72798"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="965"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.2677)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 2;stroke-dashoffset:0"
+       d="m 499.01535,792.75298 -238.396,0"
+       id="path4592-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_3_acustica/Immagini/fraun.png"
+       inkscape:export-xdpi="287.5"
+       inkscape:export-ydpi="287.5" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       d="M 268.57143,482.66591 501.42857,408.3802 780,594.09448"
+       id="path4264"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_3_acustica/Immagini/fraun.png"
+       inkscape:export-xdpi="287.5"
+       inkscape:export-ydpi="287.5" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       d="M 264.28571,790.93361 500,590.93361 782.85714,903.79075"
+       id="path3818"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_3_acustica/Immagini/fraun.png"
+       inkscape:export-xdpi="287.5"
+       inkscape:export-ydpi="287.5" />
+    <rect
+       style="fill:#130000;fill-opacity:1;stroke:#ebd777;stroke-width:0.588;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2985"
+       width="10"
+       height="228.57143"
+       x="495.84055"
+       y="360.93362"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_3_acustica/Immagini/fraun.png"
+       inkscape:export-xdpi="287.5"
+       inkscape:export-ydpi="287.5" />
+    <rect
+       style="fill:#130000;fill-opacity:1;stroke:#ebd777;stroke-width:0.588;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2985-1"
+       width="10"
+       height="228.57143"
+       x="495.84055"
+       y="718.07648"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_3_acustica/Immagini/fraun.png"
+       inkscape:export-xdpi="287.5"
+       inkscape:export-ydpi="287.5" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#c20c0c;fill-opacity:1;stroke:none"
+       id="path3005"
+       sodipodi:cx="850.71429"
+       sodipodi:cy="117.66591"
+       sodipodi:rx="7.8571429"
+       sodipodi:ry="9.2857141"
+       d="m 858.57144,117.66591 c 0,5.12836 -3.51777,9.28571 -7.85715,9.28571 -4.33938,0 -7.85714,-4.15735 -7.85714,-9.28571 0,-5.12836 3.51776,-9.28572 7.85714,-9.28572 4.33938,0 7.85715,4.15736 7.85715,9.28572 z"
+       transform="translate(-64.285715,793.98199)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_3_acustica/Immagini/fraun.png"
+       inkscape:export-xdpi="287.5"
+       inkscape:export-ydpi="287.5" />
+    <text
+       xml:space="preserve"
+       style="font-size:26.0529995px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="807.56128"
+       y="919.63055"
+       id="text3775"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_3_acustica/Immagini/fraun.png"
+       inkscape:export-xdpi="287.5"
+       inkscape:export-ydpi="287.5"><tspan
+         sodipodi:role="line"
+         id="tspan3777"
+         x="807.56128"
+         y="919.63055">ricevitore</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:26.0529995px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="89.383949"
+       y="798.61053"
+       id="text3775-4"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_3_acustica/Immagini/fraun.png"
+       inkscape:export-xdpi="287.5"
+       inkscape:export-ydpi="287.5"><tspan
+         sodipodi:role="line"
+         id="tspan3777-6"
+         x="89.383949"
+         y="798.61053">trasmettitore</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#c20c0c;fill-opacity:1;stroke:none"
+       id="path3005-2"
+       sodipodi:cx="850.71429"
+       sodipodi:cy="117.66591"
+       sodipodi:rx="7.8571429"
+       sodipodi:ry="9.2857141"
+       d="m 858.57144,117.66591 c 0,5.12836 -3.51777,9.28571 -7.85715,9.28571 -4.33938,0 -7.85714,-4.15735 -7.85714,-9.28571 0,-5.12836 3.51776,-9.28572 7.85714,-9.28572 4.33938,0 7.85715,4.15736 7.85715,9.28572 z"
+       transform="translate(-587.85715,673.2677)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_3_acustica/Immagini/fraun.png"
+       inkscape:export-xdpi="287.5"
+       inkscape:export-ydpi="287.5" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.03820598;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.15282372, 4.15282372;stroke-dashoffset:0"
+       d="m 501.01015,580.06703 0.41842,157.73115"
+       id="path4448"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_3_acustica/Immagini/fraun.png"
+       inkscape:export-xdpi="287.5"
+       inkscape:export-ydpi="287.5" />
+    <text
+       xml:space="preserve"
+       style="font-size:32.86130905px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="467.33954"
+       y="680.55725"
+       id="text4450"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_3_acustica/Immagini/fraun.png"
+       inkscape:export-xdpi="287.5"
+       inkscape:export-ydpi="287.5"><tspan
+         sodipodi:role="line"
+         id="tspan4452"
+         x="467.33954"
+         y="680.55725"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aristarcoj;-inkscape-font-specification:Aristarcoj">d</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24.59142876px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="285.18723"
+       y="799.19751"
+       id="text4458"
+       sodipodi:linespacing="125%"
+       transform="scale(1.092339,0.9154667)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_3_acustica/Immagini/fraun.png"
+       inkscape:export-xdpi="287.5"
+       inkscape:export-ydpi="287.5"><tspan
+         sodipodi:role="line"
+         id="tspan4460"
+         x="285.18723"
+         y="799.19751">r</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24.59142876px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="321.44858"
+       y="853.23389"
+       id="text4458-7"
+       sodipodi:linespacing="125%"
+       transform="scale(1.092339,0.91546671)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_3_acustica/Immagini/fraun.png"
+       inkscape:export-xdpi="287.5"
+       inkscape:export-ydpi="287.5"><tspan
+         sodipodi:role="line"
+         id="tspan4460-7"
+         x="321.44858"
+         y="853.23389">r</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24.59142876px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="552.30786"
+       y="756.87988"
+       id="text4458-3"
+       sodipodi:linespacing="125%"
+       transform="scale(1.092339,0.91546671)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_3_acustica/Immagini/fraun.png"
+       inkscape:export-xdpi="287.5"
+       inkscape:export-ydpi="287.5"><tspan
+         sodipodi:role="line"
+         id="tspan4460-5"
+         x="552.30786"
+         y="756.87988">r'</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24.59142876px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="532.03595"
+       y="875.28589"
+       id="text4458-3-0"
+       sodipodi:linespacing="125%"
+       transform="scale(1.092339,0.91546671)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_3_acustica/Immagini/fraun.png"
+       inkscape:export-xdpi="287.5"
+       inkscape:export-ydpi="287.5"><tspan
+         sodipodi:role="line"
+         id="tspan4460-5-3"
+         x="532.03595"
+         y="875.28589">r'</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.8597374px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="260.17877"
+       y="896.53204"
+       id="text4525"
+       sodipodi:linespacing="125%"
+       transform="scale(1.2232304,0.81750747)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_3_acustica/Immagini/fraun.png"
+       inkscape:export-xdpi="287.5"
+       inkscape:export-ydpi="287.5"><tspan
+         sodipodi:role="line"
+         id="tspan4527"
+         x="260.17877"
+         y="896.53204">s</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.8597374px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="499.41742"
+       y="848.6145"
+       id="text4525-9"
+       sodipodi:linespacing="125%"
+       transform="scale(1.2232304,0.81750747)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_3_acustica/Immagini/fraun.png"
+       inkscape:export-xdpi="287.5"
+       inkscape:export-ydpi="287.5"><tspan
+         sodipodi:role="line"
+         id="tspan4527-0"
+         x="499.41742"
+         y="848.6145">s</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.8597374px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="292.4353"
+       y="958.3678"
+       id="text4525-9-7"
+       sodipodi:linespacing="125%"
+       transform="scale(1.2232304,0.81750747)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_3_acustica/Immagini/fraun.png"
+       inkscape:export-xdpi="287.5"
+       inkscape:export-ydpi="287.5"><tspan
+         sodipodi:role="line"
+         id="tspan4527-0-9"
+         x="292.4353"
+         y="958.3678">i</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.8597374px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="480.93503"
+       y="981.94958"
+       id="text4525-9-7-1"
+       sodipodi:linespacing="125%"
+       transform="scale(1.2232304,0.81750747)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_3_acustica/Immagini/fraun.png"
+       inkscape:export-xdpi="287.5"
+       inkscape:export-ydpi="287.5"><tspan
+         sodipodi:role="line"
+         id="tspan4527-0-9-7"
+         x="480.93503"
+         y="981.94958">i</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:2,2;stroke-dashoffset:0"
+       d="m 779.83777,904.87991 -278.8021,0"
+       id="path4592"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_3_acustica/Immagini/fraun.png"
+       inkscape:export-xdpi="287.5"
+       inkscape:export-ydpi="287.5" />
+    <text
+       xml:space="preserve"
+       style="font-size:25.39805222px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="610.10352"
+       y="910.17194"
+       id="text4612"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0124798,0.98767402)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_3_acustica/Immagini/fraun.png"
+       inkscape:export-xdpi="287.5"
+       inkscape:export-ydpi="287.5"><tspan
+         sodipodi:role="line"
+         id="tspan4614"
+         x="610.10352"
+         y="910.17194">d'</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25.39805222px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="411.83423"
+       y="830.28821"
+       id="text4612-4"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0124798,0.98767402)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_3_acustica/Immagini/fraun.png"
+       inkscape:export-xdpi="287.5"
+       inkscape:export-ydpi="287.5"><tspan
+         sodipodi:role="line"
+         id="tspan4614-5"
+         x="411.83423"
+         y="830.28821">d</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25.39805222px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="465.71011"
+       y="780.17303"
+       id="text4612-4-5"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0124798,0.98767402)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_3_acustica/Immagini/fraun.png"
+       inkscape:export-xdpi="287.5"
+       inkscape:export-ydpi="287.5"><tspan
+         sodipodi:role="line"
+         id="tspan4614-5-1"
+         x="465.71011"
+         y="780.17303">h</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25.39805222px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="507.63898"
+       y="856.99426"
+       id="text4612-4-5-1"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0124798,0.98767402)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_3_acustica/Immagini/fraun.png"
+       inkscape:export-xdpi="287.5"
+       inkscape:export-ydpi="287.5"><tspan
+         sodipodi:role="line"
+         id="tspan4614-5-1-0"
+         x="507.63898"
+         y="856.99426">h'</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:26.0529995px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="513.73712"
+       y="517.18201"
+       id="text3775-4-3"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_3_acustica/Immagini/fraun.png"
+       inkscape:export-xdpi="287.5"
+       inkscape:export-ydpi="287.5"><tspan
+         sodipodi:role="line"
+         id="tspan3777-6-9"
+         x="513.73712"
+         y="517.18201">schermo</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:2,2;stroke-dashoffset:0"
+       d="M 500,351.23734 781.42857,595.52305"
+       id="path4719"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_3_acustica/Immagini/fraun.png"
+       inkscape:export-xdpi="287.5"
+       inkscape:export-ydpi="287.5" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 2;stroke-dashoffset:0"
+       d="m 779.40105,660.21933 -278.8021,0"
+       id="path4592-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_3_acustica/Immagini/fraun.png"
+       inkscape:export-xdpi="287.5"
+       inkscape:export-ydpi="287.5" />
+    <text
+       xml:space="preserve"
+       style="font-size:25.1333313px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="542.66766"
+       y="697.77167"
+       id="text4739"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0158694,0.98437851)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_3_acustica/Immagini/fraun.png"
+       inkscape:export-xdpi="287.5"
+       inkscape:export-ydpi="287.5"><tspan
+         sodipodi:role="line"
+         id="tspan4741"
+         x="542.66766"
+         y="697.77167"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aristarcoj;-inkscape-font-specification:Aristarcoj">q</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#c20c0c;fill-opacity:1;stroke:none"
+       id="path4745"
+       sodipodi:cx="652.5"
+       sodipodi:cy="292.30878"
+       sodipodi:rx="23.928572"
+       sodipodi:ry="23.928572"
+       d="m 676.42857,292.30878 c 0,6.01405 -2.26463,11.80758 -6.34311,16.22739 L 652.5,292.30878 z"
+       transform="matrix(1.427829,0,0,1.427829,-431.80634,242.24271)"
+       sodipodi:start="0"
+       sodipodi:end="0.74525559"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2011/laboratorio_3_acustica/Immagini/fraun.png"
+       inkscape:export-xdpi="287.5"
+       inkscape:export-ydpi="287.5" />
+  </g>
+</svg>
