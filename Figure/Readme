@@ -1,0 +1,10 @@
+Questa directory contiene le figure utilizzate nel testo.
+Le immagini di ogni capitolo saranno contenuto in una sottodirectory:
+
+Capitolo1
+ -- Immagini
+Capitolo2
+ -- Immagini
+
+di ogni immagine vettoriale è necessario inserire anche la sua sorgente svg,
+formati vettoriali proprietari sono vietati
