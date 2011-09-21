@@ -1,0 +1,135 @@
+(* Content-type: application/mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 7.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       145,          7]
+NotebookDataLength[      5285,        126]
+NotebookOptionsPosition[      4953,        111]
+NotebookOutlinePosition[      5290,        126]
+CellTagsIndexPosition[      5247,        123]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"Pot", "[", "t_", "]"}], ":=", 
+  RowBox[{"5", "*", "t"}]}]], "Input",
+ CellChangeTimes->{{3.511233566016118*^9, 3.511233578769695*^9}, {
+  3.511234770594092*^9, 3.511234771435249*^9}, {3.511268371522676*^9, 
+  3.511268371681788*^9}, {3.511268575137719*^9, 3.51126857576505*^9}}],
+
+Cell[BoxData[
+ RowBox[{"Plot", "[", 
+  RowBox[{
+   RowBox[{"Pot", "[", "t", "]"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"t", ",", "0", ",", "2"}], "}"}], ",", 
+   RowBox[{"PlotRange", "\[Rule]", "Full"}], ",", 
+   RowBox[{"AxesLabel", "\[Rule]", " ", 
+    RowBox[{"{", 
+     RowBox[{"\"\<t\>\"", ",", "\"\<P\>\""}], "}"}]}], ",", 
+   RowBox[{"Filling", "\[Rule]", "Bottom"}], ",", 
+   RowBox[{"TextStyle", "\[Rule]", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"FontFamiy", "\[Rule]", "\"\<Helvetica\>\""}], ",", 
+      RowBox[{"FontSize", "\[Rule]", "25"}]}], "}"}]}], ",", 
+   RowBox[{"PlotStyle", "\[Rule]", 
+    RowBox[{"{", "Thick", "}"}]}]}], "]"}]], "Input",
+ CellChangeTimes->{{3.511233585167022*^9, 3.511233644057485*^9}, {
+  3.511233715040765*^9, 3.511233756289198*^9}, {3.511234778296588*^9, 
+  3.511234786120087*^9}, {3.511235077814596*^9, 3.51123508460924*^9}}],
+
+Cell[BoxData[
+ GraphicsBox[GraphicsComplexBox[CompressedData["
+1:eJxFVHk01Xkc9cJkInmUeuQtfkoe2qcyLZ/PpCl5qrFl2oRsCWE4ldZnLEli
+mjey9mwpGZSezhTJQRniNZZSWedZsmZ9eLbvmD/mzB/33H/uueeee8+5HKez
+Vi4L5OTkDs7jXzZ36a4p7nHZlXjF6asNzhG7+EpP9MMZ6ZBSKfTtY1XAj0dS
+coeGRZCTG97oufYTKBP+8X3Ml+AGNXH9fu2wyvJLd2lEGXh3GrSLcnrgnNgE
+YscqYBEnWL912xAsF9FbaLS3cEvtDTfFYRSeSkyr3u6oBedGm5fyVeNQ4pGk
+faS/HvxeBTud1Z8C6eqdS7K9GiDPR8V6xf5ZWCDLUtNe9QlSLp7pXW8nh1uI
+w1PrnCYIEs5YjvXTsCp4s/g1txXk6tqwMFAeWdF9sswvbaDv73rehquIfROt
+Le/WS6BLeuew8ouvML23oFL1Vjsc6PS4fNtXCVV17g92dHSAVUe0IZO5CG+e
+zndN1uuCwVKna39mK+M4ZnW4X/0Mm+nvdUxPLkb/jWUizdJuoIPUsWlUFVtz
+yiJqOL3AGzg6oWurhtMe9QkGgX3QXOJMO2pER8PvFs65FvRDwfUye7aUjvtS
+OW6Pl38BT8WANrFYHc/pnNT9+/ggePhdzFeJ10CjflvlhgNDsNXNUGzhuBQ1
+lgwplU0NwQd1I+UAk2Wo8DIhl0ochlc5QQlG8pp4ZnPBx695IxBK4/5Q1ayJ
+WfudkovGR0CzKdDMW7QcpX1aal0xozCSwREIL63AfOt98oI9Y5C6hqHwzJaB
+V81ChKKuMRDGu5Y7srWQ02z+IS1ECqcFJ8Qqn7Xw263BAsbGcVD6/p5MWKSN
+x5lvZbS6cRjt3H2+JGwlSisjJT78CcjbuUG72lEHYxXs/a30JqEoJIDuZsxE
+jZb81AVlkxBre4onL2Wi4mW+jYmvDPY2pWSGVbNQLtM+V6I+BckGCdnVPDb6
+xedGqpdMQVhxZCzvGRtfGF5XontPw2Ft23uVehykm/sZBanOAM+7/Bg9nINN
+xn/VXSicgYcrnfSqpBx8dBf0OuxnYW3p/ZiDx3TxRO4Wus7cLMQbl3Bri3Tx
+WkgKv+nhHPiMKtRUcCnM7tZJULUg4Pl4hB0eReEdlrKUEAJFo6tlhFCYvOxQ
+6A2GAJQaJfoDrGegG7zUbGEGgd9qVSLLyilsXhdmGskIhvppd8EQKxPct8QN
+L7pAgFZC3mdkUdhUE3VXvo4At51hKmmn0M554sVthj947QzwmmDFwY2oY69v
+OhF4aiKbvpNEIeFa/RRSSKD1qIZ73TsKn5+vruD3EPA/w2YOD1PIq27IS2I4
+w93iSJYiOxxWFhY+OmBH4LY04FZ0DIXRdk9O7H1M4Llm9NQb8bz+3lrR7hYC
+h/STHvX0UrjGwrO1eIxAXG5axOQkhZuEsYlPGDYgV170M5t9AZytBlblWBK4
+Yi1qUPmVwo8D7bUZWQQe+ItNzd5QKNh+0iDtA4EdIY0yl88U+koSbTiDBMIW
+S+r9pRS25W/3cJgi8Luly+5LMxQqmGr5tDL2wKs6toUd+zRcTwpxaDlIICDI
+esb8Fwrntl1a3PCAgDDNyz20gsI/QidO1b0jsEkUyEzvpDDG+Jsoy/75PDv4
+srzReT9afXr0BIHUawpuz6coLPRIW7d+dr4/3dc6u+b+3++/P/sHW8xd6A==
+
+   "], {{{}, 
+     {Hue[0.67, 0.6, 0.6], Opacity[0.2], EdgeForm[None], 
+      GraphicsGroupBox[
+       PolygonBox[{{1, 78, 50, 77, 70, 76, 64, 69, 75, 59, 63, 68, 74, 55, 58,
+         62, 67, 73, 52, 54, 57, 61, 66, 72, 49, 48, 47, 46, 45, 44, 43, 42, 
+        41, 40, 39, 38, 37, 36, 35, 34, 33, 32, 31, 30, 29, 28, 27, 26, 25, 
+        24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 
+        6, 5, 4, 3, 2, 51, 53, 56, 60, 65, 71}}]]}, {}, {}}, {{}, {}, 
+     {Hue[0.67, 0.6, 0.6], Thickness[Large], 
+      LineBox[{1, 71, 65, 60, 56, 53, 51, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 
+       13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30,
+        31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 
+       48, 49, 72, 66, 61, 57, 54, 52, 73, 67, 62, 58, 55, 74, 68, 63, 59, 75,
+        69, 64, 76, 70, 77, 50}]}}}],
+  AspectRatio->NCache[GoldenRatio^(-1), 0.6180339887498948],
+  Axes->True,
+  AxesLabel->{
+    FormBox["\"t\"", TraditionalForm], 
+    FormBox["\"P\"", TraditionalForm]},
+  AxesOrigin->{0, 0},
+  BaseStyle->{$CellContext`FontFamiy -> "Helvetica", FontSize -> 25},
+  ImageSize->{885., Automatic},
+  Method->{"AxesInFront" -> True},
+  PlotRange->{{0, 2}, {2.040816326530612*^-7, 9.999999795918367}},
+  PlotRangeClipping->True,
+  PlotRangePadding->{
+    Scaled[0.02], 
+    Scaled[0.02]}]], "Input",
+ CellChangeTimes->{{3.511268600782142*^9, 3.511268602878911*^9}}]
+},
+WindowSize->{1280, 965},
+WindowMargins->{{2, Automatic}, {Automatic, 23}},
+FrontEndVersion->"7.0 for Linux x86 (32-bit) (November 10, 2008)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[545, 20, 313, 6, 32, "Input"],
+Cell[861, 28, 875, 20, 55, "Input"],
+Cell[1739, 50, 3210, 59, 606, InheritFromParent]
+}
+]
+*)
+
+(* End of internal cache information *)

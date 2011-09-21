@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="misura_accelerazione.svg">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="25.714286 : 314.90438 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1078.0765 : 314.90438 : 1"
+       inkscape:persp3d-origin="551.89538 : 190.88863 : 1"
+       id="perspective2985" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.77133545"
+     inkscape:cx="543.68384"
+     inkscape:cy="374.2831"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="965"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.2677)">
+    <g
+       id="g4146"
+       transform="translate(31.80508,0)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/misura_accelerazione1.png"
+       inkscape:export-xdpi="287.5"
+       inkscape:export-ydpi="287.5">
+      <rect
+         y="499.04028"
+         x="136.38985"
+         height="28.571428"
+         width="740"
+         id="rect3001"
+         style="fill:#aeaeae;fill-opacity:1;stroke:none" />
+      <rect
+         y="384.04028"
+         x="259.24698"
+         height="67.14286"
+         width="18.571428"
+         id="rect3771"
+         style="fill:#251515;fill-opacity:1;stroke:none" />
+      <rect
+         y="384.04028"
+         x="707.67554"
+         height="67.14286"
+         width="18.571428"
+         id="rect3771-1"
+         style="fill:#251515;fill-opacity:1;stroke:none" />
+      <g
+         transform="translate(-70.625106,-245.44534)"
+         id="g3913">
+        <path
+           style="fill:#989898;fill-opacity:1;stroke:none"
+           d="m 792.70781,672.03293 0,29.5625 24,0 0,-15.65625 34.34375,0 0,15.65625 21.96875,0 0,-29.5625 -80.3125,0 z"
+           id="rect3908"
+           inkscape:connector-curvature="0" />
+        <rect
+           style="fill:#ff1010;fill-opacity:1;stroke:none"
+           id="rect3791"
+           width="121.42857"
+           height="42.857143"
+           x="770"
+           y="726.64789" />
+        <g
+           id="g3847">
+          <rect
+             transform="matrix(0,1,-1,0,0,0)"
+             y="-805"
+             x="714.505"
+             height="22.14286"
+             width="12.142857"
+             id="rect3771-1-2"
+             style="fill:#251515;fill-opacity:1;stroke:none" />
+          <rect
+             transform="matrix(0,1,-1,0,0,0)"
+             y="-803.78864"
+             x="713.19305"
+             height="19.364941"
+             width="1.5362549"
+             id="rect3771-1-2-5"
+             style="fill:#251515;fill-opacity:1;stroke:none" />
+        </g>
+        <g
+           transform="translate(-0.20120643,-13.535523)"
+           id="g3847-4">
+          <rect
+             transform="matrix(0,1,-1,0,0,0)"
+             y="-805"
+             x="714.505"
+             height="22.14286"
+             width="12.142857"
+             id="rect3771-1-2-8"
+             style="fill:#251515;fill-opacity:1;stroke:none" />
+          <rect
+             transform="matrix(0,1,-1,0,0,0)"
+             y="-803.78864"
+             x="713.19305"
+             height="19.364941"
+             width="1.5362549"
+             id="rect3771-1-2-5-1"
+             style="fill:#251515;fill-opacity:1;stroke:none" />
+        </g>
+        <g
+           transform="translate(76.92353,0.05076662)"
+           id="g3847-2">
+          <rect
+             transform="matrix(0,1,-1,0,0,0)"
+             y="-805"
+             x="714.505"
+             height="22.14286"
+             width="12.142857"
+             id="rect3771-1-2-89"
+             style="fill:#251515;fill-opacity:1;stroke:none" />
+          <rect
+             transform="matrix(0,1,-1,0,0,0)"
+             y="-803.78864"
+             x="713.19305"
+             height="19.364941"
+             width="1.5362549"
+             id="rect3771-1-2-5-3"
+             style="fill:#251515;fill-opacity:1;stroke:none" />
+        </g>
+        <g
+           transform="translate(76.72232,-13.484753)"
+           id="g3847-4-6">
+          <rect
+             transform="matrix(0,1,-1,0,0,0)"
+             y="-805"
+             x="714.505"
+             height="22.14286"
+             width="12.142857"
+             id="rect3771-1-2-8-8"
+             style="fill:#251515;fill-opacity:1;stroke:none" />
+          <rect
+             transform="matrix(0,1,-1,0,0,0)"
+             y="-803.78864"
+             x="713.19305"
+             height="19.364941"
+             width="1.5362549"
+             id="rect3771-1-2-5-1-0"
+             style="fill:#251515;fill-opacity:1;stroke:none" />
+        </g>
+      </g>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3929"
+         y="349.39172"
+         x="638.62561"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+         xml:space="preserve"><tspan
+           y="349.39172"
+           x="638.62561"
+           id="tspan3931"
+           sodipodi:role="line">t=0 v=0 </tspan></text>
+      <path
+         transform="translate(53.842863,69.748291)"
+         d="m 667.93886,357.05191 c 0,1.9586 -1.36876,3.54636 -3.05721,3.54636 -1.68845,0 -3.05721,-1.58776 -3.05721,-3.54636 0,-1.9586 1.36876,-3.54636 3.05721,-3.54636 1.68845,0 3.05721,1.58776 3.05721,3.54636 z"
+         sodipodi:ry="3.5463614"
+         sodipodi:rx="3.0572083"
+         sodipodi:cy="357.05191"
+         sodipodi:cx="664.88165"
+         id="path3937"
+         style="fill:#fff128;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       id="g4169"
+       transform="translate(26.287166,0)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/misura_accelerazione2.png"
+       inkscape:export-xdpi="287.5"
+       inkscape:export-ydpi="287.5">
+      <rect
+         y="726.7193"
+         x="141.90776"
+         height="28.571428"
+         width="740"
+         id="rect3001-1"
+         style="fill:#aeaeae;fill-opacity:1;stroke:none" />
+      <rect
+         y="611.7193"
+         x="264.76492"
+         height="67.14286"
+         width="18.571428"
+         id="rect3771-6"
+         style="fill:#251515;fill-opacity:1;stroke:none" />
+      <rect
+         y="611.7193"
+         x="713.19348"
+         height="67.14286"
+         width="18.571428"
+         id="rect3771-1-3"
+         style="fill:#251515;fill-opacity:1;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3929-8"
+         y="590.21429"
+         x="300.33521"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+         xml:space="preserve"><tspan
+           y="590.21429"
+           x="300.33521"
+           id="tspan3931-9"
+           sodipodi:role="line">t=T v=v </tspan></text>
+      <g
+         transform="translate(-453.53414,-37.355431)"
+         id="g4017">
+        <g
+           id="g3913-0"
+           transform="translate(-59.573046,19.589094)">
+          <path
+             inkscape:connector-curvature="0"
+             id="rect3908-2"
+             d="m 792.70781,672.03293 0,29.5625 24,0 0,-15.65625 34.34375,0 0,15.65625 21.96875,0 0,-29.5625 -80.3125,0 z"
+             style="fill:#989898;fill-opacity:1;stroke:none" />
+          <rect
+             y="726.64789"
+             x="770"
+             height="42.857143"
+             width="121.42857"
+             id="rect3791-1"
+             style="fill:#ff1010;fill-opacity:1;stroke:none" />
+          <g
+             id="g3847-5">
+            <rect
+               style="fill:#251515;fill-opacity:1;stroke:none"
+               id="rect3771-1-2-6"
+               width="12.142857"
+               height="22.14286"
+               x="714.505"
+               y="-805"
+               transform="matrix(0,1,-1,0,0,0)" />
+            <rect
+               style="fill:#251515;fill-opacity:1;stroke:none"
+               id="rect3771-1-2-5-5"
+               width="1.5362549"
+               height="19.364941"
+               x="713.19305"
+               y="-803.78864"
+               transform="matrix(0,1,-1,0,0,0)" />
+          </g>
+          <g
+             id="g3847-4-0"
+             transform="translate(-0.20120643,-13.535523)">
+            <rect
+               style="fill:#251515;fill-opacity:1;stroke:none"
+               id="rect3771-1-2-8-0"
+               width="12.142857"
+               height="22.14286"
+               x="714.505"
+               y="-805"
+               transform="matrix(0,1,-1,0,0,0)" />
+            <rect
+               style="fill:#251515;fill-opacity:1;stroke:none"
+               id="rect3771-1-2-5-1-3"
+               width="1.5362549"
+               height="19.364941"
+               x="713.19305"
+               y="-803.78864"
+               transform="matrix(0,1,-1,0,0,0)" />
+          </g>
+          <g
+             id="g3847-2-4"
+             transform="translate(76.92353,0.05076662)">
+            <rect
+               style="fill:#251515;fill-opacity:1;stroke:none"
+               id="rect3771-1-2-89-6"
+               width="12.142857"
+               height="22.14286"
+               x="714.505"
+               y="-805"
+               transform="matrix(0,1,-1,0,0,0)" />
+            <rect
+               style="fill:#251515;fill-opacity:1;stroke:none"
+               id="rect3771-1-2-5-3-6"
+               width="1.5362549"
+               height="19.364941"
+               x="713.19305"
+               y="-803.78864"
+               transform="matrix(0,1,-1,0,0,0)" />
+          </g>
+          <g
+             id="g3847-4-6-0"
+             transform="translate(76.72232,-13.484753)">
+            <rect
+               style="fill:#251515;fill-opacity:1;stroke:none"
+               id="rect3771-1-2-8-8-2"
+               width="12.142857"
+               height="22.14286"
+               x="714.505"
+               y="-805"
+               transform="matrix(0,1,-1,0,0,0)" />
+            <rect
+               style="fill:#251515;fill-opacity:1;stroke:none"
+               id="rect3771-1-2-5-1-0-5"
+               width="1.5362549"
+               height="19.364941"
+               x="713.19305"
+               y="-803.78864"
+               transform="matrix(0,1,-1,0,0,0)" />
+          </g>
+        </g>
+        <path
+           sodipodi:type="arc"
+           style="fill:#fff128;fill-opacity:1;stroke:none"
+           id="path3937-5"
+           sodipodi:cx="664.88165"
+           sodipodi:cy="357.05191"
+           sodipodi:rx="3.0572083"
+           sodipodi:ry="3.5463614"
+           d="m 667.93886,357.05191 c 0,1.9586 -1.36876,3.54636 -3.05721,3.54636 -1.68845,0 -3.05721,-1.58776 -3.05721,-3.54636 0,-1.9586 1.36876,-3.54636 3.05721,-3.54636 1.68845,0 3.05721,1.58776 3.05721,3.54636 z"
+           transform="translate(64.894924,334.78272)" />
+      </g>
+      <text
+         transform="scale(1.1034216,0.90627191)"
+         sodipodi:linespacing="125%"
+         id="text4035"
+         y="659.70392"
+         x="409.29239"
+         style="font-size:22.5675621px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Aristarcoj;-inkscape-font-specification:Aristarcoj"
+         xml:space="preserve"><tspan
+           y="659.70392"
+           x="409.29239"
+           id="tspan4037"
+           sodipodi:role="line">1</tspan></text>
+    </g>
+    <g
+       id="g4195"
+       transform="translate(-4.2285156e-6,0)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/misura_accelerazione3.png"
+       inkscape:export-xdpi="287.5"
+       inkscape:export-ydpi="287.5">
+      <rect
+         y="962.026"
+         x="168.19493"
+         height="28.571428"
+         width="740"
+         id="rect3001-1-5"
+         style="fill:#aeaeae;fill-opacity:1;stroke:none" />
+      <rect
+         y="847.026"
+         x="291.05206"
+         height="67.14286"
+         width="18.571428"
+         id="rect3771-6-8"
+         style="fill:#251515;fill-opacity:1;stroke:none" />
+      <rect
+         y="847.026"
+         x="739.48059"
+         height="67.14286"
+         width="18.571428"
+         id="rect3771-1-3-5"
+         style="fill:#251515;fill-opacity:1;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3929-8-0"
+         y="825.521"
+         x="326.62238"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+         xml:space="preserve"><tspan
+           y="825.521"
+           x="326.62238"
+           id="tspan3931-9-9"
+           sodipodi:role="line">t=T+  t v=v </tspan></text>
+      <g
+         transform="translate(-574.82003,217.54041)"
+         id="g3913-0-8">
+        <path
+           style="fill:#989898;fill-opacity:1;stroke:none"
+           d="m 792.70781,672.03293 0,29.5625 24,0 0,-15.65625 34.34375,0 0,15.65625 21.96875,0 0,-29.5625 -80.3125,0 z"
+           id="rect3908-2-0"
+           inkscape:connector-curvature="0" />
+        <rect
+           style="fill:#ff1010;fill-opacity:1;stroke:none"
+           id="rect3791-1-2"
+           width="121.42857"
+           height="42.857143"
+           x="770"
+           y="726.64789" />
+        <g
+           id="g3847-5-4">
+          <rect
+             transform="matrix(0,1,-1,0,0,0)"
+             y="-805"
+             x="714.505"
+             height="22.14286"
+             width="12.142857"
+             id="rect3771-1-2-6-9"
+             style="fill:#251515;fill-opacity:1;stroke:none" />
+          <rect
+             transform="matrix(0,1,-1,0,0,0)"
+             y="-803.78864"
+             x="713.19305"
+             height="19.364941"
+             width="1.5362549"
+             id="rect3771-1-2-5-5-0"
+             style="fill:#251515;fill-opacity:1;stroke:none" />
+        </g>
+        <g
+           transform="translate(-0.20120643,-13.535523)"
+           id="g3847-4-0-1">
+          <rect
+             transform="matrix(0,1,-1,0,0,0)"
+             y="-805"
+             x="714.505"
+             height="22.14286"
+             width="12.142857"
+             id="rect3771-1-2-8-0-2"
+             style="fill:#251515;fill-opacity:1;stroke:none" />
+          <rect
+             transform="matrix(0,1,-1,0,0,0)"
+             y="-803.78864"
+             x="713.19305"
+             height="19.364941"
+             width="1.5362549"
+             id="rect3771-1-2-5-1-3-0"
+             style="fill:#251515;fill-opacity:1;stroke:none" />
+        </g>
+        <g
+           transform="translate(76.92353,0.05076662)"
+           id="g3847-2-4-0">
+          <rect
+             transform="matrix(0,1,-1,0,0,0)"
+             y="-805"
+             x="714.505"
+             height="22.14286"
+             width="12.142857"
+             id="rect3771-1-2-89-6-6"
+             style="fill:#251515;fill-opacity:1;stroke:none" />
+          <rect
+             transform="matrix(0,1,-1,0,0,0)"
+             y="-803.78864"
+             x="713.19305"
+             height="19.364941"
+             width="1.5362549"
+             id="rect3771-1-2-5-3-6-3"
+             style="fill:#251515;fill-opacity:1;stroke:none" />
+        </g>
+        <g
+           transform="translate(76.72232,-13.484753)"
+           id="g3847-4-6-0-9">
+          <rect
+             transform="matrix(0,1,-1,0,0,0)"
+             y="-805"
+             x="714.505"
+             height="22.14286"
+             width="12.142857"
+             id="rect3771-1-2-8-8-2-0"
+             style="fill:#251515;fill-opacity:1;stroke:none" />
+          <rect
+             transform="matrix(0,1,-1,0,0,0)"
+             y="-803.78864"
+             x="713.19305"
+             height="19.364941"
+             width="1.5362549"
+             id="rect3771-1-2-5-1-0-5-8"
+             style="fill:#251515;fill-opacity:1;stroke:none" />
+        </g>
+      </g>
+      <path
+         transform="translate(-362.68688,532.0644)"
+         d="m 667.93886,357.05191 c 0,1.9586 -1.36876,3.54636 -3.05721,3.54636 -1.68845,0 -3.05721,-1.58776 -3.05721,-3.54636 0,-1.9586 1.36876,-3.54636 3.05721,-3.54636 1.68845,0 3.05721,1.58776 3.05721,3.54636 z"
+         sodipodi:ry="3.5463614"
+         sodipodi:rx="3.0572083"
+         sodipodi:cy="357.05191"
+         sodipodi:cx="664.88165"
+         id="path3937-5-3"
+         style="fill:#fff128;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <text
+         transform="scale(1.1034216,0.90627191)"
+         sodipodi:linespacing="125%"
+         id="text4035-8"
+         y="919.3465"
+         x="492.58981"
+         style="font-size:22.5675621px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Aristarcoj;-inkscape-font-specification:Aristarcoj"
+         xml:space="preserve"><tspan
+           y="919.3465"
+           x="492.58981"
+           id="tspan4037-7"
+           sodipodi:role="line">2</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4142"
+         y="826.6925"
+         x="426.22778"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Aristarcoj;-inkscape-font-specification:Aristarcoj"
+         xml:space="preserve"><tspan
+           y="826.6925"
+           x="426.22778"
+           id="tspan4144"
+           sodipodi:role="line">D  </tspan></text>
+    </g>
+  </g>
+</svg>

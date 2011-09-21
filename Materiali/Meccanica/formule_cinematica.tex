@@ -1,0 +1,109 @@
+\documentclass[a4paper,10pt,oneside]{article}
+\usepackage[polutonikogreek,italian]{babel}
+\usepackage[utf8x]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{amscd}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{array}
+\usepackage{verbatim}
+\usepackage{rotating}
+\usepackage[small]{caption}
+\usepackage{lscape}
+\usepackage{fancybox}
+\usepackage{booktabs}
+\parindent0ex
+\renewcommand{\fboxsep}{0.5cm}
+\usepackage{hyperref}
+\renewcommand{\textfraction}{0.05}
+\renewcommand{\topfraction}{0.95}
+\renewcommand{\bottomfraction}{0.95}
+\renewcommand{\floatpagefraction}{0.35}
+\setcounter{totalnumber}{5}
+\restylefloat{figure}
+\newlength{\drop}
+\begin{document}
+\section*{Cinematica unidimensionale}
+
+
+\section*{Definizioni}
+
+Definiamo spostamento la variazione della posizione (in un ben definito sistema di riferimento) di un punto materiale:
+\begin{equation}\label{spostamento}
+\Delta x=x(t)-x(t_0)\qquad t>t_0
+\end{equation}
+nella [\ref{spostamento}] $x(t)$ rappresenta la coordinata posizione dell'oggetto nel sistema di riferimento unidimensionale in cui si trova il punto materiale.
+Definiamo velocità vettoriale (\emph{velocity}) media il rapporto tra spostamento ed intervallo temporale in cui tale spostamento è avvenuto:
+\begin{equation}\label{vmedia}
+ \bar{v}=\frac{\Delta x}{\Delta t}
+\end{equation}
+Definiamo velocità scalare (\emph{speed}) media il rapporto tra lo spazio percorso e il tempo in cui tale spazio è stato percorso:
+\begin{equation}
+ v_{speed}=\frac{<spazio>}{\Delta t}
+\end{equation}
+
+Definiamo velocità vettoriale istantanea il valore verso cui ``tende'' la velocità vettoriale media al ``tendere'' a zero dell'intervallo temporale $\Delta t$:
+\begin{equation}
+ v(t)=\lim_{\Delta t \to 0} \frac{\Delta x}{\Delta t}
+\end{equation}
+Definiamo accelerazione media il rapporto tra la variazione di velocità vettoriale e l'intervallo di tempo in cui questa variazione avviene:
+\begin{equation}\label{amedia}
+ \bar{a}=\frac{\Delta v}{\Delta x}
+\end{equation}
+Definiamo accelerazione istantanea il valore verso cui ``tende'' l'accelerazione media al ``tendere'' a zero dell'intervallo temporale $\Delta t$:
+\begin{equation}
+ a(t)=\lim_{\Delta t \to 0}\frac{\Delta v}{\Delta t}
+\end{equation}
+\section*{Leggi orarie}
+In classe abbiamo studiato tre degli infiniti modi in cui un punto  materiale può muoversi lungo una dimensione spaziale:
+\begin{enumerate}
+ \item Il corpo non varia la sua posizione nel tempo
+ \item Il corpo si muove con velocità costante
+ \item Il corpo si muove con accelerazione costante
+\end{enumerate}
+\subsection*{Il corpo non varia la sua posizione nel tempo}
+Se un punto materiale di cui stiamo descrivendo un moto unidimensionale non varia la sua posizione nel tempo la sua coordinata $x$ deve essere costante, possiamo quindi scrivere la legge oraria come:
+\begin{equation}
+ x(t)=k
+\end{equation}
+dove $k$ non varia nel tempo
+\subsection*{Il corpo si muove con velocità costante}
+Se il corpo non varia la sua velocità nel tempo, dalla definizione di velocità media deduciamo che:
+\begin{equation}
+ \bar{v}=v
+\end{equation}
+ovvero la velocità media è uguale alla velocità istantanea. Possiamo quindi riscrivere la [\ref{vmedia}] usando la [\ref{spostamento}] come:
+\begin{equation}
+ x(t)=x(t_0)+vt
+\end{equation}
+da cui risulta evidente come il corpo percorra spazi uguali in tempi uguali.
+\subsection*{Il corpo si muove con accelerazione costante}
+In questo caso utilizziamo la relazione [\ref{amedia}] e siccome per definizione l'accelerazione è costante quella media risulterà uguale a quella istantanea:
+\begin{equation}\label{vacc}
+ v(t)=v_0+a t
+\end{equation}
+La relazione [\ref{vacc}] illustra la relazione lineare che intercorre tra velocità e tempo. Ricordiamo che in un moto uniformemente accelerato, a causa della natura lineare succitata della relazione tra velocità e tempo, la \emph{velocità media} è uguale alla \emph{media delle velocità}\footnote{Chiaramente questo \textbf{non} è vero in generale}:
+\begin{equation}\label{vmedia2}
+ \bar{v}=\frac{1}{2}\left(v(t)+v(t_0)\right)
+\end{equation}
+combinando quindi la [\ref{vmedia2}], [\ref{vmedia}] e la [\ref{vacc}]   otteniamo la legge oraria del moto uniformemente accelerato:
+\begin{equation}\label{acc}
+ x(t)=x_0+v_0  t +\frac 1 2 a t^2
+\end{equation}
+utilizzando la [\ref{vacc}] e la [\ref{acc}] è possibile ottenere della altre utili relazioni:
+\begin{equation}
+ v^2=v_0^2+2a(x-x_0)
+\end{equation}
+in cui non compare il tempo
+\begin{equation}
+ x-x_0=\frac 1 2(v+v_0)t
+\end{equation}
+in cui non compare l'accelerazione
+\begin{equation}
+ x-x_0=vt-\frac 1 2 a t^2
+\end{equation}
+in cui non compare la velocità iniziale
+
+\end{document}

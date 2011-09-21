@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="masse_filo_dinamico.svg"
+   inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/laboratorio/esercitazione_forze/immagini/masse_filo_dinamico.png"
+   inkscape:export-xdpi="199.95206"
+   inkscape:export-ydpi="199.95206">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="449.67673"
+     inkscape:cy="428.93409"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="965"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <defs
+     id="defs4">
+    <marker
+       style="overflow:visible;"
+       id="Arrow2Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(0.6) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="font-size:12.0;fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path3854" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow2Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="font-size:12.0;fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path3719" />
+    </marker>
+    <inkscape:perspective
+       id="perspective10"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective3614" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective3642" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective4163" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective4188" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective4468" />
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path3854-6" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow2MendE"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2MendE">
+      <path
+         transform="scale(0.6) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="stroke-linejoin:round;font-size:12.0;fill-rule:evenodd;stroke:#fb1f1f;stroke-width:0.62500000;fill:#fb1f1f"
+         id="path4503" />
+    </marker>
+    <inkscape:perspective
+       id="perspective4579"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       style="overflow:visible"
+       id="Arrow2MendE-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2MendE">
+      <path
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="font-size:12px;fill:#fb1f1f;fill-rule:evenodd;stroke:#fb1f1f;stroke-width:0.625;stroke-linejoin:round"
+         id="path4503-6" />
+    </marker>
+    <inkscape:perspective
+       id="perspective4607"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       style="overflow:visible"
+       id="Arrow2MendE-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2MendE">
+      <path
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="font-size:12px;fill:#fb1f1f;fill-rule:evenodd;stroke:#fb1f1f;stroke-width:0.625;stroke-linejoin:round"
+         id="path4503-3" />
+    </marker>
+    <inkscape:perspective
+       id="perspective4635"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path3854-0" />
+    </marker>
+    <inkscape:perspective
+       id="perspective4673"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path3854-04" />
+    </marker>
+    <inkscape:perspective
+       id="perspective6042"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6064"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6086"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-308.2677)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_meccanica_1/Scheda/Immagini/guidovia.png"
+       id="path3664"
+       d="m 158.57143,580.93361 2.85714,205"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_meccanica_1/Scheda/Immagini/guidovia.png"
+       id="path3662"
+       d="M 620.71021,569.05511 179.2898,569.24068"
+       style="fill:none;stroke:#000000;stroke-width:1.00874186px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_meccanica_1/Scheda/Immagini/guidovia.png"
+       y="581.58966"
+       x="226.37036"
+       height="31.545002"
+       width="724.40216"
+       id="rect2816"
+       style="fill:#d7d7d7;fill-opacity:1;stroke:none" />
+    <rect
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_meccanica_1/Scheda/Immagini/guidovia.png"
+       y="559.50507"
+       x="621.42859"
+       height="35.714287"
+       width="81.428574"
+       id="rect3590"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <g
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_meccanica_1/Scheda/Immagini/guidovia.png"
+       transform="matrix(0.67791412,0,0,0.67791412,63.114589,246.98014)"
+       id="g3656">
+      <path
+         sodipodi:type="arc"
+         style="fill:#e1e1e1;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         id="path3632"
+         sodipodi:cx="198.21428"
+         sodipodi:cy="224.45163"
+         sodipodi:rx="46.07143"
+         sodipodi:ry="46.07143"
+         d="m 244.28571,224.45163 c 0,25.44455 -20.62688,46.07143 -46.07143,46.07143 -25.44455,0 -46.07143,-20.62688 -46.07143,-46.07143 0,-25.44455 20.62688,-46.07143 46.07143,-46.07143 25.44455,0 46.07143,20.62688 46.07143,46.07143 z"
+         transform="translate(-20,293.98199)" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#939393;fill-opacity:1;stroke:none"
+         id="path3632-5"
+         sodipodi:cx="198.21428"
+         sodipodi:cy="224.45163"
+         sodipodi:rx="46.07143"
+         sodipodi:ry="46.07143"
+         d="m 244.28571,224.45163 c 0,25.44455 -20.62688,46.07143 -46.07143,46.07143 -25.44455,0 -46.07143,-20.62688 -46.07143,-46.07143 0,-25.44455 20.62688,-46.07143 46.07143,-46.07143 25.44455,0 46.07143,20.62688 46.07143,46.07143 z"
+         transform="matrix(0.61240311,0,0,0.61240311,56.827238,380.97874)" />
+    </g>
+    <rect
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_meccanica_1/Scheda/Immagini/guidovia.png"
+       transform="matrix(0.99999895,-0.00144999,0.00144999,0.99999895,0,0)"
+       y="593.4104"
+       x="176.27489"
+       height="10.714286"
+       width="107.14286"
+       id="rect3660"
+       style="fill:#e1e1e1;fill-opacity:1;stroke:#000000;stroke-width:0.60000002;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <path
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_meccanica_1/Scheda/Immagini/guidovia.png"
+       id="path3684"
+       d="m 161.50725,783.78638 c -2.9258,0 -5.29414,2.11519 -5.29414,4.73301 0,0.57845 0.12955,1.12209 0.34156,1.63459 -5.45685,0.94496 -9.56642,3.52564 -10.3199,6.66036 l -2.48849,0 0,41.27961 35.13158,0 0,-41.27961 -2.78125,0 c -0.72442,-3.01379 -4.54302,-5.51069 -9.68558,-6.53837 0.24723,-0.54786 0.39035,-1.12948 0.39035,-1.75658 0,-2.61782 -2.36834,-4.73301 -5.29413,-4.73301 z"
+       style="fill:#e1e1e1;fill-opacity:1;stroke:#000000;stroke-width:0.46842107;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <path
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_meccanica_1/Scheda/Immagini/guidovia.png"
+       id="path3693"
+       d="m 161.18061,838.56698 c 0.50507,41.41626 0.50507,41.92133 0.50507,41.92133"
+       style="stroke-linejoin:miter;marker-end:url(#Arrow2MendE);stroke-opacity:1;stroke:#fb1f1f;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-width:2.6;fill:none" />
+    <text
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_meccanica_1/Scheda/Immagini/guidovia.png"
+       transform="scale(0.99409527,1.0059398)"
+       id="text4143"
+       y="870.29431"
+       x="177.91695"
+       style="font-size:23.30171394px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       xml:space="preserve"><tspan
+         y="870.29431"
+         x="177.91695"
+         id="tspan4145"
+         sodipodi:role="line">F</tspan></text>
+    <g
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_meccanica_1/Scheda/Immagini/guidovia.png"
+       transform="matrix(0.54070702,0,0,0.54070702,15.880229,397.86376)"
+       id="g4205">
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+         x="250.01276"
+         y="481.45483"
+         id="text4147"
+         transform="translate(0,308.2677)"><tspan
+           sodipodi:role="line"
+           id="tspan4149"
+           x="250.01276"
+           y="481.45483">M</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:20.03358841px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+         x="282.19418"
+         y="794.77332"
+         id="text4151"><tspan
+           sodipodi:role="line"
+           id="tspan4153"
+           x="282.19418"
+           y="794.77332">1</tspan></text>
+    </g>
+    <g
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_meccanica_1/Scheda/Immagini/guidovia.png"
+       transform="matrix(0.54822996,0,0,0.54822996,511.63685,86.593996)"
+       id="g4211">
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+         x="245.86475"
+         y="850.11462"
+         id="text4147-8"><tspan
+           sodipodi:role="line"
+           id="tspan4149-1"
+           x="245.86475"
+           y="850.11462">M</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:20.03358841px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+         x="278.31357"
+         y="854.64771"
+         id="text4151-2"><tspan
+           sodipodi:role="line"
+           id="tspan4153-8"
+           x="278.31357"
+           y="854.64771">2</tspan></text>
+    </g>
+    <path
+       id="path3044"
+       d="m 177.75,855.79076 11.42857,0"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend)" />
+    <path
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_meccanica_1/Scheda/Immagini/guidovia.png"
+       id="path3693-0"
+       d="m 161.26432,783.82581 c 0.14792,-6.77341 -0.20922,-32.63562 -0.20922,-32.63562"
+       style="fill:none;stroke:#fb1f1f;stroke-width:2.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2MendE)"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_meccanica_1/Scheda/Immagini/guidovia.png"
+       id="path3693-0-9"
+       d="m 621.82058,569.05089 c -6.77336,-0.15019 -32.63568,0.19831 -32.63568,0.19831"
+       style="fill:none;stroke:#fb1f1f;stroke-width:2.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2MendE)"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g4705"
+       transform="translate(-69.25,-71)">
+      <text
+         xml:space="preserve"
+         style="font-size:23.30171394px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+         x="240.40947"
+         y="847.87256"
+         id="text4143-2"
+         transform="scale(0.99409527,1.0059398)"
+         inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_meccanica_1/Scheda/Immagini/guidovia.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"><tspan
+           sodipodi:role="line"
+           id="tspan4145-1"
+           x="240.40947"
+           y="847.87256">F</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+         d="m 239.87353,833.23584 11.42857,0"
+         id="path3044-7" />
+      <text
+         transform="scale(1.0427878,0.95896787)"
+         id="text4661"
+         y="891.96118"
+         x="238.06496"
+         style="font-size:7.74075317px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+         xml:space="preserve"><tspan
+           y="891.96118"
+           x="238.06496"
+           id="tspan4663"
+           sodipodi:role="line">1</tspan></text>
+    </g>
+    <g
+       id="g4712"
+       transform="translate(383.00923,-326.7851)">
+      <text
+         xml:space="preserve"
+         style="font-size:23.30171394px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+         x="226.41193"
+         y="872.49957"
+         id="text4143-2-2"
+         transform="scale(0.99409527,1.0059398)"
+         inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_meccanica_1/Scheda/Immagini/guidovia.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"><tspan
+           sodipodi:role="line"
+           id="tspan4145-1-7"
+           x="226.41193"
+           y="872.49957">F</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+         d="m 225.95863,858.00916 11.42857,0"
+         id="path3044-7-4" />
+      <text
+         transform="scale(1.0975368,0.91113114)"
+         id="text4661-0"
+         y="965.98108"
+         x="213.28313"
+         style="font-size:8.14716244px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+         xml:space="preserve"><tspan
+           y="965.98108"
+           x="213.28313"
+           id="tspan4663-3"
+           sodipodi:role="line">2</tspan></text>
+    </g>
+    <rect
+       style="fill:#d1d1d1;fill-opacity:1;stroke:#ff2000;stroke-width:2.5999999;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect5466"
+       width="110"
+       height="45"
+       x="804"
+       y="528.36218" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="777"
+       y="444.36218"
+       id="text5468"><tspan
+         sodipodi:role="line"
+         id="tspan5470"
+         x="777"
+         y="444.36218">Sensore</tspan><tspan
+         sodipodi:role="line"
+         x="777"
+         y="494.36218"
+         id="tspan5472">di posizione</tspan></text>
+    <g
+       id="g6100"
+       transform="matrix(-0.56687281,-0.18025896,0.18025896,-0.56687281,938.02635,906.74139)">
+      <path
+         sodipodi:open="true"
+         sodipodi:end="6.2831853"
+         sodipodi:start="5.6059976"
+         transform="matrix(0.99935748,0.03584168,-0.03584168,0.99935748,7.9854333,295.94626)"
+         d="M 419.16148,139.86118 C 433.94229,158.77766 442,182.32198 442,206.59448"
+         sodipodi:ry="106.5"
+         sodipodi:rx="103.5"
+         sodipodi:cy="206.59448"
+         sodipodi:cx="338.5"
+         id="path5474"
+         style="fill:none;stroke:#ff2000;stroke-width:1.60000002;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:open="true"
+         sodipodi:end="6.2831853"
+         sodipodi:start="5.6059976"
+         transform="matrix(0.58074318,-0.02125918,0.02585634,0.70632516,170.71413,373.4108)"
+         d="M 419.16148,139.86118 C 433.94229,158.77766 442,182.32198 442,206.59448"
+         sodipodi:ry="106.5"
+         sodipodi:rx="103.5"
+         sodipodi:cy="206.59448"
+         sodipodi:cx="338.5"
+         id="path5474-1"
+         style="fill:none;stroke:#ff2000;stroke-width:3.22362947;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:open="true"
+         sodipodi:end="6.2831853"
+         sodipodi:start="5.6059976"
+         transform="matrix(0.20006398,-0.03370552,0.07848977,0.46588739,319.00968,424.92048)"
+         d="M 419.16148,139.86118 C 433.94229,158.77766 442,182.32198 442,206.59448"
+         sodipodi:ry="106.5"
+         sodipodi:rx="103.5"
+         sodipodi:cy="206.59448"
+         sodipodi:cx="338.5"
+         id="path5474-1-2"
+         style="fill:none;stroke:#ff2000;stroke-width:8.09105682;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:open="true"
+         sodipodi:end="6.2831853"
+         sodipodi:start="5.6059976"
+         transform="matrix(0.09791085,-0.02991766,0.06516768,0.28610656,359.05262,458.43253)"
+         d="M 419.16148,139.86118 C 433.94229,158.77766 442,182.32198 442,206.59448"
+         sodipodi:ry="106.5"
+         sodipodi:rx="103.5"
+         sodipodi:cy="206.59448"
+         sodipodi:cx="338.5"
+         id="path5474-1-2-2"
+         style="fill:none;stroke:#ff2000;stroke-width:17.33709145;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+    </g>
+  </g>
+</svg>

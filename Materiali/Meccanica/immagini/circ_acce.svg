@@ -1,0 +1,965 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.47 r22583"
+   width="335"
+   height="367"
+   version="1.0"
+   sodipodi:docname="circ_acce.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   sodipodi:modified="true"
+   inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/vet_velocita.png"
+   inkscape:export-xdpi="428.38"
+   inkscape:export-ydpi="428.38">
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5">
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lend"
+       style="overflow:visible;">
+      <path
+         id="path3833"
+         style="font-size:12.0;fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path3815"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 183.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="335 : 183.5 : 1"
+       inkscape:persp3d-origin="167.5 : 122.33333 : 1"
+       id="perspective2920" />
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="TriangleOutM"
+       style="overflow:visible">
+      <path
+         id="path6197"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.4)" />
+    </marker>
+    <inkscape:perspective
+       id="perspective3716"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3747"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3789"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4457"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4673"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2876"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2898"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2924"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2958"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2990"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3018"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3040"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3856"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3881"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3903"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3975"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4029"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4070"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4122"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4150"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4200"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4249"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4282"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4328"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4356"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4406"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4434"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4466"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4504"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4554"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-height="965"
+     inkscape:window-width="1280"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="361.19599"
+     inkscape:cy="235.64269"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:current-layer="svg2"
+     showgrid="false"
+     inkscape:window-maximized="1" />
+  <g
+     id="g3963"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/vet_acce.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400">
+    <path
+       sodipodi:nodetypes="cc"
+       id="path4115"
+       d="M 215.89022,64.927756 120.2793,28.736587"
+       style="fill:#2c9636;fill-opacity:1;fill-rule:evenodd;stroke:#3c9845;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:transform-center-x="70.400962"
+       inkscape:transform-center-y="-25.015655" />
+    <path
+       id="path4117"
+       d="M 115.6753,35.030254 100.89718,21.82824 120.68047,20.684772 115.6753,35.030254 z"
+       style="fill:#2c9636;fill-opacity:1;fill-rule:nonzero;stroke:#3c9845;stroke-width:2.35878158;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+  </g>
+  <path
+     sodipodi:type="arc"
+     style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.82493323;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:6.59946595, 3.29973298;stroke-dashoffset:0;stroke-opacity:1"
+     id="path2161"
+     sodipodi:cx="139.68272"
+     sodipodi:cy="241.84235"
+     sodipodi:rx="124.18932"
+     sodipodi:ry="124.18932"
+     d="M 263.87205 241.84235 A 124.18932 124.18932 0 1 1  15.493401,241.84235 A 124.18932 124.18932 0 1 1  263.87205 241.84235 z"
+     transform="matrix(1.203835,0,0,1.203835,-0.90508,-84.577082)"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/vet_acce.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400" />
+  <path
+     sodipodi:type="arc"
+     style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:8, 4;stroke-dashoffset:0;stroke-opacity:1"
+     id="path3133"
+     sodipodi:cx="448.34036"
+     sodipodi:cy="198.50923"
+     sodipodi:rx="2.4208443"
+     sodipodi:ry="2.4208443"
+     d="M 450.76121 198.50923 A 2.4208443 2.4208443 0 1 1  445.91952,198.50923 A 2.4208443 2.4208443 0 1 1  450.76121 198.50923 z"
+     transform="matrix(2.0653951,0,0,2.0653951,-758.75012,-203.43879)"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/vet_acce.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 166.84206,206.5612 L 316.9344,206.5612"
+     id="path3135"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/vet_acce.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400" />
+  <path
+     style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#1424d7;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 316.75012,206.24887 C 316.61616,141.27904 274.96355,85.996649 216.93762,65.530117"
+     id="path3141"
+     sodipodi:nodetypes="cc"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/vet_acce.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1.00330961;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3.00992896, 3.00992896;stroke-dashoffset:0"
+     d="m 217.12507,65.188414 0,142.019486"
+     id="path5088"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/vet_acce.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400" />
+  <path
+     style="font-size:29.50968552px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     d="m 281.41069,81.248839 -0.87895,4.423571 -0.53313,0 c -0.048,-1.287197 -0.32181,-2.223782 -0.82131,-2.80976 -0.49953,-0.585955 -1.11911,-0.878939 -1.85877,-0.878951 -0.59558,1.2e-5 -1.06867,0.163315 -1.41929,0.489907 -0.35062,0.326616 -0.52593,0.720462 -0.52593,1.18154 0,0.317009 0.0696,0.619598 0.20893,0.907769 0.13929,0.28819 0.44428,0.691642 0.91498,1.210358 1.24877,1.364062 2.05568,2.391904 2.42071,3.083532 0.36502,0.691638 0.54754,1.344846 0.54755,1.959627 -1e-5,0.999028 -0.41547,1.885183 -1.24639,2.658465 -0.83092,0.773285 -1.88038,1.159927 -3.14837,1.159927 -0.69163,0 -1.48893,-0.163302 -2.3919,-0.489907 -0.317,-0.115272 -0.56195,-0.172908 -0.73486,-0.172908 -0.43227,0 -0.75887,0.220938 -0.97981,0.662815 l -0.53313,0 0.87895,-4.668524 0.53313,0 c 0.0576,1.460117 0.36022,2.492763 0.90777,3.09794 0.54754,0.60518 1.29681,0.907769 2.24781,0.907769 0.73005,0 1.30881,-0.204128 1.73629,-0.612384 0.42746,-0.408254 0.64119,-0.910168 0.6412,-1.505743 -10e-6,-0.384238 -0.0769,-0.73966 -0.23055,-1.066268 -0.26897,-0.576357 -0.83333,-1.373656 -1.69306,-2.391898 -0.85974,-1.018231 -1.41209,-1.781909 -1.65704,-2.291035 -0.24495,-0.509111 -0.36743,-1.018229 -0.36743,-1.527357 0,-0.931773 0.33861,-1.719466 1.01584,-2.363081 0.67722,-0.64359 1.54896,-0.965391 2.61524,-0.965404 0.30738,1.3e-5 0.58596,0.02403 0.83572,0.07205 0.13448,0.02883 0.44908,0.136898 0.94379,0.324203 0.4947,0.18733 0.82371,0.280988 0.98702,0.280976 0.41305,1.2e-5 0.75887,-0.225729 1.03745,-0.677224 l 0.54754,0 z"
+     id="text6097"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/vet_acce.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400" />
+  <path
+     style="fill:#2c9636;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+     d="m 173.8925,187.3706 c 8.15131,2.75451 14.11417,10.19068 14.11417,19.24659 l -15.42891,-0.16583 -4.97203,-0.64156 6.28677,-18.4392 z"
+     id="path6305"
+     sodipodi:nodetypes="cc"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/vet_acce.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400" />
+  <g
+     id="g3767"
+     transform="translate(535.84648,-77.323278)"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/vet_posizione.png"
+     inkscape:export-xdpi="303.20001"
+     inkscape:export-ydpi="303.20001">
+    <text
+       transform="scale(1.0444361,0.95745446)"
+       id="text3704"
+       y="204.48085"
+       x="220.63768"
+       style="font-size:24.15364456px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       xml:space="preserve"><tspan
+         y="204.48085"
+         x="220.63768"
+         id="tspan3706"
+         sodipodi:role="line">r sin(  )</tspan></text>
+    <text
+       transform="scale(0.95928782,1.04244)"
+       id="text3733"
+       y="187.36456"
+       x="297.74597"
+       style="font-size:22.10729408px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       xml:space="preserve"><tspan
+         y="187.36456"
+         x="297.74597"
+         id="tspan3735"
+         sodipodi:role="line"><tspan
+   id="tspan3737"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aristarcoj;-inkscape-font-specification:Aristarcoj">w</tspan>t</tspan></text>
+  </g>
+  <g
+     transform="translate(159.33807,-49.290411)"
+     id="g2941">
+    <text
+       transform="scale(0.98272016,1.0175837)"
+       id="text3704-0"
+       y="247.65642"
+       x="206.83392"
+       style="font-size:23.76316452px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       xml:space="preserve"><tspan
+         y="247.65642"
+         x="206.83392"
+         id="tspan3706-9"
+         sodipodi:role="line">r cos(  )</tspan></text>
+    <text
+       transform="scale(0.95928782,1.04244)"
+       id="text3733-5"
+       y="241.61391"
+       x="266.52805"
+       style="font-size:22.10729408px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       xml:space="preserve"><tspan
+         y="241.61391"
+         x="266.52805"
+         id="tspan3735-9"
+         sodipodi:role="line"><tspan
+   id="tspan3737-2"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aristarcoj;-inkscape-font-specification:Aristarcoj">w</tspan>t</tspan></text>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:22.10729408px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+     x="192.77574"
+     y="185.30455"
+     id="text3733-5-6"
+     transform="scale(0.95928782,1.04244)"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/vet_acce.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400"><tspan
+       sodipodi:role="line"
+       id="tspan3735-9-4"
+       x="192.77574"
+       y="185.30455"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aristarcoj;-inkscape-font-specification:Aristarcoj"
+   id="tspan3737-2-3">w</tspan>t</tspan></text>
+  <path
+     sodipodi:type="arc"
+     style="fill:none;stroke:#000000;stroke-width:0.48512891;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     id="path3919"
+     sodipodi:cx="239.7092"
+     sodipodi:cy="103.16078"
+     sodipodi:rx="16.705399"
+     sodipodi:ry="16.705399"
+     d="m 255.42699,97.50203 a 16.705399,16.705399 0 0 1 0.98761,5.65875 l -16.7054,0 z"
+     sodipodi:start="5.9376101"
+     sodipodi:end="6.2831853"
+     transform="matrix(-0.70732434,1.9361514,-1.9361514,-0.70732434,720.6857,-343.58625)" />
+  <g
+     id="g4017"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/vet_acce.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400">
+    <path
+       inkscape:export-ydpi="303.20001"
+       inkscape:export-xdpi="303.20001"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/vet_posizione.png"
+       inkscape:transform-center-y="-70.400961"
+       inkscape:transform-center-x="-25.015653"
+       style="fill:#e42d38;fill-opacity:1;fill-rule:evenodd;stroke:#2f752f;stroke-width:3.29999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:none"
+       d="M 168.02581,206.87485 218.28002,65.445625"
+       id="path3137" />
+    <path
+       inkscape:export-ydpi="303.20001"
+       inkscape:export-xdpi="303.20001"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/vet_posizione.png"
+       id="path4117-4"
+       d="m 203.97229,81.071214 13.55841,-14.45183 0.66076,19.80529 -14.21917,-5.35346 z"
+       style="fill:#2c9636;fill-opacity:1;fill-rule:nonzero;stroke:#3c9845;stroke-width:2.35878158;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+  </g>
+  <rect
+     transform="matrix(0.99999954,-9.5730563e-4,9.1810968e-4,0.99999958,0,0)"
+     y="31.607954"
+     x="344.69073"
+     height="9.9387417"
+     width="10.579494"
+     id="rect2948-1"
+     style="fill:#feff02;fill-opacity:1;stroke:#ff3702;stroke-width:0.75542152;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+  <text
+     xml:space="preserve"
+     style="font-size:20.22509575px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+     x="348.79816"
+     y="169.9772"
+     id="text3054"
+     transform="scale(0.98334799,1.016934)"><tspan
+       sodipodi:role="line"
+       id="tspan3056"
+       x="348.79816"
+       y="169.9772"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aristarcoj;-inkscape-font-specification:Aristarcoj">a</tspan></text>
+  <g
+     transform="matrix(0.35075455,0.93646743,-0.93646743,0.35075455,302.46329,-20.398018)"
+     id="g3963-3"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/vet_acce.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400">
+    <path
+       sodipodi:nodetypes="cc"
+       id="path4115-1"
+       d="M 215.89022,64.927756 120.2793,28.736587"
+       style="fill:#2c9636;fill-opacity:1;fill-rule:evenodd;stroke:#3c9845;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:transform-center-x="70.400962"
+       inkscape:transform-center-y="-25.015655" />
+    <path
+       id="path4117-8"
+       d="M 115.6753,35.030254 100.89718,21.82824 120.68047,20.684772 115.6753,35.030254 z"
+       style="fill:#2c9636;fill-opacity:1;fill-rule:nonzero;stroke:#3c9845;stroke-width:2.35878158;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+  </g>
+  <g
+     transform="matrix(0.33733386,0.94138507,-0.94138507,0.33733386,304.61882,-20.470831)"
+     id="g4017-3"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/vet_acce.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400">
+    <path
+       inkscape:export-ydpi="303.20001"
+       inkscape:export-xdpi="303.20001"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/vet_posizione.png"
+       inkscape:transform-center-y="-70.400961"
+       inkscape:transform-center-x="-25.015653"
+       style="fill:#e42d38;fill-opacity:1;fill-rule:evenodd;stroke:#2f752f;stroke-width:3.29999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:none"
+       d="M 168.02581,206.87485 218.28002,65.445625"
+       id="path3137-9" />
+    <path
+       inkscape:export-ydpi="303.20001"
+       inkscape:export-xdpi="303.20001"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/vet_posizione.png"
+       id="path4117-4-4"
+       d="m 203.97229,81.071214 13.55841,-14.45183 0.66076,19.80529 -14.21917,-5.35346 z"
+       style="fill:#2c9636;fill-opacity:1;fill-rule:nonzero;stroke:#3c9845;stroke-width:2.35878158;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+  </g>
+  <g
+     id="g4053"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/vet_acce.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400">
+    <text
+       inkscape:export-ydpi="303.20001"
+       inkscape:export-xdpi="303.20001"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/vet_posizione.png"
+       transform="scale(1.0896156,0.91775485)"
+       id="text3700"
+       y="156.17831"
+       x="156.8365"
+       style="font-size:26.49999046px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       xml:space="preserve"><tspan
+         y="156.17831"
+         x="156.8365"
+         id="tspan3702"
+         sodipodi:role="line">r</tspan></text>
+    <g
+       inkscape:export-ydpi="303.20001"
+       inkscape:export-xdpi="303.20001"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/vet_posizione.png"
+       transform="translate(12.800093,112.6888)"
+       id="g7485-6">
+      <path
+         id="path6105-5"
+         d="m 157.78125,14.5 0,1 9.96875,0 0,-1 -9.96875,0 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         id="path7491-3"
+         d="m 170.06094,15.011923 -3.46,2 0,-4 3.46,2 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.4pt;marker-start:none" />
+    </g>
+    <text
+       transform="scale(0.94922349,1.0534927)"
+       id="text4049"
+       y="139.28548"
+       x="187.95692"
+       style="font-size:9.96122742px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       xml:space="preserve"><tspan
+         y="139.28548"
+         x="187.95692"
+         id="tspan4051"
+         sodipodi:role="line">2</tspan></text>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:26.49999046px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+     x="246.29254"
+     y="249.83037"
+     id="text3700-3"
+     transform="scale(1.0896156,0.91775485)"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/vet_acce.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400"><tspan
+       sodipodi:role="line"
+       id="tspan3702-3"
+       x="246.29254"
+       y="249.83037">r</tspan></text>
+  <g
+     id="g7485-6-1"
+     transform="translate(110.27279,198.63843)"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/vet_acce.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400">
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 157.78125,14.5 0,1 9.96875,0 0,-1 -9.96875,0 z"
+       id="path6105-5-5" />
+    <path
+       style="fill-rule:evenodd;stroke:#000000;stroke-width:0.4pt;marker-start:none"
+       d="m 170.06094,15.011923 -3.46,2 0,-4 3.46,2 z"
+       id="path7491-3-2" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:9.96122742px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+     x="290.64371"
+     y="220.8709"
+     id="text4049-6"
+     transform="scale(0.94922348,1.0534927)"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/vet_acce.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400"><tspan
+       sodipodi:role="line"
+       id="tspan4051-9"
+       x="290.64371"
+       y="220.8709">1</tspan></text>
+  <g
+     transform="matrix(0.66220034,-0.91205639,0.92213505,0.65496269,162.2453,185.85953)"
+     id="g4017-3-8"
+     style="fill:#ff323b;fill-opacity:1;stroke:#d6491c;stroke-opacity:1">
+    <path
+       inkscape:export-ydpi="303.20001"
+       inkscape:export-xdpi="303.20001"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/vet_posizione.png"
+       inkscape:transform-center-y="-70.400961"
+       inkscape:transform-center-x="-25.015653"
+       style="fill:#ff323b;fill-opacity:1;fill-rule:evenodd;stroke:#d6491c;stroke-width:3.29999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:none"
+       d="M 168.02581,206.87485 218.28002,65.445625"
+       id="path3137-9-7" />
+    <path
+       inkscape:export-ydpi="303.20001"
+       inkscape:export-xdpi="303.20001"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/vet_posizione.png"
+       id="path4117-4-4-6"
+       d="m 206.59932,78.624245 10.98251,-12.306142 1.25014,16.460507 -12.23265,-4.154365 z"
+       style="fill:#ff323b;fill-opacity:1;fill-rule:nonzero;stroke:#d6491c;stroke-width:1.92662573;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+       sodipodi:nodetypes="cccc" />
+  </g>
+  <g
+     id="g4217"
+     transform="translate(156.9777,-27.223611)">
+    <text
+       inkscape:export-ydpi="303.20001"
+       inkscape:export-xdpi="303.20001"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/vet_posizione.png"
+       transform="scale(1.0896156,0.91775485)"
+       id="text3700-2"
+       y="185.88098"
+       x="221.63242"
+       style="font-size:26.49999046px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       xml:space="preserve"><tspan
+         y="185.88098"
+         x="221.63242"
+         id="tspan3702-0"
+         sodipodi:role="line">r</tspan></text>
+    <g
+       inkscape:export-ydpi="303.20001"
+       inkscape:export-xdpi="303.20001"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/vet_posizione.png"
+       transform="matrix(1.2821725,0,0,1,31.456584,139.94857)"
+       id="g7485-6-8">
+      <path
+         id="path6105-5-3"
+         d="m 157.78125,14.5 0,1 9.96875,0 0,-1 -9.96875,0 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         id="path7491-3-5"
+         d="m 170.06094,15.011923 -3.46,2 0,-4 3.46,2 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.4pt;marker-start:none" />
+    </g>
+    <text
+       inkscape:export-ydpi="303.20001"
+       inkscape:export-xdpi="303.20001"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/vet_posizione.png"
+       transform="scale(0.98627955,1.0139113)"
+       id="text3700-2-2"
+       y="168.39554"
+       x="233.29839"
+       style="font-size:16.49416161px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aristarcoj;-inkscape-font-specification:Aristarcoj"
+         y="168.39554"
+         x="233.29839"
+         id="tspan3702-0-2"
+         sodipodi:role="line">D</tspan></text>
+  </g>
+  <g
+     id="g4488"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/vet_acce.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400"
+     transform="translate(52.502679,8.1317281)">
+    <path
+       id="text6101"
+       d="m 85.056735,7.9498531 4.1642,-0.89336 c 0.29779,0.710858 0.53794,1.436111 0.72046,2.175763 0.25935,1.0854899 0.47068,2.3726949 0.63399,3.8616189 0.0768,0.749276 0.18251,2.334267 0.317,4.754979 1.20075,-1.325627 1.91639,-2.146941 2.14695,-2.463944 1.26798,-1.719471 1.99804,-2.728101 2.19017,-3.025895 0.31699,-0.509111 0.53792,-0.95579 0.66281,-1.34004 0.10566,-0.288171 0.15849,-0.561942 0.1585,-0.821314 -1e-5,-0.2497469 -0.22335,-0.5379269 -0.67002,-0.8645419 -0.44669,-0.326593 -0.67003,-0.691622 -0.67002,-1.095086 -1e-5,-0.30738 0.12247,-0.581151 0.36743,-0.821314 0.24495,-0.240138 0.53553,-0.360213 0.87175,-0.360226 0.40344,1.3e-5 0.75886,0.165717 1.06627,0.497111 0.30738,0.33142 0.46107,0.742077 0.46109,1.231972 -2e-5,0.489918 -0.0769,0.960612 -0.23055,1.4120849 -0.24977,0.730066 -0.71566,1.621023 -1.39767,2.672874 -0.68204,1.051865 -1.78193,2.461547 -3.29967,4.229049 -0.19213,0.220941 -1.2584,1.335238 -3.1988,3.342894 l -0.53314,0 c -0.23055,-6.080603 -0.71085,-9.874976 -1.4409,-11.3831299 -0.24015,-0.489896 -0.6388,-0.734849 -1.19595,-0.734861 -0.24015,1.2e-5 -0.58117,0.04324 -1.02304,0.129682 l -0.10086,-0.504316 z"
+       style="font-size:29.50968552px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans" />
+    <g
+       transform="translate(-72.313128,-11.612433)"
+       id="g7485">
+      <path
+         id="path6105"
+         d="m 157.78125,14.5 0,1 9.96875,0 0,-1 -9.96875,0 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         id="path7491"
+         d="m 170.06094,15.011923 -3.46,2 0,-4 3.46,2 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.4pt;marker-start:none" />
+    </g>
+    <text
+       transform="scale(0.94922348,1.0534927)"
+       id="text4049-6-8"
+       y="24.555632"
+       x="97.066582"
+       style="font-size:9.96122742px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       xml:space="preserve"><tspan
+         y="24.555632"
+         x="97.066582"
+         id="tspan4051-9-5"
+         sodipodi:role="line">2</tspan></text>
+  </g>
+  <g
+     transform="translate(212.88219,100.69999)"
+     id="g4266-7"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/vet_acce.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400">
+    <path
+       id="text6101-6"
+       d="m 85.056735,7.9498531 4.1642,-0.89336 c 0.29779,0.710858 0.53794,1.436111 0.72046,2.175763 0.25935,1.0854899 0.47068,2.3726949 0.63399,3.8616189 0.0768,0.749276 0.18251,2.334267 0.317,4.754979 1.20075,-1.325627 1.91639,-2.146941 2.14695,-2.463944 1.26798,-1.719471 1.99804,-2.728101 2.19017,-3.025895 0.31699,-0.509111 0.53792,-0.95579 0.66281,-1.34004 0.10566,-0.288171 0.15849,-0.561942 0.1585,-0.821314 -1e-5,-0.2497469 -0.22335,-0.5379269 -0.67002,-0.8645419 -0.44669,-0.326593 -0.67003,-0.691622 -0.67002,-1.095086 -1e-5,-0.30738 0.12247,-0.581151 0.36743,-0.821314 0.24495,-0.240138 0.53553,-0.360213 0.87175,-0.360226 0.40344,1.3e-5 0.75886,0.165717 1.06627,0.497111 0.30738,0.33142 0.46107,0.742077 0.46109,1.231972 -2e-5,0.489918 -0.0769,0.960612 -0.23055,1.4120849 -0.24977,0.730066 -0.71566,1.621023 -1.39767,2.672874 -0.68204,1.051865 -1.78193,2.461547 -3.29967,4.229049 -0.19213,0.220941 -1.2584,1.335238 -3.1988,3.342894 l -0.53314,0 c -0.23055,-6.080603 -0.71085,-9.874976 -1.4409,-11.3831299 -0.24015,-0.489896 -0.6388,-0.734849 -1.19595,-0.734861 -0.24015,1.2e-5 -0.58117,0.04324 -1.02304,0.129682 l -0.10086,-0.504316 z"
+       style="font-size:29.50968552px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans" />
+    <g
+       transform="translate(-72.313128,-11.612433)"
+       id="g7485-65">
+      <path
+         id="path6105-3"
+         d="m 157.78125,14.5 0,1 9.96875,0 0,-1 -9.96875,0 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         id="path7491-7"
+         d="m 170.06094,15.011923 -3.46,2 0,-4 3.46,2 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.4pt;marker-start:none" />
+    </g>
+    <text
+       transform="scale(0.94922348,1.0534927)"
+       id="text4049-6-8-6"
+       y="24.555632"
+       x="97.066582"
+       style="font-size:9.96122742px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       xml:space="preserve"><tspan
+         y="24.555632"
+         x="97.066582"
+         id="tspan4051-9-5-9"
+         sodipodi:role="line">1</tspan></text>
+  </g>
+  <g
+     transform="matrix(-0.35363193,-0.93538466,0.93538466,-0.35363193,232.95031,292.8623)"
+     id="g3963-3-9"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/vet_acce.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400">
+    <path
+       sodipodi:nodetypes="cc"
+       id="path4115-1-5"
+       d="M 215.89022,64.927756 120.2793,28.736587"
+       style="fill:#2c9636;fill-opacity:1;fill-rule:evenodd;stroke:#3c9845;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:transform-center-x="70.400962"
+       inkscape:transform-center-y="-25.015655" />
+    <path
+       id="path4117-8-2"
+       d="M 115.6753,35.030254 100.89718,21.82824 120.68047,20.684772 115.6753,35.030254 z"
+       style="fill:#2c9636;fill-opacity:1;fill-rule:nonzero;stroke:#3c9845;stroke-width:2.35878158;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+  </g>
+  <g
+     id="g4536"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/vet_acce.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400">
+    <path
+       id="text6101-6-1"
+       d="m 229.34958,132.69147 4.16419,-0.89336 c 0.2978,0.71086 0.53794,1.43611 0.72046,2.17577 0.25935,1.08549 0.47069,2.37269 0.63399,3.86161 0.0768,0.74928 0.18251,2.33427 0.317,4.75498 1.20075,-1.32562 1.91639,-2.14694 2.14695,-2.46394 1.26798,-1.71947 1.99804,-2.7281 2.19017,-3.0259 0.31699,-0.50911 0.53793,-0.95579 0.66281,-1.34004 0.10566,-0.28817 0.15849,-0.56194 0.1585,-0.82131 -1e-5,-0.24975 -0.22335,-0.53793 -0.67002,-0.86454 -0.44669,-0.32659 -0.67003,-0.69162 -0.67001,-1.09509 -2e-5,-0.30738 0.12247,-0.58115 0.36742,-0.82131 0.24495,-0.24014 0.53553,-0.36021 0.87175,-0.36023 0.40345,2e-5 0.75887,0.16572 1.06628,0.49711 0.30737,0.33142 0.46107,0.74208 0.46109,1.23198 -3e-5,0.48991 -0.0769,0.96061 -0.23055,1.41208 -0.24977,0.73007 -0.71566,1.62102 -1.39767,2.67287 -0.68204,1.05187 -1.78194,2.46155 -3.29968,4.22905 -0.19213,0.22094 -1.2584,1.33524 -3.1988,3.3429 l -0.53314,0 c -0.23055,-6.08061 -0.71085,-9.87498 -1.4409,-11.38313 -0.24014,-0.4899 -0.6388,-0.73485 -1.19595,-0.73486 -0.24015,1e-5 -0.58116,0.0432 -1.02303,0.12968 l -0.10086,-0.50432 z"
+       style="font-size:29.50968552px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans" />
+    <g
+       transform="translate(71.979712,113.12919)"
+       id="g7485-65-2">
+      <path
+         id="path6105-3-4"
+         d="m 157.78125,14.5 0,1 9.96875,0 0,-1 -9.96875,0 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         id="path7491-7-9"
+         d="m 170.06094,15.011923 -3.46,2 0,-4 3.46,2 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.4pt;marker-start:none" />
+    </g>
+    <text
+       transform="scale(0.94922348,1.0534927)"
+       id="text4049-6-8-6-0"
+       y="142.9633"
+       x="249.07803"
+       style="font-size:9.96122742px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       xml:space="preserve"><tspan
+         y="142.9633"
+         x="249.07803"
+         id="tspan4051-9-5-9-1"
+         sodipodi:role="line">1</tspan></text>
+    <text
+       transform="scale(1.018936,0.98141593)"
+       id="text4394"
+       y="149.4503"
+       x="217.99318"
+       style="font-size:30.00375938px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       xml:space="preserve"><tspan
+         y="149.4503"
+         x="217.99318"
+         id="tspan4396"
+         sodipodi:role="line">-</tspan></text>
+  </g>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4, 4;stroke-dashoffset:0"
+     d="m 99.31907,3.0219894 0.7071,214.2533506"
+     id="path4454"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/vet_acce.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4, 4;stroke-dashoffset:0"
+     d="M 229.51681,196.40529 49.911688,127.81593"
+     id="path4456"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/vet_acce.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400" />
+  <path
+     inkscape:transform-center-x="49.144054"
+     style="fill:#2c9636;fill-opacity:1;fill-rule:evenodd;stroke:#ba372c;stroke-width:3.96799999999999997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     d="M 214.8464,67.801537 103.2764,143.232"
+     id="path4115-9"
+     sodipodi:nodetypes="cc"
+     inkscape:transform-center-y="37.653247"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/vet_acce.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400" />
+  <path
+     style="fill:#bb3935;fill-opacity:1;fill-rule:nonzero;stroke:#8e1210;stroke-width:2.35878158;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+     d="m 117.71914,140.20286 -17.67156,5.81837 11.8193,-15.90566 5.85226,10.08729 z"
+     id="path4117-1"
+     sodipodi:nodetypes="cccc"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/vet_acce.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400" />
+  <g
+     transform="translate(47.595986,67.996304)"
+     id="g4488-0"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/vet_acce.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400">
+    <path
+       id="text6101-7"
+       d="m 85.056735,7.9498531 4.1642,-0.89336 c 0.29779,0.710858 0.53794,1.436111 0.72046,2.175763 0.25935,1.0854899 0.47068,2.3726949 0.63399,3.8616189 0.0768,0.749276 0.18251,2.334267 0.317,4.754979 1.20075,-1.325627 1.91639,-2.146941 2.14695,-2.463944 1.26798,-1.719471 1.99804,-2.728101 2.19017,-3.025895 0.31699,-0.509111 0.53792,-0.95579 0.66281,-1.34004 0.10566,-0.288171 0.15849,-0.561942 0.1585,-0.821314 -1e-5,-0.2497469 -0.22335,-0.5379269 -0.67002,-0.8645419 -0.44669,-0.326593 -0.67003,-0.691622 -0.67002,-1.095086 -1e-5,-0.30738 0.12247,-0.581151 0.36743,-0.821314 0.24495,-0.240138 0.53553,-0.360213 0.87175,-0.360226 0.40344,1.3e-5 0.75886,0.165717 1.06627,0.497111 0.30738,0.33142 0.46107,0.742077 0.46109,1.231972 -2e-5,0.489918 -0.0769,0.960612 -0.23055,1.4120849 -0.24977,0.730066 -0.71566,1.621023 -1.39767,2.672874 -0.68204,1.051865 -1.78193,2.461547 -3.29967,4.229049 -0.19213,0.220941 -1.2584,1.335238 -3.1988,3.342894 l -0.53314,0 c -0.23055,-6.080603 -0.71085,-9.874976 -1.4409,-11.3831299 -0.24015,-0.489896 -0.6388,-0.734849 -1.19595,-0.734861 -0.24015,1.2e-5 -0.58117,0.04324 -1.02304,0.129682 l -0.10086,-0.504316 z"
+       style="font-size:29.50968552px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans" />
+    <g
+       transform="translate(-72.313128,-11.612433)"
+       id="g7485-9">
+      <path
+         id="path6105-0"
+         d="m 157.78125,14.5 0,1 9.96875,0 0,-1 -9.96875,0 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         id="path7491-76"
+         d="m 170.06094,15.011923 -3.46,2 0,-4 3.46,2 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.4pt;marker-start:none" />
+    </g>
+    <text
+       transform="scale(0.94922348,1.0534927)"
+       id="text4049-6-8-9"
+       y="24.555632"
+       x="97.066582"
+       style="font-size:9.96122742px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       xml:space="preserve"><tspan
+         y="24.555632"
+         x="97.066582"
+         id="tspan4051-9-5-3"
+         sodipodi:role="line">2</tspan></text>
+  </g>
+  <g
+     transform="translate(-77.537599,-56.03821)"
+     id="g4536-4"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/vet_acce.png"
+     inkscape:export-xdpi="400"
+     inkscape:export-ydpi="400">
+    <path
+       id="text6101-6-1-9"
+       d="m 229.34958,132.69147 4.16419,-0.89336 c 0.2978,0.71086 0.53794,1.43611 0.72046,2.17577 0.25935,1.08549 0.47069,2.37269 0.63399,3.86161 0.0768,0.74928 0.18251,2.33427 0.317,4.75498 1.20075,-1.32562 1.91639,-2.14694 2.14695,-2.46394 1.26798,-1.71947 1.99804,-2.7281 2.19017,-3.0259 0.31699,-0.50911 0.53793,-0.95579 0.66281,-1.34004 0.10566,-0.28817 0.15849,-0.56194 0.1585,-0.82131 -1e-5,-0.24975 -0.22335,-0.53793 -0.67002,-0.86454 -0.44669,-0.32659 -0.67003,-0.69162 -0.67001,-1.09509 -2e-5,-0.30738 0.12247,-0.58115 0.36742,-0.82131 0.24495,-0.24014 0.53553,-0.36021 0.87175,-0.36023 0.40345,2e-5 0.75887,0.16572 1.06628,0.49711 0.30737,0.33142 0.46107,0.74208 0.46109,1.23198 -3e-5,0.48991 -0.0769,0.96061 -0.23055,1.41208 -0.24977,0.73007 -0.71566,1.62102 -1.39767,2.67287 -0.68204,1.05187 -1.78194,2.46155 -3.29968,4.22905 -0.19213,0.22094 -1.2584,1.33524 -3.1988,3.3429 l -0.53314,0 c -0.23055,-6.08061 -0.71085,-9.87498 -1.4409,-11.38313 -0.24014,-0.4899 -0.6388,-0.73485 -1.19595,-0.73486 -0.24015,1e-5 -0.58116,0.0432 -1.02303,0.12968 l -0.10086,-0.50432 z"
+       style="font-size:29.50968552px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans" />
+    <g
+       transform="translate(71.979712,113.12919)"
+       id="g7485-65-2-8">
+      <path
+         id="path6105-3-4-4"
+         d="m 157.78125,14.5 0,1 9.96875,0 0,-1 -9.96875,0 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         id="path7491-7-9-6"
+         d="m 170.06094,15.011923 -3.46,2 0,-4 3.46,2 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.4pt;marker-start:none" />
+    </g>
+    <text
+       transform="scale(0.94922348,1.0534927)"
+       id="text4049-6-8-6-0-9"
+       y="142.9633"
+       x="249.07803"
+       style="font-size:9.96122742px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       xml:space="preserve"><tspan
+         y="142.9633"
+         x="249.07803"
+         id="tspan4051-9-5-9-1-9"
+         sodipodi:role="line">1</tspan></text>
+    <text
+       transform="scale(1.018936,0.98141593)"
+       id="text4394-7"
+       y="149.4503"
+       x="217.99318"
+       style="font-size:30.00375938px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       xml:space="preserve"><tspan
+         y="149.4503"
+         x="217.99318"
+         id="tspan4396-8"
+         sodipodi:role="line">-</tspan></text>
+  </g>
+</svg>

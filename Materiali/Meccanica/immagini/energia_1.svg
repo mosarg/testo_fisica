@@ -1,0 +1,1035 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="energia_1.svg"
+   inkscape:version="0.48.1 r9760"
+   version="1.1"
+   id="svg2"
+   height="744.09448"
+   width="1052.3622">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="534.47664"
+     inkscape:cy="296.84568"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="965"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mend"
+       style="overflow:visible;">
+      <path
+         id="path3791"
+         style="font-size:12.0;fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart">
+      <path
+         transform="scale(0.4) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3770" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3773" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mstart-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart">
+      <path
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path3770-9"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mstart-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path3770-1" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-9"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3791-7"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-4"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3791-0"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-42"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3791-6"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-5"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3791-9"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8127"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8129"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8131"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8133"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8135"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8137"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mstart-06"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path3770-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker8141"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path8143" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g5415"
+     transform="translate(4,5)"
+     style="fill:none;stroke:#0300ff;stroke-opacity:1;stroke-width:2.4;stroke-miterlimit:4;stroke-dasharray:none"
+     inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_molla.png"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#0300ff;stroke-width:2.4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 384.95735,359.61118 c 24.56415,0 49.12829,-3.62736 73.69244,-10.88206 24.56414,-7.2547 49.12829,-18.13676 73.69243,-32.64617 24.56415,-14.50941 49.1283,-32.64617 73.69244,-54.41029 24.56415,-21.76411 49.12829,-47.15558 73.69244,-76.1744 24.56414,-29.01882 49.12829,-61.66499 73.69243,-97.938525 24.56415,-36.273525 49.12829,-76.174403 73.69244,-119.702633 24.56414,-43.52823 49.12829,-90.683802 73.69243,-141.466742"
+       title="0.3*x*x"
+       id="path5383" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#0300ff;stroke-width:2.4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 384.99152,359.59887 c -24.5642,0 -49.1283,-3.62736 -73.6924,-10.88206 -24.5642,-7.2547 -49.1283,-18.13676 -73.6925,-32.64617 -24.5641,-14.50941 -49.1283,-32.64617 -73.6924,-54.41029 -24.5642,-21.76411 -49.12829,-47.15558 -73.692487,-76.1744 -24.5641,-29.01882 -49.1283,-61.66499 -73.6924,-97.938523 -24.5640998,-36.27352 -49.1283,-76.174403 -73.6924,-119.702633 -24.5642,-43.52823 -49.128303,-90.683794 -73.692503,-141.466734"
+       title="0.3*x*x"
+       id="path5383-1" />
+  </g>
+  <g
+     transform="translate(0,-308.2677)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       style="fill:none;stroke:#000bfc;stroke-width:2.0999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 417.89762,1405.5856 813.64516,1199.2487"
+       id="path8348"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_gravitazionale.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2991"
+       d="m 388.57143,378.07647 0,532.85714"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Mstart);marker-end:none"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_molla.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2991-2"
+       d="m 801.60745,675.5562 -771.519997,0"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Mstart);marker-end:none"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_molla.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2991-2-3"
+       d="m 797.01,538.36218 -771.520001,0"
+       style="fill:none;stroke:#ff0d0d;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:none"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_molla.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:28.34951401px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="398.38446"
+       y="396.36218"
+       id="text5819"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_molla.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan5821"
+         x="398.38446"
+         y="396.36218">E</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28.34951401px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="778.76447"
+       y="662.87341"
+       id="text5819-0"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_molla.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan5821-0"
+         x="778.76447"
+         y="662.87341">x</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#5ac417;fill-opacity:1;stroke:none"
+       id="path5844"
+       sodipodi:cx="127.27922"
+       sodipodi:cy="170.27733"
+       sodipodi:rx="4.9497476"
+       sodipodi:ry="8.1317282"
+       d="m 132.22897,170.27733 a 4.9497476,8.1317282 0 1 1 -9.8995,0 4.9497476,8.1317282 0 1 1 9.8995,0 z"
+       transform="matrix(0.74387243,0,0,0.4863225,35.574595,455.35035)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_molla.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#5ac417;fill-opacity:1;stroke:none"
+       id="path5844-6"
+       sodipodi:cx="127.27922"
+       sodipodi:cy="170.27733"
+       sodipodi:rx="4.9497476"
+       sodipodi:ry="8.1317282"
+       d="m 132.22897,170.27733 a 4.9497476,8.1317282 0 1 1 -9.8995,0 4.9497476,8.1317282 0 1 1 9.8995,0 z"
+       transform="matrix(0.74387243,0,0,0.4863225,552.44041,455.62577)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_molla.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="164.32103"
+       y="210.05115"
+       id="text5864"
+       sodipodi:linespacing="125%"
+       transform="translate(0,308.2677)"><tspan
+         sodipodi:role="line"
+         id="tspan5866"
+         x="164.32103"
+         y="210.05115" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="191.84903"
+       y="190.56979"
+       id="text5868"
+       sodipodi:linespacing="125%"
+       transform="translate(0,308.2677)"><tspan
+         sodipodi:role="line"
+         id="tspan5870"
+         x="191.84903"
+         y="190.56979" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.43229485px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="133.84265"
+       y="501.80774"
+       id="text5872"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_molla.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan5874"
+         x="133.84265"
+         y="501.80774"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans">Punti di inversione</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="m 138.48705,196.49889 -5.5056,25.83398"
+       id="path5878"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_molla.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.43229485px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="514.38861"
+       y="510.96149"
+       id="text5872-6"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_molla.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan5874-0"
+         x="514.38861"
+         y="510.96149"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans">Punti di inversione</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="m 620.1958,513.94266 20.16878,17.05657"
+       id="path5878-9"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="15.556349"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_molla.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="200.81833"
+       y="534.76001"
+       id="text6102"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_molla.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan6104"
+         x="200.81833"
+         y="534.76001">Energia totale costante </tspan></text>
+    <path
+       style="fill:none;stroke:#93398f;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:3, 3;stroke-dashoffset:0"
+       d="m 275.41809,540.06332 0,106.06602"
+       id="path6106"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_molla.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.09096432px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="298.81558"
+       y="597.40161"
+       id="text6207"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_molla.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan6209"
+         x="298.81558"
+         y="597.40161">Energia Cinetica</tspan></text>
+    <path
+       style="fill:none;stroke:#0526df;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0"
+       d="m 275.41809,649.42223 0,24.06602"
+       id="path6106-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_molla.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:20.28941345px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:GentiumAlt;-inkscape-font-specification:GentiumAlt"
+       x="339.70847"
+       y="527.51855"
+       id="text6229"
+       sodipodi:linespacing="125%"
+       transform="scale(0.78897499,1.2674673)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_molla.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan6231"
+         x="339.70847"
+         y="527.51855"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:GentiumAlt;-inkscape-font-specification:GentiumAlt">{</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.09096432px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="190.69753"
+       y="663.67035"
+       id="text6207-3"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_molla.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan6209-7"
+         x="190.69753"
+         y="663.67035">Energia Potenziale</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:50.66245651px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:GentiumAlt;-inkscape-font-specification:GentiumAlt"
+       x="-642.99225"
+       y="280.93573"
+       id="text6229-6"
+       sodipodi:linespacing="125%"
+       transform="scale(-0.44661203,2.2390799)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_molla.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan6231-0"
+         x="-642.99225"
+         y="280.93573"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:GentiumAlt;-inkscape-font-specification:GentiumAlt">{</tspan></text>
+    <path
+       style="fill:none;stroke:#0526df;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0"
+       d="m 153.44217,563.73921 0,110.06602"
+       id="path6106-4-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_molla.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#93398f;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0"
+       d="m 153.44217,537.79629 0,22.06602"
+       id="path6106-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_molla.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.09096432px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="65.649284"
+       y="620.19965"
+       id="text6207-3-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_molla.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan6209-7-0"
+         x="65.649284"
+         y="620.19965">Energia Potenziale</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:51.99584961px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:GentiumAlt;-inkscape-font-specification:GentiumAlt"
+       x="324.79776"
+       y="284.09607"
+       id="text6229-2"
+       sodipodi:linespacing="125%"
+       transform="scale(0.435159,2.2980106)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_molla.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan6231-00"
+         x="324.79776"
+         y="284.09607"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:GentiumAlt;-inkscape-font-specification:GentiumAlt">{</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:19.21695709px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:GentiumAlt;-inkscape-font-specification:GentiumAlt"
+       x="-194.09283"
+       y="464.88742"
+       id="text6229-1"
+       sodipodi:linespacing="125%"
+       transform="scale(-0.83300598,1.2004716)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_molla.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan6231-7"
+         x="-194.09283"
+         y="464.88742"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:GentiumAlt;-inkscape-font-specification:GentiumAlt">{</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.09096432px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="163.34218"
+       y="553.95782"
+       id="text6207-9"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_molla.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan6209-6"
+         x="163.34218"
+         y="553.95782">Energia Cinetica</tspan></text>
+    <path
+       style="fill:none;stroke:#0526df;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0"
+       d="m 647.26074,543.11139 0,130.06602"
+       id="path6106-4-2-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_molla.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.09096432px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="554.81628"
+       y="642.55933"
+       id="text6207-8"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_molla.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan6209-1"
+         x="554.81628"
+         y="642.55933">Nei punti di inversione</tspan><tspan
+         sodipodi:role="line"
+         x="554.81628"
+         y="653.92303"
+         id="tspan6455">l'energia è totalmente</tspan><tspan
+         sodipodi:role="line"
+         x="554.81628"
+         y="665.28674"
+         id="tspan6457">potenziale</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="m 613.8666,635.1317 28.2572,-80.08513"
+       id="path5878-9-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_molla.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.09096432px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="399.59579"
+       y="560.46692"
+       id="text6207-8-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_molla.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         x="399.59579"
+         y="560.46692"
+         id="tspan6457-1">Quando l'energia potenziale è nulla</tspan><tspan
+         sodipodi:role="line"
+         x="399.59579"
+         y="571.83063"
+         id="tspan6525">l'energia è completamente cinetica</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="M 421.57357,574.77636 404.9979,625.9926"
+       id="path5878-9-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_molla.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3596"
+       style="fill:none;stroke:#000000;stroke-width:3.46676874;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 388.69331,701.75854 14.85247,0 c 0,0 8.22059,15.84994 16.3996,15.84994 22.15928,0 23.9228,-27.63031 11.54161,-27.63031 -12.38118,0 -2.6153,27.63031 11.54163,27.63031 14.1569,0 24.95546,-27.63031 11.54161,-27.63031 -13.10446,0 -2.61419,27.63031 11.5416,27.63031 14.17945,0 28.70765,-27.63031 11.54161,-27.63031 -16.8573,0 -3.51217,27.63031 11.54162,27.63031 15.98208,0 26.51518,-27.63031 11.54161,-27.63031 -15.59191,0 -3.51377,27.63031 11.54162,27.63031 15.36479,0 28.37033,-27.63031 11.54161,-27.63031 -16.5195,0 -2.60918,27.63031 11.54162,27.63031 8.61847,0 12.99589,-15.63576 12.99589,-15.63576 l 17.01846,0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_molla.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="fill:#5ac417;fill-opacity:1;stroke:none"
+       id="rect8099"
+       width="33.349056"
+       height="40.644161"
+       x="564.5462"
+       y="681.19458"
+       ry="13.63955"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_molla.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:17.98913765px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="572.67383"
+       y="704.64307"
+       id="text8103"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_molla.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan8105"
+         x="572.67383"
+         y="704.64307">M</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="534.93079"
+       y="737.22968"
+       id="text8107"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_molla.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan8109"
+         x="534.93079"
+         y="737.22968">La massa collegata alla</tspan><tspan
+         sodipodi:role="line"
+         x="534.93079"
+         y="750.97968"
+         id="tspan8111">molla oscilla tra i due punti</tspan><tspan
+         sodipodi:role="line"
+         x="534.93079"
+         y="764.72968"
+         id="tspan8113">di inversione</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path2991-6"
+       d="m 418.24277,1109.2755 0,532.8571"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Mstart);marker-end:none"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_gravitazionale.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2991-2-7"
+       d="m 831.27881,1406.7553 -771.520017,0"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Mstart);marker-end:none"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_gravitazionale.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2991-2-3-5"
+       d="m 826.68131,1269.5612 -771.519967,0"
+       style="fill:none;stroke:#ff0d0d;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:none"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_gravitazionale.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:28.34951401px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="428.05576"
+       y="1127.5612"
+       id="text5819-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_gravitazionale.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan5821-3"
+         x="428.05576"
+         y="1127.5612">E</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28.34951401px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="808.43585"
+       y="1394.0725"
+       id="text5819-0-2"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_gravitazionale.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan5821-0-9"
+         x="808.43585"
+         y="1394.0725">x</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#5ac417;fill-opacity:1;stroke:none"
+       id="path5844-6-0"
+       sodipodi:cx="127.27922"
+       sodipodi:cy="170.27733"
+       sodipodi:rx="4.9497476"
+       sodipodi:ry="8.1317282"
+       d="m 132.22897,170.27733 a 4.9497476,8.1317282 0 1 1 -9.8995,0 4.9497476,8.1317282 0 1 1 9.8995,0 z"
+       transform="matrix(0.74387243,0,0,0.4863225,582.11171,1186.8248)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_gravitazionale.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.43229485px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="527.13391"
+       y="1239.7426"
+       id="text5872-6-5"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_gravitazionale.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan5874-0-1"
+         x="527.13391"
+         y="1239.7426"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans">La massa cade da ferma</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="m 649.86711,1245.1417 20.1688,17.0566"
+       id="path5878-9-4"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="15.556349"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_gravitazionale.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="423.12439"
+       y="1261.929"
+       id="text6102-5"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_gravitazionale.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan6104-0"
+         x="423.12439"
+         y="1261.929">Energia totale costante </tspan></text>
+    <path
+       style="fill:none;stroke:#93398f;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0"
+       d="m 575.08943,1271.2624 0,50.066"
+       id="path6106-40"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_gravitazionale.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:55.08875275px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:GentiumAlt;-inkscape-font-specification:GentiumAlt"
+       x="982.77026"
+       y="567.31097"
+       id="text6229-6-3"
+       sodipodi:linespacing="125%"
+       transform="scale(0.41072744,2.4347046)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_gravitazionale.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan6231-0-0"
+         x="982.77026"
+         y="567.31097"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:GentiumAlt;-inkscape-font-specification:GentiumAlt">{</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:55.62049866px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:GentiumAlt;-inkscape-font-specification:GentiumAlt"
+       x="-1694.9502"
+       y="562.61157"
+       id="text6229-2-6"
+       sodipodi:linespacing="125%"
+       transform="scale(-0.40680075,2.4582059)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_gravitazionale.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan6231-00-1"
+         x="-1694.9502"
+         y="562.61157"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:GentiumAlt;-inkscape-font-specification:GentiumAlt">{</tspan></text>
+    <path
+       style="fill:none;stroke:#0526df;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0"
+       d="m 676.93211,1274.3104 0,130.0661"
+       id="path6106-4-2-1-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_gravitazionale.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.09096432px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="695.71606"
+       y="1332.6522"
+       id="text6207-8-2"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_gravitazionale.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         x="695.71606"
+         y="1332.6522"
+         id="tspan6457-5">Nel momento in cui la massa</tspan><tspan
+         sodipodi:role="line"
+         x="695.71606"
+         y="1344.0159"
+         id="tspan8354">viene lasciata libera l'energia è</tspan><tspan
+         sodipodi:role="line"
+         x="695.71606"
+         y="1355.3796"
+         id="tspan8356">totalmente potenziale</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.09096432px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="259.76202"
+       y="1336.9308"
+       id="text6207-8-1-3"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_gravitazionale.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         x="259.76202"
+         y="1336.9308"
+         id="tspan6525-0">Un istante prima di toccare il suolo</tspan><tspan
+         sodipodi:role="line"
+         x="259.76202"
+         y="1348.2944"
+         id="tspan8706">l'energia è totalmente cinetica</tspan></text>
+    <rect
+       style="fill:#317c02;fill-opacity:1;stroke:none"
+       id="rect8358"
+       width="39.494152"
+       height="44.330173"
+       x="635.51849"
+       y="1412.0336"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_gravitazionale.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:28.01145363px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="667.87488"
+       y="1392.6223"
+       id="text8362"
+       sodipodi:linespacing="125%"
+       transform="scale(0.96531452,1.0359318)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_gravitazionale.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan8364"
+         x="667.87488"
+         y="1392.6223">M</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.70000005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+       d="m 628.26444,1438.6317 c -4.83602,0.806 -75.7643,0 -75.7643,0"
+       id="path8370"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_gravitazionale.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.09096432px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="680.59479"
+       y="1433.6525"
+       id="text6207-8-2-5"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_gravitazionale.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         x="680.59479"
+         y="1433.6525"
+         id="tspan8611">La massa inizia a cadere dalla quota h</tspan><tspan
+         sodipodi:role="line"
+         x="680.59479"
+         y="1445.0161"
+         id="tspan8615">e si muove verso il suolo</tspan></text>
+    <path
+       style="fill:none;stroke:#0526df;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0"
+       d="m 574.77993,1325.1579 0,80.0661"
+       id="path6106-4-2-1-0-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_gravitazionale.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:29.02594185px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:GentiumAlt;-inkscape-font-specification:GentiumAlt"
+       x="1025.5569"
+       y="724.17139"
+       id="text6229-1-0-1"
+       sodipodi:linespacing="125%"
+       transform="scale(0.55150116,1.8132328)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_gravitazionale.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan6231-7-8-1"
+         x="1025.5569"
+         y="724.17139"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:GentiumAlt;-inkscape-font-specification:GentiumAlt">{</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.09096432px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="497.04175"
+       y="1299.5485"
+       id="text6207-9-3-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_gravitazionale.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan6209-6-0-8"
+         x="497.04175"
+         y="1299.5485">Energia Cinetica</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.09096432px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="587.27802"
+       y="1368.7661"
+       id="text6207-9-3-7-4"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_gravitazionale.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan6209-6-0-8-9"
+         x="587.27802"
+         y="1368.7661">Energia Potenziale</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:35.24970627px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:GentiumAlt;-inkscape-font-specification:GentiumAlt"
+       x="-1290.3417"
+       y="630.99359"
+       id="text6229-1-0-1-4"
+       sodipodi:linespacing="125%"
+       transform="scale(-0.45412694,2.2020275)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/pontenziale_gravitazionale.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan6231-7-8-1-7"
+         x="-1290.3417"
+         y="630.99359"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:GentiumAlt;-inkscape-font-specification:GentiumAlt">{</tspan></text>
+  </g>
+</svg>

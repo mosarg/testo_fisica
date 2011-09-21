@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="cannone.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path3678"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lend"
+       style="overflow:visible;">
+      <path
+         id="path3692"
+         style="font-size:12.0;fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lstart"
+       style="overflow:visible">
+      <path
+         id="path3689"
+         style="font-size:12.0;fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path3671"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective3600"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3622"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3644"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4518"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5484"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5530"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5552"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5574"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5574-3"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5574-9"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5979"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6182"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2868"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2868-4"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4156"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-2"
+       style="overflow:visible">
+      <path
+         id="path3678-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <inkscape:perspective
+       id="perspective2867"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart-8"
+       style="overflow:visible">
+      <path
+         id="path3671-4"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-3"
+       style="overflow:visible">
+      <path
+         id="path3678-1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2875"
+       style="overflow:visible">
+      <path
+         id="path2877"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.9234375"
+     inkscape:cx="1231.3685"
+     inkscape:cy="170.43418"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="965"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.2677)">
+    <path
+       sodipodi:type="arc"
+       style="fill:#41301b;fill-opacity:1;stroke:#515151;stroke-width:1.10000001999999997;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3664"
+       sodipodi:cx="169.47546"
+       sodipodi:cy="265.1774"
+       sodipodi:rx="7.0389171"
+       sodipodi:ry="7.0389171"
+       d="m 176.51438,265.1774 c 0,3.88749 -3.15143,7.03892 -7.03892,7.03892 -3.88748,0 -7.03891,-3.15143 -7.03891,-7.03892 0,-3.88749 3.15143,-7.03892 7.03891,-7.03892 3.88749,0 7.03892,3.15143 7.03892,7.03892 z"
+       transform="matrix(-1,0,0,1,909.84282,329.76009)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_cinematica_2/Scheda/Immagini/cannone5.png"
+       inkscape:export-xdpi="499.89127"
+       inkscape:export-ydpi="499.89127" />
+    <rect
+       style="fill:#747474;fill-opacity:1;stroke:#515151;stroke-width:1.10000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3590"
+       width="186.07318"
+       height="20.674797"
+       x="-1126.9154"
+       y="116.11471"
+       transform="matrix(-0.85596268,-0.51703761,-0.51703761,0.85596268,0,0)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_cinematica_2/Scheda/Immagini/cannone5.png"
+       inkscape:export-xdpi="499.89127"
+       inkscape:export-ydpi="499.89127" />
+    <rect
+       style="fill:#747474;fill-opacity:1;stroke:#515151;stroke-width:0.22491518;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3590-7"
+       width="16.976725"
+       height="9.4737797"
+       x="-1143.9694"
+       y="-141.63423"
+       transform="matrix(-0.86042791,-0.50957218,0.51422131,-0.85765754,0,0)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_cinematica_2/Scheda/Immagini/cannone5.png"
+       inkscape:export-xdpi="499.89127"
+       inkscape:export-ydpi="499.89127" />
+    <rect
+       style="fill:#c3bfbf;fill-opacity:1;stroke:#515151;stroke-width:0.11473626;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3590-7-2"
+       width="16.278334"
+       height="2.5711713"
+       x="-1162.6799"
+       y="-150.88835"
+       transform="matrix(-0.86604048,-0.49997388,0.52743629,-0.84959458,0,0)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_cinematica_2/Scheda/Immagini/cannone5.png"
+       inkscape:export-xdpi="499.89127"
+       inkscape:export-ydpi="499.89127" />
+    <rect
+       style="fill:#c3bfbf;fill-opacity:1;stroke:#515151;stroke-width:1.10000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3658"
+       width="4.8730965"
+       height="157.29272"
+       x="-835.55853"
+       y="575.0694"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_cinematica_2/Scheda/Immagini/cannone5.png"
+       inkscape:export-xdpi="499.89127"
+       inkscape:export-ydpi="499.89127"
+       transform="scale(-1,1)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#515151;stroke-width:1.10000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3660"
+       sodipodi:cx="51.167511"
+       sodipodi:cy="286.8356"
+       sodipodi:rx="4.0609136"
+       sodipodi:ry="4.3316412"
+       d="m 55.228425,286.8356 c 0,2.3923 -1.818133,4.33164 -4.060914,4.33164 -2.242781,0 -4.060914,-1.93934 -4.060914,-4.33164 0,-2.3923 1.818133,-4.33164 4.060914,-4.33164 2.242781,0 4.060914,1.93934 4.060914,4.33164 z"
+       transform="matrix(-1,0,0,1,884.56024,364.30831)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_cinematica_2/Scheda/Immagini/cannone5.png"
+       inkscape:export-xdpi="499.89127"
+       inkscape:export-ydpi="499.89127" />
+    <text
+       xml:space="preserve"
+       style="font-size:12.70625973px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="725.5954"
+       y="658.70251"
+       id="text4504"
+       transform="scale(1.0381831,0.96322122)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_cinematica_2/Scheda/Immagini/cannone5.png"
+       inkscape:export-xdpi="499.89127"
+       inkscape:export-ydpi="499.89127"><tspan
+         sodipodi:role="line"
+         id="tspan4506"
+         x="725.5954"
+         y="658.70251"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aristarcoj;-inkscape-font-specification:Aristarcoj">q</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#8cdc37;fill-opacity:1;stroke:#515151;stroke-width:0.60000001999999997;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4508"
+       sodipodi:cx="54.416245"
+       sodipodi:cy="291.70871"
+       sodipodi:rx="21.387478"
+       sodipodi:ry="17.597292"
+       d="m 72.882097,282.83039 c 1.913305,2.69398 2.921625,5.7581 2.921625,8.87832 l -21.387477,0 z"
+       transform="matrix(-1.1626236,0,0,1.441388,857.48785,219.54479)"
+       sodipodi:start="5.7543505"
+       sodipodi:end="6.2831853"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_cinematica_2/Scheda/Immagini/cannone5.png"
+       inkscape:export-xdpi="499.89127"
+       inkscape:export-ydpi="499.89127" />
+    <text
+       xml:space="preserve"
+       style="font-size:19.35270309px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="726.12164"
+       y="581.53387"
+       id="text5472"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_cinematica_2/Scheda/Immagini/cannone5.png"
+       inkscape:export-xdpi="499.89127"
+       inkscape:export-ydpi="499.89127"><tspan
+         sodipodi:role="line"
+         id="tspan5474"
+         x="726.12164"
+         y="581.53387">v</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.68384361px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="712.19916"
+       y="599.44623"
+       id="text4498-5"
+       transform="scale(1.0283,0.97247885)"
+       inkscape:export-xdpi="499.89127"
+       inkscape:export-ydpi="499.89127"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_cinematica_2/Scheda/Immagini/cannone5.png"><tspan
+         sodipodi:role="line"
+         id="tspan4500-4"
+         x="712.19916"
+         y="599.44623">0</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#42382b;fill-opacity:1;stroke:#515151;stroke-width:1.10000001999999997;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3664-8"
+       sodipodi:cx="169.47546"
+       sodipodi:cy="265.1774"
+       sodipodi:rx="7.0389171"
+       sodipodi:ry="7.0389171"
+       d="m 176.51438,265.1774 c 0,3.88749 -3.15143,7.03892 -7.03892,7.03892 -3.88748,0 -7.03891,-3.15143 -7.03891,-7.03892 0,-3.88749 3.15143,-7.03892 7.03891,-7.03892 3.88749,0 7.03892,3.15143 7.03892,7.03892 z"
+       transform="matrix(-1,0,0,1,888.36274,316.73928)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_cinematica_2/Scheda/Immagini/cannone5.png"
+       inkscape:export-xdpi="499.89127"
+       inkscape:export-ydpi="499.89127" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#3b3021;fill-opacity:1;stroke:#515151;stroke-width:1.10000001999999997;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3664-8-2"
+       sodipodi:cx="169.47546"
+       sodipodi:cy="265.1774"
+       sodipodi:rx="7.0389171"
+       sodipodi:ry="7.0389171"
+       d="m 176.51438,265.1774 c 0,3.88749 -3.15143,7.03892 -7.03892,7.03892 -3.88748,0 -7.03891,-3.15143 -7.03891,-7.03892 0,-3.88749 3.15143,-7.03892 7.03891,-7.03892 3.88749,0 7.03892,3.15143 7.03892,7.03892 z"
+       transform="matrix(-1,0,0,1,861.56207,300.2873)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_cinematica_2/Scheda/Immagini/cannone5.png"
+       inkscape:export-xdpi="499.89127"
+       inkscape:export-ydpi="499.89127" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#413627;fill-opacity:1;stroke:#515151;stroke-width:1.10000001999999997;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3664-8-2-5"
+       sodipodi:cx="169.47546"
+       sodipodi:cy="265.1774"
+       sodipodi:rx="7.0389171"
+       sodipodi:ry="7.0389171"
+       d="m 176.51438,265.1774 c 0,3.88749 -3.15143,7.03892 -7.03892,7.03892 -3.88748,0 -7.03891,-3.15143 -7.03891,-7.03892 0,-3.88749 3.15143,-7.03892 7.03891,-7.03892 3.88749,0 7.03892,3.15143 7.03892,7.03892 z"
+       transform="matrix(-1,0,0,1,830.29839,281.80086)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_cinematica_2/Scheda/Immagini/cannone5.png"
+       inkscape:export-xdpi="499.89127"
+       inkscape:export-ydpi="499.89127" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#533f26;fill-opacity:1;stroke:#515151;stroke-width:1.10000001999999997;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3664-8-2-4"
+       sodipodi:cx="169.47546"
+       sodipodi:cy="265.1774"
+       sodipodi:rx="7.0389171"
+       sodipodi:ry="7.0389171"
+       d="m 176.51438,265.1774 c 0,3.88749 -3.15143,7.03892 -7.03892,7.03892 -3.88748,0 -7.03891,-3.15143 -7.03891,-7.03892 0,-3.88749 3.15143,-7.03892 7.03891,-7.03892 3.88749,0 7.03892,3.15143 7.03892,7.03892 z"
+       transform="matrix(-1,0,0,1,794.57169,269.44029)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_cinematica_2/Scheda/Immagini/cannone5.png"
+       inkscape:export-xdpi="499.89127"
+       inkscape:export-ydpi="499.89127" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#3e3427;fill-opacity:1;stroke:#515151;stroke-width:1.10000001999999997;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3664-8-2-0"
+       sodipodi:cx="169.47546"
+       sodipodi:cy="265.1774"
+       sodipodi:rx="7.0389171"
+       sodipodi:ry="7.0389171"
+       d="m 176.51438,265.1774 c 0,3.88749 -3.15143,7.03892 -7.03892,7.03892 -3.88748,0 -7.03891,-3.15143 -7.03891,-7.03892 0,-3.88749 3.15143,-7.03892 7.03891,-7.03892 3.88749,0 7.03892,3.15143 7.03892,7.03892 z"
+       transform="matrix(-1,0,0,1,755.65068,257.15668)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_cinematica_2/Scheda/Immagini/cannone5.png"
+       inkscape:export-xdpi="499.89127"
+       inkscape:export-ydpi="499.89127" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.872;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Lend)"
+       d="m 746.5899,603.50675 0,-365.74897"
+       id="path2858"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.872;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Lend)"
+       d="m 747.98561,602.87678 -365.74896,0"
+       id="path2858-4"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="opacity:0.74152539;fill:#fff9f9;fill-opacity:1;stroke:#291914;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4190"
+       width="560.51672"
+       height="17.611864"
+       x="461.73715"
+       y="641.16345" />
+    <path
+       style="fill:none;stroke:#2e181e;stroke-width:1.22599995000000006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart);marker-end:none"
+       d="m 673.61573,553.14014 60.92055,36.87832"
+       id="path4502-9"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_cinematica_2/Scheda/Immagini/cannone5.png"
+       inkscape:export-xdpi="499.89127"
+       inkscape:export-ydpi="499.89127" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#41301b;fill-opacity:1;stroke:#515151;stroke-width:1.10000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3664-4"
+       sodipodi:cx="169.47546"
+       sodipodi:cy="265.1774"
+       sodipodi:rx="7.0389171"
+       sodipodi:ry="7.0389171"
+       d="m 176.51438,265.1774 a 7.0389171,7.0389171 0 1 1 -14.07783,0 7.0389171,7.0389171 0 1 1 14.07783,0 z"
+       transform="matrix(-1,0,0,1,1580.6119,480.30115)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/laboratorio/esercitazione_cinematica_bidimensionale/immagini/cannone2.png"
+       inkscape:export-xdpi="299.98648"
+       inkscape:export-ydpi="299.98648" />
+    <g
+       id="g2964"
+       transform="matrix(0.85557728,-0.5176751,0.5176751,0.85557728,-305.37235,660.7617)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/laboratorio/esercitazione_cinematica_bidimensionale/immagini/cannone2.png"
+       inkscape:export-xdpi="299.98648"
+       inkscape:export-ydpi="299.98648">
+      <rect
+         inkscape:export-ydpi="499.89127"
+         inkscape:export-xdpi="499.89127"
+         inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_cinematica_2/Scheda/Immagini/cannone5.png"
+         transform="matrix(-0.85596268,-0.51703761,-0.51703761,0.85596268,0,0)"
+         y="75.14695"
+         x="-1904.7893"
+         height="20.674797"
+         width="186.07318"
+         id="rect3590-9"
+         style="fill:#747474;fill-opacity:1;stroke:#515151;stroke-width:1.10000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <rect
+         inkscape:export-ydpi="499.89127"
+         inkscape:export-xdpi="499.89127"
+         inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_cinematica_2/Scheda/Immagini/cannone5.png"
+         transform="matrix(-0.86042791,-0.50957218,0.51422131,-0.85765754,0,0)"
+         y="-107.43409"
+         x="-1921.985"
+         height="9.4737797"
+         width="16.976725"
+         id="rect3590-7-20"
+         style="fill:#747474;fill-opacity:1;stroke:#515151;stroke-width:0.22491518;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <rect
+         inkscape:export-ydpi="499.89127"
+         inkscape:export-xdpi="499.89127"
+         inkscape:export-filename="/home/mosa/Sources/Scuola/martin_latisana/laboratori_2010/Laboratorio_cinematica_2/Scheda/Immagini/cannone5.png"
+         transform="matrix(-0.86604048,-0.49997388,0.52743629,-0.84959458,0,0)"
+         y="-125.33028"
+         x="-1940.3948"
+         height="2.5711713"
+         width="16.278334"
+         id="rect3590-7-2-6"
+         style="fill:#c3bfbf;fill-opacity:1;stroke:#515151;stroke-width:0.11473626;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+    <rect
+       style="fill:#c3bfbf;fill-opacity:1;stroke:#515151;stroke-width:3.27218986;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3658-8"
+       width="16.237286"
+       height="417.72629"
+       x="-1527.9827"
+       y="693.1264"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/laboratorio/esercitazione_cinematica_bidimensionale/immagini/cannone2.png"
+       inkscape:export-xdpi="299.98648"
+       inkscape:export-ydpi="299.98648"
+       transform="scale(-1,1)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#515151;stroke-width:1.10000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3660-9"
+       sodipodi:cx="51.167511"
+       sodipodi:cy="286.8356"
+       sodipodi:rx="4.0609136"
+       sodipodi:ry="4.3316412"
+       d="m 55.228425,286.8356 a 4.0609136,4.3316412 0 1 1 -8.121828,0 4.0609136,4.3316412 0 1 1 8.121828,0 z"
+       transform="matrix(-1,0,0,1,1569.4073,458.53802)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/laboratorio/esercitazione_cinematica_bidimensionale/immagini/cannone2.png"
+       inkscape:export-xdpi="299.98648"
+       inkscape:export-ydpi="299.98648" />
+    <text
+       xml:space="preserve"
+       style="font-size:19.35270309px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="1384.4373"
+       y="739.11389"
+       id="text5472-4"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/laboratorio/esercitazione_cinematica_bidimensionale/immagini/cannone2.png"
+       inkscape:export-xdpi="299.98648"
+       inkscape:export-ydpi="299.98648"><tspan
+         sodipodi:role="line"
+         id="tspan5474-9"
+         x="1384.4373"
+         y="739.11389">v</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.68384361px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="1352.3972"
+       y="761.48572"
+       id="text4498-5-5"
+       transform="scale(1.0283,0.97247885)"
+       inkscape:export-xdpi="299.98648"
+       inkscape:export-ydpi="299.98648"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/laboratorio/esercitazione_cinematica_bidimensionale/immagini/cannone2.png"><tspan
+         sodipodi:role="line"
+         id="tspan4500-4-0"
+         x="1352.3972"
+         y="761.48572">0</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#42382b;fill-opacity:1;stroke:#515151;stroke-width:1.10000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3664-8-4"
+       sodipodi:cx="169.47546"
+       sodipodi:cy="265.1774"
+       sodipodi:rx="7.0389171"
+       sodipodi:ry="7.0389171"
+       d="m 176.51438,265.1774 a 7.0389171,7.0389171 0 1 1 -14.07783,0 7.0389171,7.0389171 0 1 1 14.07783,0 z"
+       transform="matrix(-1,0,0,1,1540.7225,481.35818)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/laboratorio/esercitazione_cinematica_bidimensionale/immagini/cannone2.png"
+       inkscape:export-xdpi="299.98648"
+       inkscape:export-ydpi="299.98648" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#3b3021;fill-opacity:1;stroke:#515151;stroke-width:1.10000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3664-8-2-8"
+       sodipodi:cx="169.47546"
+       sodipodi:cy="265.1774"
+       sodipodi:rx="7.0389171"
+       sodipodi:ry="7.0389171"
+       d="m 176.51438,265.1774 a 7.0389171,7.0389171 0 1 1 -14.07783,0 7.0389171,7.0389171 0 1 1 14.07783,0 z"
+       transform="matrix(-1,0,0,1,1481.4345,497.93496)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/laboratorio/esercitazione_cinematica_bidimensionale/immagini/cannone2.png"
+       inkscape:export-xdpi="299.98648"
+       inkscape:export-ydpi="299.98648" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#413627;fill-opacity:1;stroke:#515151;stroke-width:1.10000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3664-8-2-5-7"
+       sodipodi:cx="169.47546"
+       sodipodi:cy="265.1774"
+       sodipodi:rx="7.0389171"
+       sodipodi:ry="7.0389171"
+       d="m 176.51438,265.1774 a 7.0389171,7.0389171 0 1 1 -14.07783,0 7.0389171,7.0389171 0 1 1 14.07783,0 z"
+       transform="matrix(-1,0,0,1,1346.7528,610.48067)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/laboratorio/esercitazione_cinematica_bidimensionale/immagini/cannone2.png"
+       inkscape:export-xdpi="299.98648"
+       inkscape:export-ydpi="299.98648" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#533f26;fill-opacity:1;stroke:#515151;stroke-width:1.10000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3664-8-2-4-1"
+       sodipodi:cx="169.47546"
+       sodipodi:cy="265.1774"
+       sodipodi:rx="7.0389171"
+       sodipodi:ry="7.0389171"
+       d="m 176.51438,265.1774 a 7.0389171,7.0389171 0 1 1 -14.07783,0 7.0389171,7.0389171 0 1 1 14.07783,0 z"
+       transform="matrix(-1,0,0,1,1437.1851,522.31636)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/laboratorio/esercitazione_cinematica_bidimensionale/immagini/cannone2.png"
+       inkscape:export-xdpi="299.98648"
+       inkscape:export-ydpi="299.98648" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#3e3427;fill-opacity:1;stroke:#515151;stroke-width:1.10000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3664-8-2-0-7"
+       sodipodi:cx="169.47546"
+       sodipodi:cy="265.1774"
+       sodipodi:rx="7.0389171"
+       sodipodi:ry="7.0389171"
+       d="m 176.51438,265.1774 a 7.0389171,7.0389171 0 1 1 -14.07783,0 7.0389171,7.0389171 0 1 1 14.07783,0 z"
+       transform="matrix(-1,0,0,1,1388.5181,562.01245)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/laboratorio/esercitazione_cinematica_bidimensionale/immagini/cannone2.png"
+       inkscape:export-xdpi="299.98648"
+       inkscape:export-ydpi="299.98648" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.87199998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Lend)"
+       d="m 1433.6027,970.62987 0,-365.74897"
+       id="path2858-2"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/laboratorio/esercitazione_cinematica_bidimensionale/immagini/cannone2.png"
+       inkscape:export-xdpi="299.98648"
+       inkscape:export-ydpi="299.98648" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.87199998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Lend)"
+       d="m 1434.9984,969.9999 -365.7489,0"
+       id="path2858-4-7"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/laboratorio/esercitazione_cinematica_bidimensionale/immagini/cannone2.png"
+       inkscape:export-xdpi="299.98648"
+       inkscape:export-ydpi="299.98648" />
+    <rect
+       style="opacity:0.74152539;fill:#fff9f9;fill-opacity:1;stroke:#291914;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4190-2"
+       width="560.51672"
+       height="17.611864"
+       x="1147.1256"
+       y="1011.5353"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/laboratorio/esercitazione_cinematica_bidimensionale/immagini/cannone2.png"
+       inkscape:export-xdpi="299.98648"
+       inkscape:export-ydpi="299.98648" />
+    <path
+       style="fill:none;stroke:#2e181e;stroke-width:1.22599995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart);marker-end:none"
+       d="m 1340.8648,743.9541 71.2095,0.73184"
+       id="path4502-9-2"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/laboratorio/esercitazione_cinematica_bidimensionale/immagini/cannone2.png"
+       inkscape:export-xdpi="299.98648"
+       inkscape:export-ydpi="299.98648" />
+  </g>
+</svg>

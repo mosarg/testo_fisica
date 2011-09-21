@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="esercizio2_natale.svg"
+   inkscape:version="0.47 r22583"
+   version="1.1"
+   id="svg2"
+   height="744.09448"
+   width="1052.3622">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.61148149"
+     inkscape:cx="429.06428"
+     inkscape:cy="288.76365"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="965"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mend"
+       style="overflow:visible;">
+      <path
+         id="path3630"
+         style="font-size:12.0;fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="StopL"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="StopL"
+       style="overflow:visible">
+      <path
+         id="path3773"
+         d="M 0.0,5.65 L 0.0,-5.65"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path3603"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path3606"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <radialGradient
+       xlink:href="#linearGradient2057"
+       r="8.2519293"
+       inkscape:collect="always"
+       id="radialGradient1375"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.395230,0.716728)"
+       fy="222.04396"
+       fx="14.207293"
+       cy="222.04396"
+       cx="14.207293" />
+    <radialGradient
+       xlink:href="#linearGradient2057"
+       r="8.2519293"
+       inkscape:collect="always"
+       id="radialGradient1371"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.395230,0.716728)"
+       fy="222.04396"
+       fx="14.207293"
+       cy="222.04396"
+       cx="14.207293" />
+    <radialGradient
+       xlink:href="#linearGradient2057"
+       r="8.2519293"
+       inkscape:collect="always"
+       id="radialGradient1367"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.395230,0.716728)"
+       fy="222.04396"
+       fx="14.207293"
+       cy="222.04396"
+       cx="14.207293" />
+    <radialGradient
+       xlink:href="#linearGradient2057"
+       r="8.2519293"
+       inkscape:collect="always"
+       id="radialGradient1363"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.395230,0.716728)"
+       fy="222.04396"
+       fx="14.207293"
+       cy="222.04396"
+       cx="14.207293" />
+    <radialGradient
+       xlink:href="#linearGradient2057"
+       r="8.2519293"
+       inkscape:collect="always"
+       id="radialGradient1359"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.395230,0.716728)"
+       fy="222.04396"
+       fx="14.207293"
+       cy="222.04396"
+       cx="14.207293" />
+    <radialGradient
+       xlink:href="#linearGradient2057"
+       r="8.2519293"
+       inkscape:collect="always"
+       id="radialGradient1355"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.395230,0.716728)"
+       fy="222.04396"
+       fx="14.207293"
+       cy="222.04396"
+       cx="14.207293" />
+    <radialGradient
+       xlink:href="#linearGradient2057"
+       r="8.2519293"
+       inkscape:collect="always"
+       id="radialGradient1351"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.395230,0.716728)"
+       fy="222.04396"
+       fx="14.207293"
+       cy="222.04396"
+       cx="14.207293" />
+    <radialGradient
+       xlink:href="#linearGradient2057"
+       r="8.2519293"
+       inkscape:collect="always"
+       id="radialGradient1347"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.395230,0.716728)"
+       fy="222.04396"
+       fx="14.207293"
+       cy="222.04396"
+       cx="14.207293" />
+    <radialGradient
+       xlink:href="#linearGradient2057"
+       r="8.2519293"
+       inkscape:collect="always"
+       id="radialGradient1343"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.395230,0.716728)"
+       fy="222.04396"
+       fx="14.207293"
+       cy="222.04396"
+       cx="14.207293" />
+    <radialGradient
+       xlink:href="#linearGradient2057"
+       r="8.2519293"
+       inkscape:collect="always"
+       id="radialGradient1339"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.395230,0.716728)"
+       fy="222.04396"
+       fx="14.207293"
+       cy="222.04396"
+       cx="14.207293" />
+    <radialGradient
+       xlink:href="#linearGradient2057"
+       r="8.2519293"
+       inkscape:collect="always"
+       id="radialGradient1335"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.395230,0.716728)"
+       fy="222.04396"
+       fx="14.207293"
+       cy="222.04396"
+       cx="14.207293" />
+    <radialGradient
+       xlink:href="#linearGradient2057"
+       r="8.2519293"
+       inkscape:collect="always"
+       id="radialGradient1331"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.395230,0.716728)"
+       fy="222.04396"
+       fx="14.207293"
+       cy="222.04396"
+       cx="14.207293" />
+    <radialGradient
+       xlink:href="#linearGradient2057"
+       r="8.2519293"
+       inkscape:collect="always"
+       id="radialGradient1327"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.395230,0.716728)"
+       fy="222.04396"
+       fx="14.207293"
+       cy="222.04396"
+       cx="14.207293" />
+    <radialGradient
+       xlink:href="#linearGradient2057"
+       r="8.2519293"
+       inkscape:collect="always"
+       id="radialGradient1323"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.395230,0.716728)"
+       fy="222.04396"
+       fx="14.207293"
+       cy="222.04396"
+       cx="14.207293" />
+    <radialGradient
+       xlink:href="#linearGradient2057"
+       r="8.2519293"
+       inkscape:collect="always"
+       id="radialGradient1319"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.395230,0.716728)"
+       fy="222.04396"
+       fx="14.207293"
+       cy="222.04396"
+       cx="14.207293" />
+    <radialGradient
+       xlink:href="#linearGradient2057"
+       r="8.2519293"
+       inkscape:collect="always"
+       id="radialGradient1315"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.395230,0.716728)"
+       fy="222.04396"
+       fx="14.207293"
+       cy="222.04396"
+       cx="14.207293" />
+    <radialGradient
+       xlink:href="#linearGradient2057"
+       r="8.2519293"
+       inkscape:collect="always"
+       id="radialGradient2063"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.395230,0.716728)"
+       fy="222.04396"
+       fx="14.207293"
+       cy="222.04396"
+       cx="14.207293" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2057">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop2059" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop2061" />
+    </linearGradient>
+    <inkscape:perspective
+       id="perspective4156"
+       inkscape:persp3d-origin="64 : 42.666667 : 1"
+       inkscape:vp_z="128 : 64 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 64 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4694"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.2677)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.7809999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Lend)"
+       d="M 50.664358,978.66386 165.15118,815.15974"
+       id="path2826"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/esercizio2_natale.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <g
+       inkscape:label="Layer 1"
+       id="layer1-6"
+       transform="matrix(3.4274975,0,0,6.1117526,601.98065,468.3102)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/esercizio2_natale.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <g
+         transform="matrix(2.469674,0,0,2.469674,-384.4758,-130.6608)"
+         id="g2009">
+        <path
+           style="fill:#e4e4e4;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="path2182"
+           d="m 172.90823,64.040679 c -1.42347,0.899452 -2.17825,1.919746 -2.84288,3.249009 -0.38893,0.777855 -0.92624,1.100805 -1.62451,1.624505 -0.98763,0.740726 -1.95261,1.809396 -3.04595,2.538289 -0.6501,0.433404 -1.15132,1.196665 -1.6245,1.827568 -0.58239,0.776518 -1.12936,1.438119 -1.72604,2.233694 -0.64243,0.856574 -0.97091,1.884695 -1.72603,2.63982 -0.33674,0.336738 0.0479,0 -0.10153,0 -1.16011,0 -1.87165,3.932968 -2.13217,4.975046 -0.19486,0.779438 -0.91378,0.862486 -0.91378,1.522973 0,1.098518 3.75366,1.555815 4.26432,1.726037 2.4724,0.82413 5.15581,0.804817 7.61487,1.624505 1.49665,0.498883 3.28958,0.832538 4.67045,1.522973 1.67964,0.83982 4.34935,0.609189 6.19343,0.609189 2.11392,0 4.16111,-0.101531 6.29495,-0.101531 2.66295,0 5.41425,-0.304595 8.02099,-0.304595 0.54572,0 1.08301,-0.135376 1.62451,-0.203063 2.27489,-0.284362 4.72533,-2.319676 6.90414,-3.045947 0.21539,-0.07179 0.40613,-0.203063 0.60919,-0.304594 0.89206,-0.446028 1.31341,-0.946544 2.33523,-1.116847 0.35164,-0.05861 -0.22314,-1.563134 -0.3046,-1.726037 -0.30066,-0.601337 -0.35947,-1.429664 -0.60918,-1.929099 -0.36226,-0.724501 -0.6124,-1.221586 -1.11685,-1.726037 -0.88252,-0.882519 -1.4067,-2.001144 -1.9291,-3.045946 -0.45482,-0.909635 -0.80547,-1.81853 -1.42144,-2.63982 -0.62078,-0.827702 -1.28781,-1.592404 -2.03063,-2.335226 -1.13029,-1.13029 -2.41467,-0.790165 -4.1628,-2.538289 -0.59858,-0.598578 -1.47394,-1.139231 -2.13216,-1.929099 -0.48889,-0.586664 -0.73674,-1.388445 -1.21838,-2.030631 -0.69379,-0.925055 -2.27107,-1.24616 -3.14748,-1.421442 -1.15433,-0.230866 -3.58605,2.038743 -5.17811,2.436757 -0.27075,0.06769 -0.5415,0.135376 -0.81225,0.203063 -1.41743,0.354359 -3.40895,-0.727408 -4.77198,-1.116847 -1.03998,-0.297136 -1.27376,-0.236293 -2.23369,-0.812252 -0.32082,-0.192486 -1.3061,-0.238149 -1.72604,-0.406126 z" />
+        <path
+           style="fill:#c8c8c8;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           sodipodi:nodetypes="cccccccccccccccc"
+           id="path2184"
+           d="m 160.72444,77.442843 c 0.15089,0.256913 0.72252,1.128645 1.21838,1.624505 0.79212,0.792122 1.61632,1.616319 2.33523,2.335226 0.61063,0.610628 1.283,0.932253 1.9291,1.31991 0.20566,0.123395 0.25818,1.493995 0.30459,1.726036 0.14096,0.704798 0.62169,1.243374 0.91379,1.827568 0.35767,0.715351 0.30845,1.015316 -0.40613,1.015316 -0.57712,0 -0.98091,0.135516 -1.52297,0 -0.8317,-0.207924 -1.80209,-0.266505 -2.63982,-0.406126 -0.86794,-0.144657 -1.73469,-0.611352 -2.53829,-0.812253 -0.97313,-0.243281 -1.72388,-0.346722 -2.59653,-0.695782 -0.59736,-0.238943 -0.97318,-0.723591 -0.85555,-1.334849 -0.0966,-0.241614 0.83669,-1.113043 0.91379,-1.421442 0.156,-0.624017 0.5941,-1.193241 0.91378,-1.726036 0.4403,-0.733827 0.82939,-1.275072 1.31991,-1.929099 0.3763,-0.50173 0.71072,-0.872545 0.71072,-1.522974 z" />
+        <path
+           style="fill:#c8c8c8;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="path2186"
+           d="m 181.23382,66.477436 c 0.24716,0.233943 0.60919,1.218987 0.60919,2.132163 0,0.646365 0.22168,1.513952 0.60918,2.030631 0.48075,0.640991 0.70921,1.249701 1.11685,1.929099 0.3124,0.520671 0.80666,1.009717 1.11685,1.31991 0.50859,0.508594 -1.24052,0.304595 -1.62451,0.304595 -1.1345,0 -2.05994,-0.367516 -3.14747,-0.609189 -0.36938,-0.08208 -0.74457,-0.135376 -1.11685,-0.203064 -0.56589,-0.102889 -0.21104,-1.452278 -0.10153,-1.726036 0.29896,-0.747409 0.65013,-1.503328 1.01531,-2.233694 0.36471,-0.729406 0.96085,-1.416502 1.42144,-2.030631 0.0777,-0.103595 0.10154,-0.896129 0.10154,-0.913784 z" />
+        <path
+           style="fill:#c8c8c8;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           sodipodi:nodetypes="ccccccccccccccc"
+           id="path2194"
+           d="m 191.69157,72.061671 c 0.18764,0.667609 0.34204,1.368167 0.50765,2.030631 0.15359,0.614353 0.36119,1.241702 0.50766,1.827568 0.18009,0.720365 0.79052,1.501236 1.31991,2.030631 1.1018,1.101803 2.13907,3.385096 2.43676,4.873515 0.23094,1.154704 0.8696,1.87019 1.52297,2.741351 0.44713,0.596165 1.08426,1.902246 1.33983,2.413379 0.19264,0.385285 -1.04068,0.421988 -1.23332,0.807273 -0.0639,0.12773 -1.77775,0.650275 -1.82259,0.639066 -1.0198,-0.254951 -1.09584,-0.385337 -1.63446,-2.539807 -0.32477,-1.299085 -0.87515,-2.586829 -1.21838,-3.959731 -0.29233,-1.169346 -0.24204,-2.459857 -0.50766,-3.655136 -0.26457,-1.190588 -0.46179,-2.446562 -1.01531,-3.553604 -0.44978,-0.899567 -0.64423,-1.78895 -0.40613,-2.741352 0.0983,-0.393243 -0.0167,-0.474219 0.20307,-0.913784 z" />
+        <path
+           style="fill:#5c2700;fill-opacity:1"
+           sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+           id="path1714"
+           d="m 187.78985,62.720553 c -0.27508,-0.06787 -0.43654,0.04263 -0.71875,0.25 -2.20535,1.62058 -2.54138,1.82433 -3.09375,1.71875 -0.33084,-0.06325 -1.39772,0.0191 -2.34375,0.1875 -2.79732,0.49791 -4.49754,0.33511 -6.5,-0.625 -1.86992,-0.89657 -2.30615,-0.90674 -3.59375,0 -0.78359,0.55181 -2.90714,3.20844 -3.59375,4.5 -0.22524,0.42372 -1.07692,1.41147 -1.875,2.1875 -6.48584,6.30673 -7.17238,7.11655 -7.6875,8.90625 -0.27262,0.94717 -0.79044,2.28639 -1.15625,3 -0.36581,0.71363 -0.65625,1.41237 -0.65625,1.5625 0,0.47126 0.9785,0.32562 1.75,-0.28125 0.87182,-0.68577 1.21031,-1.46456 1.625,-3.65625 0.34022,-1.7981 0.7424,-2.13923 1.21875,-1.09375 0.17426,0.38245 0.59766,0.80738 0.9375,0.9375 0.33985,0.13014 1.22615,0.77569 1.96875,1.46875 1.20984,1.12912 1.78125,1.51765 1.78125,1.15625 0,-0.47654 -0.69632,-1.47772 -1.3125,-1.875 -1.70628,-1.10012 -2.6555,-1.89933 -2.84375,-2.40625 -0.21313,-0.57387 0.74539,-2.96876 1.1875,-2.96875 0.13368,0 0.25,-0.31195 0.25,-0.6875 0,-0.37555 0.0935,-0.68749 0.21875,-0.6875 0.54396,0 4.68254,-4.20675 5.84375,-5.9375 1.31523,-1.96032 3.11947,-3.90624 3.625,-3.90625 0.36218,0 1.93772,1.43814 2.09375,1.90625 0.12452,0.37354 4.24736,1.65624 5.3125,1.65625 0.66036,0 0.70797,0.13542 1.4375,3.0625 0.30859,1.23815 1.87314,3.21876 2.53125,3.21875 0.70766,0 0.86971,-0.46022 0.3125,-0.875 -0.71487,-0.53216 -2.00001,-2.5927 -2,-3.21875 0,-0.99425 1.96523,-4.09374 2.59375,-4.09375 0.35936,0 2.07097,-0.83525 3.3125,-1.625 0.51146,-0.32534 0.68061,-0.3029 1.34375,0.21875 0.83196,0.65441 2.59375,3.2147 2.59375,3.78125 0,0.19737 -0.31194,1.10775 -0.6875,2 -0.80149,1.90424 -0.8325,2.23601 -0.25,3.125 0.24001,0.36629 0.59178,1.20134 0.78125,1.84375 0.19086,0.64714 0.54256,1.20294 0.78125,1.25 0.36824,0.07262 0.37407,-0.03949 0.125,-0.8125 -0.16025,-0.49739 -0.42786,-1.30589 -0.625,-1.78125 -0.47837,-1.15342 -0.0868,-2.59575 0.84375,-3.09375 0.38074,-0.20377 0.63251,-0.50506 0.5625,-0.6875 -0.24155,-0.62948 0.16904,-0.63659 1.4375,0.03125 2.54034,1.33746 5.20808,4.11056 5.21875,5.40625 0.003,0.31545 0.31455,0.86499 0.6875,1.21875 0.37295,0.35376 0.68751,0.83855 0.6875,1.0625 0,0.68313 0.8141,1.84712 1.625,2.3125 0.50896,0.2921 0.81975,0.73622 0.9375,1.34375 0.0977,0.50405 0.15095,1.132431 0.30898,1.845961 0.15804,0.71355 0.43971,1.3125 0.625,1.3125 0.59206,0 0.68414,-0.32695 0.3125,-1.0625 -0.1991,-0.39406 -0.20531,-0.742141 -0.21523,-1.220961 -0.0239,-1.15378 -0.45203,-1.94955 -1.71875,-3.0625 -0.64944,-0.57061 -1.06251,-1.13837 -1.0625,-1.53125 0,-0.3486 -0.13102,-0.71965 -0.28125,-0.8125 -0.15022,-0.09284 -0.24999,-0.42717 -0.25,-0.71875 0,-0.29158 -0.12855,-0.50001 -0.25,-0.5 -0.12146,0 -0.69042,-0.77452 -1.28125,-1.6875 -1.30202,-2.01193 -2.84008,-3.31512 -5.3125,-4.5 -1.13887,-0.54578 -2.05205,-1.18439 -2.34375,-1.65625 -1.90921,-3.08856 -2.45949,-3.73951 -3.84375,-4.625 -0.70494,-0.45095 -1.09992,-0.71338 -1.375,-0.78125 z m -28.875,18.21875 c 0.0907,0.09076 0.11014,0.33409 0.0312,0.53125 -0.0872,0.21788 -0.14315,0.16193 -0.15625,-0.15625 -0.0119,-0.28792 0.0342,-0.46575 0.125,-0.375 z" />
+      </g>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:4.6,4.6;stroke-dashoffset:0"
+       d="m 47.425802,980.4058 c 0,0 221.159428,-205.9557 416.202298,-196.24471 195.04287,9.711 373.68262,192.97396 373.68262,192.97396"
+       id="path4674"
+       sodipodi:nodetypes="czc"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/esercizio2_natale.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#e4e4e4;fill-opacity:1;stroke:none"
+       id="path4676"
+       sodipodi:cx="530.67834"
+       sodipodi:cy="242.85281"
+       sodipodi:rx="102.21078"
+       sodipodi:ry="105.48153"
+       d="m 632.88912,242.85281 a 102.21078,105.48153 0 1 1 -204.42155,0 102.21078,105.48153 0 1 1 204.42155,0 z"
+       transform="translate(279.6487,674.59114)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/esercizio2_natale.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.977;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#StopL);marker-end:url(#StopL)"
+       d="m 724.48561,880.62764 -1.17972,99.47228"
+       id="path4678"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/esercizio2_natale.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.00608873px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#StopL);marker-end:url(#StopL)"
+       d="M 49.727645,979.51052 716.37607,978.3532"
+       id="path4680"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/esercizio2_natale.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:35.33558273px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="396.31729"
+       y="972.39795"
+       id="text4682"
+       transform="scale(0.99977817,1.0002219)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/esercizio2_natale.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan4684"
+         x="396.31729"
+         y="972.39795">d</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:35.33558273px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="738.90656"
+       y="945.89221"
+       id="text4682-1"
+       transform="scale(0.99977815,1.0002219)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/esercizio2_natale.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan4684-8"
+         x="738.90656"
+         y="945.89221">h</tspan></text>
+    <path
+       sodipodi:type="star"
+       style="fill:#f30101;fill-opacity:1;stroke:#ffea00;stroke-opacity:1"
+       id="path5843"
+       sodipodi:sides="12"
+       sodipodi:cx="541.18726"
+       sodipodi:cy="438.23117"
+       sodipodi:r1="10.551005"
+       sodipodi:r2="5.2755022"
+       sodipodi:arg1="1.4056476"
+       sodipodi:arg2="1.667447"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 542.92183,448.63862 -2.24366,-5.15657 -3.19245,4.62952 0.63521,-5.58755 -5.0795,2.41306 3.34389,-4.52135 -5.60551,-0.44998 5.15656,-2.24367 -4.62952,-3.19245 5.58755,0.63522 -2.41305,-5.07951 4.52135,3.34389 0.44998,-5.60551 2.24366,5.15657 3.19245,-4.62952 -0.63521,5.58755 5.0795,-2.41306 -3.34388,4.52135 5.6055,0.44999 -5.15656,2.24366 4.62952,3.19245 -5.58755,-0.63522 2.41306,5.07951 -4.52136,-3.34389 -0.44998,5.60551 z"
+       transform="translate(172.30106,439.51717)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/esercizio2_natale.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="56.084576"
+       y="594.3429"
+       id="text5845"
+       transform="translate(0,308.2677)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/esercizio2_natale.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan5847"
+         x="56.084576"
+         y="594.3429">v</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.29677773px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="67.707771"
+       y="914.24078"
+       id="text5849"
+       transform="scale(1.0060953,0.99394165)"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/esercizio2_natale.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan5851"
+         x="67.707771"
+         y="914.24078">0</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="m 55.506383,878.32655 19.080319,0"
+       id="path5853"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/esercizio2_natale.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#c0e77c;fill-opacity:1;stroke:none"
+       id="path6241"
+       sodipodi:cx="68.804787"
+       sodipodi:cy="518.02161"
+       sodipodi:rx="23.705851"
+       sodipodi:ry="23.705851"
+       d="m 87.279657,503.16743 a 23.705851,23.705851 0 0 1 5.23098,14.85418 l -23.70585,0 z"
+       transform="matrix(2.145431,0,0,2.2149378,-96.868821,-168.60911)"
+       sodipodi:start="5.6059976"
+       sodipodi:end="6.2831853"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/esercizio2_natale.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:18.28766251px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter"
+       x="102.41367"
+       y="966.4071"
+       id="text6243"
+       inkscape:export-filename="/home/mosa/Sources/Scuola/paschini_tolmezzo/lezioni/immagini/esercizio2_natale.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan6245"
+         x="102.41367"
+         y="966.4071">55°</tspan></text>
+  </g>
+</svg>
