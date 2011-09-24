@@ -1,0 +1,106 @@
+\subsubsection*{Le Misure indirette}$
+Preparate un recipiente di forma regolare (per esempio un parallelepipedo a base rettangolare) e riempitelo d'acqua$
+fino a circa metà. Prendete un sasso irregolare di dimensioni opportune e immergetelo nell'acqua. Osservando$
+l'innalzamento del livello, cercheremo di ricavare il volume del sasso e la precisione della misura.$
+\newline$
+$
+In questo caso la situazione non si presta, come in precedenza, a una misura diretta, perché non possediamo nessun$
+campione di volume da utilizzare come unità di misura. Però, siccome la forma del recipiente è regolare, possiamo$
+ricavare il volume da un insieme di misure di lunghezza. Quando una grandezza viene ricavata da misure di grandezze$
+diverse, non omogenee, attraverso una serie di calcoli matematici, si dice di aver eseguito una misura indiretta.$
+$
+Prima di tutto, ricaviamo la superficie del rettangolo d'acqua dalla misura dei suoi lati, diciamo ${\mathbf$
+{\overline{l_1}}}$ e ${\mathbf {\overline{l_2}}}$. Accontentiamoci di eseguire una sola misura non ripetibile, ma$
+teniamo conto con attenzione del corrispondente errore di misura, scrivendo quindi:$
+\begin{center}$
+\begin{eqnarray}$
+l_1~=~\overline{l_1}~\pm~\Delta l_1 \\$
+l_2~=~\overline{l_2}~\pm~\Delta l_2 \nonumber$
+\end{eqnarray}$
+\end{center}$
+$
+Prima di determinare il valore di $\overline S$, osserviamo la seguente figura:$
+$
+  \begin{figure}[H]$
+  \centering$
+   \includegraphics[width=\textwidth]{../immagini/propagazioneDegliErrori.png}$
+   \label{figure:propagazioneDegliErrori}$
+   \caption{La propagazione delgli errori}$
+  \end{figure}$
+$
+Nella figura, la superficie misurata è quella tratteggiata. gli errori di misura possono spostare il vertice in alto a$
+sinistra in un punto qualunque del rettangolino verde. Quindi, il più piccolo valore possibile per la misura è:$
+\begin{center}$
+\begin{math}$
+S_{min}~=~(\overline{l_1}~-~\Delta l_1)(\overline{l_2}~-~\Delta l_2)$
+\end{math}$
+\end{center}$
+e il maggiore:$
+\begin{center}$
+\begin{math}$
+S_{min}~=~(\overline{l_1}~+~\Delta l_1)(\overline{l_2}~+~\Delta l_2)$
+\end{math}$
+\end{center}$
+$
+Il valore centrale, invece, è semplicemente:$
+\begin{center}$
+\begin{math}$
+\overline{S}~=~\frac{S_{min}+S_{max}}{2}~=~\overline{l_1}~\overline{l_2}$
+\end{math}$
+\end{center}$
+$
+Prima di definire l'errore, osserviamo meglio la figura. A rigore, l'errore corrisponde alla fascia esterna, composta$
+da tre rettangoli. Quello centrale, però è molto più piccolo degli altri. Infatti si ottiene moltiplicando tra loro i$
+due errori assoluti. In matematica, la moltiplicazione di due quantità piccole è una quantità estremamente piccoli.$
+Spesso, il rettangolo rosso è così piccolo che è possibile trascurabile del tutto, nella stima dell'errore su $S$.$
+Perciò scriveremo:$
+\begin{center}$
+\begin{math}$
+\Delta S~=~\overline{l_1}~\Delta l_2~+\overline{l_2}~\Delta l_1$
+\end{math}$
+\begin{equation}$
+S~=~\overline{S}~\pm~\Delta S~=~\overline{l_1}~\overline{l_2}~\pm~(\overline{l_1}~\Delta l_2~+~\overline{l_2}~\Delta l_1)$
+\end{equation}$
+\end{center}$
+A questo punto, possiamo passare allo studio del volume. Anche in questo caso, ci troviamo davanti ad una$
+moltiplicazione.$
+\begin{center}$
+\begin{math}$
+V~=S~h$
+\end{math}$
+\end{center}$
+Se la struttura matematica è la stessa, procederemo allo stesso modo di prima:$
+\begin{center}$
+\begin{eqnarray}$
+\overline{V}~=~\overline{h}~\overline{S} \nonumber \\$
+\Delta V~=~\overline{h}~\Delta S~+~\overline{S}~\Delta h$
+\end{eqnarray}$
+\end{center}$
+Prima di concludere, effettuamo il calcolo degli errori relativi.$
+\newline$
+Per la superficie:$
+\begin{center}$
+\begin{equation}$
+\epsilon_S~=~\frac{S}{\overline{S}}$
+=\frac{\overline{l_1}~\Delta l_2~+~\overline{l_2}~\Delta l_1}{\overline{l_1}*~\overline{l_2}}$
+~=~\frac{\Delta l_2}{\overline {l_2}}~+~\frac{\Delta l_1}{\overline{l_1}}$
+\end{equation}$
+\end{center}$
+Per il volume, invece:$
+\begin{center}$
+\begin{equation}$
+\epsilon_V~=~\frac{V}{\overline{V}}~=~$
+\frac{\overline{S}~\Delta h~+~h~\Delta S}{S~h}$
+~=~\frac{\Delta h}{\overline{h}}~+~\frac{\Delta l_2}{\overline{l_2}}~+~\frac{\Delta l_1}{\overline{l_1}}$
+\end{equation}$
+\end{center}$
+Vi sarete accorti che le formule hanno un aspetto molto simile.$
+\newline$
+L'errore relativo sulle superfici si ottiene sommando gli errori relativi delle misure di lunghezza per i lati della$
+superficie. L'errore relativo nella misura di volume, si ottiene aggiungendo ancora l'errore relativo per la dimensione$
+verticale.$
+\newline$
+$
+In conclusione, se una grandezza derivata si calcola per mezzo di una moltiplicazione di fattori, l'errore relativo$
+per la grandezza derivata risulta uguale alla somma degli errori relativi di ciascun fattore, presi singolarmente.$
+Questo assunto è un caso particolare di una teoria più ampia, chiamata "Legge di propagazione degli errori".$

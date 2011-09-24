@@ -1,0 +1,44 @@
+\subsection*{L'elaborazione dei dati}$
+Un fruttivendolo appoggia le mele sul piatto della bilancia e legge sul display peso e costo della merce.$
+\newline$
+$
+La fisica non può accontentarsi di una rilevazione sommaria ed affrettata delle misure, ma le valuta criticamente in un$
+modo più attento. Nell'esempio della superficie irregolare, mostra una situazione$
+concreta nella quale un processo di misura produce, per un singolo oggetto, più risultati differenti. È compito$
+del fisico, in queste$
+situazioni, dare un senso all'informazione raccolta, superando l'apparente confusione iniziale.$
+Il processo che porta a questa$
+sintesi si chiama {\bfseries analisi dei dati}.$
+\newline$
+$
+A volte, una buona analisi dei dati richiede procedure molto complesse. Nel nostro esempio, invece, possiamo individuare$
+un insieme di operazioni semplici e sensate che ci permettono di procedere. $
+\begin{enumerate}$
+\item Ordinate tutti i risultati raccolti su una colonna, dal maggiore al minore, contrassegnando le eventuali misure$
+ripetute.$
+\item Calcolate la differenza tra il valore massimo e il valore minimo della misura. Il risultato può essere chiamato$
+{\bfseries dispersione (assoluta) della misura}.$
+\item Valutate se, a vostro giudizio, questo valore può essere ritenuto grande o piccolo. Un modo comune di fare questo$
+è dividere la dispersione assoluta della misura per uno dei risultati della misura stessa. In questo caso si parla di$
+{\bfseries dispersione relativa}.$
+\item Rappresentate i dati in una {\bfseries curva di frequenza}, realizzata come segue:.$
+$
+Rappresentate in ascissa l'intervallo di dispersione dal valore minimo misurato a quello massimo e suddividetelo in un$
+piccolo numero di parti. Se avete venti misure, ad esempio, può bastare una suddivisione in quattro o cinque settori.$
+$
+Per ogni settore riportate, in ordinata, il numero di ricorrenze della misura nell'intervallo corrispondente.$
+$
+Discutete il grafico con l'insegnante, in particolare cercate di valutare se è possibile riconoscere qualche tipo di regolarità.$
+\item Riflettete sul grado di omogeneità dei vostri dati. Sicuramente, li avrete acquisiti usando sempre la stessa diligenza e la stessa$
+attenzione, tuttavia, in questo caso, non è possibile attribuire a tutti i dati lo stato grado di affidabilità. Scegliete ad esempio$
+due misure per difetto. Trattandosi necessariamente di valori più piccoli del valore vero della vostra superficie, potete riconoscere$
+con certezza quale delle due è più vicina alla misura cercata. Questo non significa necesariamente che l'operatore che ha ricavato il$
+dato sia stato più bravo, ma semplicemente più fortunato.$
+$
+Da ciò, tuttavia, discende una conseguenza importante. Se i dati disponibili non hanno lo stesso grado di omogeneità, non sarà oportuno operare$
+su di essi una media matematica. Anzi, eseguendo la media dei dati, si otterrebbero valori peggiori di quelli già disponibili.$
+\item Se non è possibile effettuare una media matematica, significa che è stato inutile ripetere più volte la misura, o ritenete che la ripetizione abbia$
+comunque consentito di migliorare la misura finale? Esprimete la vostra opinione.$
+\item Discutendo tra voi e con l'insegnante, determinate qunidi il modo più opportuno per eprimere il risultato finale del vostro lavoro.$
+$
+\end{enumerate}$

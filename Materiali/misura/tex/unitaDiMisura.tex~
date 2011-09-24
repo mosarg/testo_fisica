@@ -1,0 +1,75 @@
+\subsubsection*{Le unità di Misura}$
+$
+Una misura è un'operazione di confronto.$
+$
+Per esempio, la misura di superficie all'inizio di questo capitolo era$
+il confronto tra la dimensione di un quadretto di quaderno. Nel nostro esercizio, il quadretto era un campione che$
+svolgeva la funzione di unità di misura.$
+\newline$
+$
+Concettualmente, la scelta dell'unità di misura è attribuita alla libera scelta dell'operatore che esegue la misura ma,$
+agli effetti pratici, è necessario fare riferimento a delle convenzioni riconosciute. La scelta dell'unità di misura,$
+in questo caso, è deferita alle disposizioni di un'autorità riconosciuta.$
+\newline$
+$
+Quando una grandezza viene confrontata con il campione, si esegue una misura diretta.$
+Sempre in riferimento all'attività del primo paragrafo,$
+proviamo a descrivere una ad una le singole operazioni necessarie$
+per realizzare una misura diretta, come se dovessimo generare un algoritmo per$
+programmare un computer. Forse potremmo operare così:$
+\begin{enumerate}$
+\item Produciamo una superficie di prova\( ~\mathcal{P}\);$
+\item Confrontiamo la superficie $~\mathcal{S}$ ad con un singolo quadretto;$
+\item Se la superficie è maggiore del quadretto aggiungiamo un quadretto a$
+$~\mathcal{P}~$ e riportiamoci al punto 2);$
+\item altrimenti poniamo \(~\mathcal{S}~ = ~\mathcal{P}~ \) ed usciamo.$
+\end{enumerate}$
+$
+In generale, quando si esprime il risultato di una misura, si assume sempre di$
+avere eseguito una vera e propria misura diretta.$
+\newline$
+$
+Ma, nella pratica, non sempre è cos\'i.$
+\newline$
+Per esempio, la distanza tra la terra e il Sole è pari a $~150~10^{12}~m~$$
+(centocinquantamila miliardi di metri !). Il metro campione è conservato$
+all'Ufficio internazionale pesi e misure di Sevres, vicino a Parigi, ed è lungo$
+circa un paio di gomiti. Non vorrete pensare di mandarci il vostro compagno di banco,$
+a misurare in modo diretto la distanza terra-Sole, con il metro campione di$
+Parigi ...$
+\newline$
+$
+Il campione di misura è detto anche {\bf unità di misura}. Per$
+convenzione, la comunità scientifica ha selezionato alcune unità di$
+misura convenzionali\footnote{secondo un meccanismo determinato dal cosiddetto$
+Sistema Internazionale di unità di misura, che è descritto al paragrafo successivo}$
+per tutte le grandezze d'uso più$
+comune. Tuttavia è spesso opportuno, per facilitare la comprensione dei fenomeni$
+studiati, utilizzare dei multipli o dei sottomultipli dell'unità di misura di$
+riferimento.$
+\newline$
+Per esempio, per le lunghezze, l'unità di misura convenzionale è il metro, ma$
+spesso le misure di lunghezza sono espresse in chilometri, in ettometri, in$
+decametri, in centimetri, in millimetri, in micron e così via. Un chilometro$
+equivale a mille metri, e viene rappresentato con l'uso del prefisso {\bf k}:$
+$
+\begin{center}$
+\begin{math}$
+1~km~=~10^3~m$
+\end{math}$
+\end{center}$
+Il millimetro corrisponde a un millesimo di metro (sottomultiplo), e viene$
+rappresentato con l'uso del prefisso {\bf m}:$
+$
+\begin{center}$
+\begin{math}$
+1~km~=~10^{-3}~m$
+\end{math}$
+\end{center}$
+Ancora, il ${\bf Gm}$ (gigametro) corrisponde a un miliardo di metri, il ${\bf Mm}$$
+(megametro) a un milione di metri, il ${\mathbf \mu m}$ (micrometro) a un milionesimo di$
+metro (cioè un millesimo di millimetro) e il ${\bf nm}$ (nanometro) a un miliardesimo$
+di metro. Per una lista più ampia, consultate wikipedia$
+\footnote{$
+\url{http://it.wikipedia.org/wiki/Sistema_internazionale_di_unit\%C3\%A0_di_misura\#Prefissi}}$
+.$

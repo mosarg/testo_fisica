@@ -1,0 +1,74 @@
+\subsubsection*{La distribuzione gaussiana}$
+In questa esperienza, vogliamo osservare un fenomeno caratterizzato da errori distribuiti in modo {\slshape$
+normale}, secondo un meccanismo molto comune, che è stato studiato all'inizio dell'800 da Carl Friederich$
+Gauss\footnote{\url{http://it.wikipedia.org/wiki/Carl_Friederich_Gauss}}.$
+\newline$
+Un'attività che si presta bene a questo scopo può essere la misura del tempo di svuotamento di una bottiglia.$
+$
+Procuratevi una bottiglia di plastica, producete un foro sul fondo e fissatela a testa in giù ad un rubinetto, senza$
+spostarla. Praticate anche un foro di piccole dimensioni sul tappo. Usando un pennarello indelebile, contrassegnate due$
+livelli di riferimento a dieci o quindici centimetri di distanza tra loro.$
+$
+Lo scopo della misura sarà determinare il tempo necessario all'acqua per scendere dal livello superiore a quello$
+inferiore, durante lo svuotamento. Organizzatevi per acquisire il maggior numero possibile di misure manuali$
+indipendenti (diciamo parecchie {\itshape centinaia}) in un tempo accettabile. Per riuscirci sarà necessario$
+raccogliere più misure simultanee per ogni singolo svuotamento. Perciò, utilizzate, oltre al cronometro in dotazione$
+del vostro laboratorio, anche i vostri cronometri da polso o i palmari personali.$
+$
+Prima di cominciare la presa dati, verificate le condizioni necessarie per effettuare un'acquisizione coerente$
+ed omogenea:$
+\begin{itemize}$
+\item Discutendo tra voi e con l'insegnate, definite bene le operazioni meccaniche di riempimento, avvio e stop della$
+misura, in modo da sentirvi sicuri di poterle ripetere sempre alo stesso modo con tutta la diligenza possibile;$
+\item Fate una stima grossolana dell'ordine di grandezza del tempo da misurare;$
+\item fate una stima grossolana della variabilità del campione (cioè della differenza che è possibile attendere tra due$
+misure indipendenti);$
+\item Calcolate il rapporto tra la stima di variabilità e la stima del tempo di svuotamento. Per ottenere una curva$
+gaussiana accettabile è importantissimo che questo valore sia sufficientemente piccolo. se non siete soddisfatti,$
+riprogettate il vostro metodo di lavoro studiando degli accorgimenti efficaci per aumentare il tempo di svuotamento o$
+per ridurre la variabilità di acquisizione;$
+\item per semplicità nella trattazione matematica, lavorate con strumenti che abbiano la stessa sensibilità assoluta$
+(sarebbe opportuno il centesimo di secondo), altrimenti, approssimate i valori degli strumenti troppo sensibili.$
+\end{itemize}$
+$
+Raccogliete i dati in sequenza sul quaderno e, contemporaneamente, preparate un foglio di carta millimetrata per$
+istogrammarli immediatamente, durante l'acquisizione. Eventualmente, fate uso di strumenti elettronici.$
+$
+Un istogramma di frequenza riporta in ascissa i valori misurati e in ordinata le frequenze per ogni singolo intervallo$
+di campionamento. Dall'osservazione dell'istogramma emerge il risultato della misura. Sebbene tutte le vostre$
+misure fossero indipendenti tra loro e affette da errori casuali, sui quali non potevate esercitare alcun controllo, vi$
+accorgerete che la distribuzione dei dati non risulta ugualmente causale. Infatti, vi sembrerà di osservare una curva$
+caratterizzata da:$
+\begin{itemize}$
+\item una particolare forma a campana, molto riconoscibile;$
+\item un picco che corrisponde abbastanza bene alla vostra stima iniziale;$
+\item due code simmetriche e molto basse, che si prolungano (idealmente) verso l'infinito.$
+\end{itemize}$
+Misurate la larghezza della campana a metà altezza. All'interno, dovreste raccogliere la maggior parte dei vostri dati.$
+$
+In una curva gaussian\footnote{\url{http://it.wikipedia.org/wiki/Gaussiana}} l'ascissa del picco viene assunta come$
+valore centrale della misura (indichiamolo con \begin{math}\mu\end{math}), e la larghezza a metà altezza$
+(\begin{math}\sigma\end{math}) come stima dell'errore. Il vostro profilo sperimentale, inoltre, dovrebbe assomigliare$
+molto a questa funzione matematica, che descrive la probabilità di ottenere un valore \begin{math}x\end{math} diverso$
+dal valor medio:$
+\begin{equation}$
+P(x)~=~\frac{1}{\sqrt{2\pi\sigma^2}}e^{-\frac{{x-\mu}^2}{2\sigma^2}}$
+\end{equation}$
+$
+Se ciò non fosse, dovreste ripensare un po' meglio ai vostri dati. Si possono presumere due cose situazioni diversi:$
+\begin{itemize}$
+\item la vostra distribuzione non assomiglia affatto a  quella descritta;$
+\item la vostra distribuzione assomiglia abbastanza a quella descritta, ma avete l'impressione che qualche singola$
+misura si discosti un po' troppo.$
+\end{itemize}$
+Nel primo caso significa che il vostro modo di lavorare (o l'esperimento in sé) nono sono descritti bene dalla$
+matematica proposta in questa attività. Nel secondo, date un occhio ai dati che si collocano nelle code della$
+gaussiana, molto lontano dal valore centrale.$
+La probabilità che una misura sperimentale si discosti dal valore centrale più di \begin{math} 3 \sigma\end{math} è$
+circa di 3 casi su$
+mille\footnote{$
+\url{http://it.wikipedia.org/wiki/Funzione_di_ripartizione_della_variabile_casuale_normale}$
+}$
+. Se vi risulta di avere ottenuto un numero troppo elevato di eventi di coda,$
+rispetto al numero$
+dei dati raccolti, potete scartare i dati troppo lontani, e ricalcolare il valor medio e l'errore associato.$

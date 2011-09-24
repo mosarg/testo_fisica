@@ -1,0 +1,118 @@
+\subsubsection*{Le cifre significative e la notazione scientifica}$
+Un cubetto di rame di un centimetro cubo contiene, allineati in modo regolare su ciascuno spigolo, cento milioni di$
+atomi. In tutto, sono 1000000000000000000000000 atomi. Ciascuno di essi occupa un volume di $
+0,000000000000000000000000000001 \begin{math}m^3\end{math}.$
+$
+La fisica si interessa di fenomeni molto piccoli e di fenomeni molto grandi, e ha la necessità di scriverli in un modo$
+espressivamente efficace. Come nei due esempi qui sopra, la notazione decimale è particolarmente scomoda, appena si$
+evade dall'uso quotidiano dei prezzi al supermercato o dei problemi didattici dei nostri libri di testo. Già i$
+matematici, quando incontrano un numero importante, sono abituati a sostituirlo con un simbolo, perché la notazione$
+decimale è troppo pesante e di scarso interesse.$
+$
+In fisica, un numero deve contemporaneamente, essere facile da leggere, da capire e da usare per scopi {\slshape$
+operativi}. Per questo, è necessario distinguere, nella scrittura, le parti importanti da quelle trascurabili,$
+attraverso un insieme di convenzioni e regole specifiche.$
+\newline$
+$
+Un primo problema, è quello di trovare una convenzione capcae di incorporare l'errore nella scrittura del risultato.$
+$
+In precedenza, infatti, abbiamo descritto il metodo della forchetta, che è sicuramente il modo più efficace e corretto$
+di separare la stima del valor vero di una misura dall'errore associato. In certe situazioni, quando non serve essere$
+troppo rigorosi, si preferisce usare la convenzione delle cifre significative. Nell'esposizione di un$
+risultato\footnote{in notazione decimale} si scrivono solo quelle parti del numero che si ritiene di avere misurato con$
+sicurezza.$
+\newline$
+$
+Supponiamo di effettuare una misura di lunghezza con un righello da cartoleria.$
+In questo caso la precisione della misura è pari al passo del righello, cioè un$
+millimetro. Allora indicheremo il risultato in questo modo:$
+\begin{center}$
+	\begin{math}$
+      		L_{righello}\;=~12,5~cm$
+	\end{math}$
+		oppure$
+	\begin{math}$
+		L_{righello}~125~mm$
+	\end{math}$
+\end{center}$
+Se, successivamente, dovessimo rivalutare la stessa misura con l'uso di un$
+calibro, e se ottenessimo esattamente lo stesso risultato, lo dovremmo scrivere$
+in un modo diverso, evidenziando la maggir precisione:$
+$
+\begin{center}$
+	\begin{math}$
+		L_{calibro}~=~12,50~cm$
+	\end{math}$
+		oppure$
+	\begin{math}$
+		L_{calibro}~= ~ 125,0~ mm$
+	\end{math}$
+\end{center}$
+$
+Un riferimento di buona qualità, per approfondire il concetto di cifre significative e per fare$
+qualche esercizio, si può trovare all'interno del sito web dell'Università di Messina\footnote{$
+\url{http://ww2.unime.it/cclchim/generale/significative.htm}}$
+\newline$
+$
+Un secondo problema, legato alla scrittura di un numero, è quello di trasmettere a prima vista la percezione della$
+dimensione, affinchè sia possibile confrontarlo rapidamente con altri numeri più grndi o più piccoli. Il volume di un$
+atomo, ad esempio, non deve {\bf mai} essere scritto come abbiamo fatto sopra, altrimenti risulta impossibile sia da$
+leggere che da usare.$
+Una tecnica molto utile è la {\bf notazione scientifica}. Ogni numero viene separato in due parti. La più importante è$
+senz'altro l'ordine di grandezza. Lo spazio occupato da un atomo in un reticolo cristallino, ad esempio, diventa$
+semplicemente \begin{math}10^{-30}~m^3\end{math} e la densità degli atomi sarà di \begin{math}10^{24}$
+atomi/cm^3\end{math}.$
+$
+In questi esempi, gli zeri non sono cifre significative. Invece di scriverli tutti, è molto meglio contarli!$
+\newline$
+$
+Consideriamo ora un esempio di come l'uso della notazione scientifica permette di superare alcune ambiguità che la$
+notazione decimale lascerebbe irrisolte, nell'indicazione delle cifre significative.$
+\newline$
+$
+Immaginiamo di misurare$
+a passi la lunghezza di un campo di calcio. Supponiamo di avere misurato 100$
+passi e che un singolo passo possa essere stimato uguale a 1,1 metri, con una$
+precisione intorno al 10\%. Esprimendo il risultato con una forchetta potremmo$
+scrivere:$
+$
+\begin{center}$
+	\begin{math}$
+		100~m~ <~ L~ <~ 120~ m$
+	\end{math}$
+\end{center}$
+Per come è stato posto il problema, noi siamo in grado di riconoscere, nella lunghezza del campo, i decametri, ma non i$
+metri. Se esprimiamo il risulato in metri, con la notazione decimale, le prime due cifre sono significative e la terza$
+no.$
+$
+Se usiamo la notazione decimale, scrivendo \(L~= ~ 110~ m\), siamo costretti ad utilizare una cifra$
+significativa in più del necessario e quindi dichiariamo un risultato {\slshape gravemente} (sic!)$
+errato.$
+\newline$
+$
+ Per evitare questo problema, esistono essenzialmente due modi:$
+$
+\begin{itemize}$
+\item Rinunciare all'uso del metro come unità di misura, sostituendo con un$
+multiplo adeguato. Per esempio:$
+$
+\begin{center}$
+	\begin{math}$
+		L~ = ~ 0,11~ km$
+	\end{math}$
+\end{center}$
+\item Usare la notazione scientifica, scrivendo:$
+\begin{center}$
+	\begin{math}$
+		L~ = ~11~ *~ 10^1~ m$
+	\end{math}$
+\end{center}$
+\end{itemize}$
+$
+Per approfondire il concetto di$
+notazione scientifica potete trovare moltissimi riferimenti. Proviamo qui a indicare la definizione di {\itshape$
+\href{http://www.wikipedia.org/wiki/Notazione_scientifica}{wikipedia}} e$
+discutetela con l'insegnante\footnote{n.d.a: per la verità, a tutto il 3 luglio 2011, quella defizione$
+\`e piuttosto carente. Ne proponiamo la lettura perché, a nostro parere dovebbe essere rivista da qualche studente di$
+buona$
+volontà.}.$
