@@ -1,10 +1,10 @@
 texDir=tex
 pdfDir=pdf
-all : $(pdfDir)/loSpazio.pdf clean
 
+all : $(pdfDir)/loSpazioTraGeometriaEFisica.pdf clean
 .PHONY: all
 .ONESHELL:
-$(pdfDir)/loSpazio.pdf: $(texDir)/*.tex
+$(pdfDir)/loSpazioTraGeometriaEFisica.pdf: $(texDir)/*.tex
 	export TEXINPUTS="../$(texDir):"
 	cd $(pdfDir) 
 	pdflatex main

@@ -1,0 +1,73 @@
+\subsubsection*{Le direzioni e le rette}
+
+Un'operazione molto importante, per muoversi nello spazio, è saper controllare la direzioni.\newline
+Come esercizio introduttivo, cominciamo a rappresentare sul piano cartesiano una successione di punti con la procedura sotto descritta:
+\begin{enumerate}
+\item {Scegliamo un punto iniziale a piacere. Per esempio il punto $\mathbf {(-2;-5)}$;}
+\item {Partendo dal punto precedente, spostiamoci di due unità in orizzontale, senza segnare alcun punto;}
+\item {Di seguito, spostiamoci di tre unità orizzontale e segniamo un secondo punto;}
+\item {ritorniamo al punto 2.}
+\end{enumerate}
+Sarà facile verificare che, in questo modo, si ottiene una successione di punti allineati lungo una retta.\newline
+
+Perché è accaduto così? In verità, non si è trattato di un caso, ma di un fenomeno ben riproducibile.\newline
+Tracciate infatti una retta inclinata su un foglio bianco, ben squadrato.\newline
+Contrassegnate, su questa retta, cinque o sei punti, non necessariamente equidistanti e nominateli indicizzandoli opportunamente \footnote{chiamateli ad esempio $P_1=(x_1;y_1),P_2=(x_2;y_1),...$ }.\newline
+Scegliete tre o quattro coppie di questi punti, non necessariamente consecutivi.\newline
+Per ogni coppia di punti, costruite dei triangoli rettangoli, con i cateti paralleli ai bordi del foglio e l'ipotenusa aderente alla retta data.
+
+Vi accorgerete facilmente di aver rappresentato una famiglia di triangoli simili.\newline
+Chiamate $\Delta x_i$ i cateti orizzontali di ciascun triangolo e $\Delta y_i$ i corrispondenti cateti verticali.
+Se conoscete le proprietà dei triangoli simili, potrete dedurre facilmente che risulta:
+\begin{center}
+\begin{math}
+\frac{\Delta y_1}{\Delta x_1} = \frac{\Delta y_2}{\Delta x_2} = ...
+\end{math}
+\end{center}
+
+Questo significa che il rapporto $\frac{\Delta y}{\Delta x}$ è una {\bfseries \slshape {propietà della retta}}.
+Per questa ragione, viene chiamato {\bfseries coefficiente angolare} e frequentemente indicato con la lettera {\slshape m}:
+\begin{center}
+\begin{equation}
+m = \frac{\Delta y}{\Delta x}
+\end{equation}
+\end{center}
+
+Come esercizio, provate a generare una successione di rette con la tecnica indicata all'inizio di questo parametro e a valutare il corrispondente coefficiente angolare.\newline
+Provate anche a tracciare alcune rette con valori predeterminati di {\slshape m}. Per esempio: {\slshape m} $= 1$ {\slshape m}$ = 2$, {\slshape m} $= 3$, {\slshape m}$ = -2$.\newline
+Cosa potete osservare?
+\newline
+
+Cerchiamo ora di raccogliere in un modo sistematico le conoscenze fin qui acquisite.
+\newline
+Osserviamo, innanzitutto che, per determinare una retta, è sufficiente conoscere un suo punto, che possiamo chiamare $\mathbf {(x_0;y_0)}$ e il coefficiente angolare $\mathbf m$.
+\newline
+Desideriamo trovare un metodo automatico per individuare ogni altro punto della retta.
+\newline
+
+Riscriviamo in questo modo il concetto di coefficiente angolare:
+\newline
+\begin{center}
+\begin{math}
+\Delta_y = m \Delta_x
+\end{math}
+\end{center}
+Ora, per ogni punto generico $P = (x;y)$ della retta data, risulta:
+\begin{center}
+\begin{math}
+\Delta_y = y - y_0
+\end{math}
+\end{center}
+
+\begin{center}
+\begin{math}
+\Delta_x = x - x_0
+\end{math}
+\end{center}
+Quindi:
+\begin{center}
+\begin{equation}\label{eq:equazioneDellaRetta}
+y = y_0 + m \Delta_x
+\end{equation}
+\end{center}
+Quest'ultima espressione è detta equazione della retta e permette di ricavare l'ordinata di ciascun punto in funzione della propria ascissa.
