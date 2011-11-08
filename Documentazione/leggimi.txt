@@ -1,0 +1,2 @@
+Tutte le mappe concettuali sono state realizzate utilizzando il software
+open source Vue http://vue.tufts.edu/
