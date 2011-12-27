@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.9.25)  6 NOV 2011 21:19
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.11.4)  27 DEC 2011 14:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -576,13 +576,94 @@ Underfull \hbox (badness 10000) in paragraph at lines 128--130
 
  []
 
+) (../tex/velocitaETempo.tex
+(/usr/share/texmf-dist/tex/latex/ucs/data/uni-32.def
+File: uni-32.def 2004/10/17 UCS: Unicode data U+2000..U+20FF
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 34.
- [4 <../immagini/podista2.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 34.
- (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 34.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 34.
+Underfull \hbox (badness 10000) in paragraph at lines 3--10
+
+ []
+
+[4 <../immagini/podista2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 11--14
+
+ []
+
+<../immagini/velocitaCostante.jpeg, id=47, 235.63031pt x 134.75343pt>
+File: ../immagini/velocitaCostante.jpeg Graphic file (type jpg)
+
+<use ../immagini/velocitaCostante.jpeg>
+Package pdftex.def Info: ../immagini/velocitaCostante.jpeg used on input line 2
+1.
+(pdftex.def)             Requested size: 241.49895pt x 138.11081pt.
+
+<../immagini/spazioSottoIlGrafico_v-t.jpeg, id=48, 233.37187pt x 138.5175pt>
+File: ../immagini/spazioSottoIlGrafico_v-t.jpeg Graphic file (type jpg)
+
+<use ../immagini/spazioSottoIlGrafico_v-t.jpeg>
+Package pdftex.def Info: ../immagini/spazioSottoIlGrafico_v-t.jpeg used on inpu
+t line 36.
+(pdftex.def)             Requested size: 241.49895pt x 143.34673pt.
+ [5 <../immagini/velocitaCostante.jpeg>]) (../tex/velocitaIstantanea.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--15
+
+ []
+
+[6 <../immagini/spazioSottoIlGrafico_v-t.jpeg>]
+<../immagini/frenataUniforme.jpeg, id=60, 241.65282pt x 140.02313pt>
+File: ../immagini/frenataUniforme.jpeg Graphic file (type jpg)
+
+<use ../immagini/frenataUniforme.jpeg>
+Package pdftex.def Info: ../immagini/frenataUniforme.jpeg used on input line 24
+.
+(pdftex.def)             Requested size: 241.49895pt x 139.93945pt.
+
+<../immagini/scaletta.jpeg, id=61, 238.64156pt x 142.28156pt>
+File: ../immagini/scaletta.jpeg Graphic file (type jpg)
+
+<use ../immagini/scaletta.jpeg>
+Package pdftex.def Info: ../immagini/scaletta.jpeg used on input line 33.
+(pdftex.def)             Requested size: 241.49895pt x 143.98329pt.
+ [7 <../immagini/frenataUniforme.jpeg>]
+Underfull \hbox (badness 10000) in paragraph at lines 38--40
+
+ []
+
+<../immagini/curvaSpazioTempo.jpeg, id=67, 234.1247pt x 138.5175pt>
+File: ../immagini/curvaSpazioTempo.jpeg Graphic file (type jpg)
+
+<use ../immagini/curvaSpazioTempo.jpeg>
+Package pdftex.def Info: ../immagini/curvaSpazioTempo.jpeg used on input line 4
+5.
+(pdftex.def)             Requested size: 241.49895pt x 142.88808pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--53
+
+ []
+
+[8 <../immagini/scaletta.jpeg> <../immagini/curvaSpazioTempo.jpeg>])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 36.
+ [9]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 36.
+
+(./main.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 36.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 36.
 
 
 Package rerunfilecheck Warning: File `main.out' has changed.
@@ -595,16 +676,16 @@ Package rerunfilecheck Info: Checksums for `main.out':
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 34.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 36.
  ) 
 Here is how much of TeX's memory you used:
- 9250 strings out of 494779
- 136359 string characters out of 3177698
+ 9539 strings out of 494779
+ 140236 string characters out of 3177698
  230124 words of memory out of 3000000
- 12301 multiletter control sequences out of 15000+200000
- 10668 words of font info for 41 fonts, out of 3000000 for 9000
+ 12566 multiletter control sequences out of 15000+200000
+ 11021 words of font info for 42 fonts, out of 3000000 for 9000
  220 hyphenation exceptions out of 8191
- 36i,8n,38p,640b,481s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 36i,8n,38p,644b,481s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmbxsl10.pfb></usr/share/texmf-dist/fonts/type1/pub
@@ -613,13 +694,14 @@ m/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
 sr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texmf-d
 ist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texmf-dist/fonts/type1/
 public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl8.pfb></u
-sr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf
--dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on main.pdf (4 pages, 214182 bytes).
+cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></
+usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl8.pfb></usr/share/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmsy7.pfb>
+Output written on main.pdf (9 pages, 284330 bytes).
 PDF statistics:
- 92 PDF objects out of 1000 (max. 8388607)
- 67 compressed objects within 1 object stream
- 11 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 129 PDF objects out of 1000 (max. 8388607)
+ 93 compressed objects within 1 object stream
+ 19 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
