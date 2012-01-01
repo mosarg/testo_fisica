@@ -10,7 +10,8 @@
 .~*
 *.jpg
 *.png
-*.pdf
+impara_latex.pdf
+itlshort.pdf
 *.aux
 *.log
 *.backup
