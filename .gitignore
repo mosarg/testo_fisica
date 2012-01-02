@@ -8,8 +8,8 @@
 *.[oa]
 *~
 .~*
-*.jpg
-*.png
+#*.jpg
+#*.png
 impara_latex.pdf
 itlshort.pdf
 *.aux
